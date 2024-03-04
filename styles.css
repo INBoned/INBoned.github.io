@@ -1,0 +1,2113 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Para evitar la barra de desplazamiento horizontal */
+}
+h1{
+    font-size: 15px;
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+}
+
+#inicio{
+    font-family: 'Varela Round', sans-serif;
+    border-radius: 5px;
+    background-color: transparent;
+        border: none;
+        color: white;
+        font-size: 15px;
+        margin-right: 5px;
+
+}
+    #inicio i:hover{
+        color: #0167AB;
+        transform: scale(1.3);
+    }
+
+/* .search-container { */
+    /* color: black;
+    position: sticky;
+    top: 0; */
+    /* background-color: white; */
+   /*  z-index: 1000; */ /* Asegura que esté por encima de otros elementos */
+    /* padding: 10px;
+    border-bottom: 1px solid #ddd; */ /* Agrega un borde inferior */
+    /* position: sticky;
+    z-index: 1000; */
+    
+
+    #buscador{
+        background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+        position: sticky;
+        top: 0;
+        margin: 0;
+        height: 40px;
+        width: 100%;
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .search-container {
+        position: relative;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    #limpiar{
+        display: none;
+    }
+
+    #barraBuscar{
+        position: relative;
+        width: 150px;
+        height:  26px;
+        display: flex;
+        align-items: center;
+        margin-right: 5px;
+    }
+
+    #siguiente{
+        cursor:pointer;
+        border-radius: 100%;
+        width: 25px;
+        height: 25px;
+        margin-right: 5px;
+        background-color: transparent;
+        border: none;
+    }
+    #siguiente i {
+        font-size: 12px;
+        color: yellow;
+    
+    }
+    
+    
+    #siguiente i:hover{
+        color: #0167AB;
+        transform: scale(1.3);
+    }
+    #anterior{
+        cursor:pointer;
+        border-radius: 100%;
+        width: 25px;
+        height: 25px;
+        margin-right: 5px;
+        background-color: transparent;
+        border: none;
+    }
+    #anterior i {
+        font-size: 12px;
+        color: yellow;
+    
+    }
+    
+    
+    #anterior i:hover{
+        color: #0167AB;
+        transform: scale(1.3);
+    }
+
+    input {
+        
+        box-sizing: border-box;
+        height: 100%;
+        left: 0;
+        width: 100%;
+        padding: 0 10px;
+        color: #000;
+        border-radius: 50px;
+        font-size: 15px;
+        border: none;
+        font-family: 'Varela Round', sans-serif;
+    }
+    
+    ::placeholder {
+        color: grey;
+        font-size: 12px;
+        font-family: 'Varela Round', sans-serif;
+        line-height: 20%;
+    }
+    
+    .btn {
+        position: absolute;
+        right: 3px;
+        background-color: transparent;
+        border: none;
+        text-align: center;
+        cursor: pointer;
+        transition: .5s;
+        display: flex;
+        align-items: center;
+        /* transform: translate(-225px); */
+    }
+    
+    #limpiar {
+        position: absolute;
+        right: 25px;
+        
+        width: 20x;
+        height: 20px;
+        background: transparent;
+        border: none;
+        border-radius: 50%;
+        text-align: center;
+        cursor: pointer;
+        display: none;
+        /* transform: translate(-225px); */
+    }
+
+    #limpiar i{
+        font-size: 12px;
+        color: rgb(122, 122, 122); 
+    }
+    .btn i {
+        font-size: 12px;
+        color: blue;
+    
+    }
+    
+    
+    .btn i:hover{
+        color: #0167AB;
+        transform: scale(1.3);
+    }
+    
+
+
+
+
+
+.contenedorModal{
+    background-color: #2521E9;
+    width: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 3%;
+
+}
+
+#noExiste {
+    font-family: 'Fredoka', sans-serif;
+    font-size: 20px;
+    font-weight: 550;
+    color: white;
+}
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+}
+
+.modal-content {
+    border-radius: 3%;
+    background-color: #fefefe;
+    margin: 15% auto;
+    /* padding: 20px; */
+    
+    /* border: 1px solid #888; */
+    width: 60%;
+    object-fit: contain;
+}
+
+/* Botón para cerrar el modal */
+.close {
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    border-color: rgba(69, 65, 255, 1);
+    /* float: right; */
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+body,
+html {
+  width: 100%;
+  height: auto;
+}
+
+.imagen_flotando{
+    width: 5dvb;
+    height: 5dvb;
+}
+
+
+#medicamentos{
+    position: relative;
+    overflow: hidden;
+}
+
+
+  
+.ocultarnutria{
+    display: none;
+}
+
+.nutria{
+    width: 13%;
+    height: auto;
+    position: absolute;
+    right: -30px;
+    bottom: 10%;
+    z-index: 999;
+}
+
+
+@keyframes rebote {
+    0%, 100% {
+      transform: translateX(30px);
+    }
+    40% {
+      transform: translateX(-110px); /* Altura del rebote */
+    }
+    60% {
+        transform: translateX(-110px); /* Altura del rebote */
+      }
+  }
+
+  @keyframes flotar {
+    0%, 100% {
+      transform: translateX(30px);
+    }
+    50% {
+      transform: translate(-600px,-400px); /* Altura del rebote */
+    }
+    
+  }
+/*CONTENDEDOR DEL LABORATORIO*/
+.laboratory-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+    flex-direction: column;
+    margin-bottom: 3%;
+    position: relative;
+    overflow: hidden;
+}
+
+.medicamento{
+    border-radius: 5%;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+    /*IMAGEN DEL LABORATORIO*/
+    .image-container {
+        /* Estilos del contenedor de la imagen */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        min-height: 50px; /* Altura mínima de la imagen del laboratorio */
+        height: 15vw;  /* Altura de la imagen del laboratorio */
+    }
+
+        /*CONTENEDOR PARA LOS PRODUCTOS*/
+        .row-container {
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: space-between;
+            margin-top: 10px;
+        }
+            
+            @media (max-width: 400px) {
+                /* Estilos para pantallas con ancho máximo de 600px */
+                 /*LINEA DEL LABORATORIO*/
+                .cintaLinea {
+                    font-family: 'Varela Round', sans-serif;
+                    background-color: rgba(255, 96, 96, 1);
+                    color: white;
+                    padding-top: 3px;
+                    padding-bottom: 2px;
+                    padding-left: 10px; /* Espaciado interno */
+                    /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                    border-radius: 5px; /* Bordes redondeados */
+                    margin-bottom: 10px; /* Espacio entre líneas */
+                    font-size: 10px;
+                
+                }
+                .medicamento {
+                    padding: 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    background-color: transparent;
+                    width: 208px;
+                    width: 42%;
+                    height: 110px;
+                }
+                .producto-nombre {
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    color: white;
+                    border-radius: 5px;
+                    font-size: 50%;
+                    text-align: center;
+                    
+                    text-transform: uppercase;
+                    margin-top: 2px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 5px;
+                    padding-right: 5px;
+                }
+                
+                /*PRECIO*/
+                .precio{
+                    position: absolute;
+                    font-family: "Righteous", sans-serif;
+                    color: white;
+                    top: 3px;
+                    left: 5px;
+                    padding: 2px 5px;
+                    border-radius: 5px;
+                    font-size: 12px;
+                    z-index: 1;
+                }
+                #globo_precio{
+                    width: 35%;
+                    height: auto;
+                    position: absolute;
+                    top: 3px;
+                    left: 3px;
+                    z-index: 0;
+                }
+
+                /*INFORMACION DEL PRODUCTO*/
+                .producto-info {
+                    
+                    width: 50%;
+                    height: auto;
+                    position: absolute;
+                    top: 5px;
+                    right: 0;
+                    background-color: rgba(255, 255, 255, 0.8);
+                    padding-bottom: 2px;
+                    padding-left: 3px;
+                    padding-right: 3px;
+                    border-radius: 5px;
+                    z-index: 1;
+                    border-style: dashed; 
+                    border-width: 2px; 
+                    border-color: #9B9B9B;
+                    align-items: center;
+                    display:flex;
+                    flex-direction: column;
+                }
+
+                /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+                .producto-descripcion {   
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    text-transform: uppercase;
+                    font-size: 30%;
+                    overflow: hidden; 
+                    text-align: center;
+                    padding: 2px;
+                    z-index: 3;
+
+                /*  width: 100%;
+                    text-align: center;
+                    font-size: min(5vw, 20px); 
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    text-overflow: ellipsis; */
+                }
+
+                .producto-presentacion {
+                    
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    color: white;
+                    font-size: 30%;
+                    text-transform: uppercase;
+                    text-align: center;
+                    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                    border-radius: 5px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 3px;
+                    padding-right: 3px; 
+                }
+
+
+                /*ESCALA*/
+                #escala{
+                    width: 15%;
+                    height: auto;
+                    position: absolute;
+                    top: auto;
+                    right: 1px;
+                }
+
+                /*PIE DE PAGINA*/
+                .pie_de_pagina{
+                    padding: 10px;
+                    text-align: center;
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    font-size: 10px;
+                }
+
+                #contenerdor_imagen_principal{
+                    
+                    height: 71%;
+                    bottom: 5%;
+                }
+                .medicamento:hover {
+                    transform:scale(1.1);
+                    transition: transform 0.2s ease;
+                    background-color: white;
+                    z-index: 10;
+                }
+            }
+
+            @media (min-width: 401px) and (max-width: 430px) {
+                 /* Estilos para pantallas con ancho máximo de 600px */
+                 /*LINEA DEL LABORATORIO*/
+                 .cintaLinea {
+                    font-family: 'Varela Round', sans-serif;
+                    background-color: rgba(255, 96, 96, 1);
+                    color: white;
+                    padding-top: 3px;
+                    padding-bottom: 2px;
+                    padding-left: 10px; /* Espaciado interno */
+                    /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                    border-radius: 5px; /* Bordes redondeados */
+                    margin-bottom: 10px; /* Espacio entre líneas */
+                    font-size: 14px;
+                
+                }
+                
+                /*PRECIO*/
+                .precio{
+                    position: absolute;
+                    font-family: "Righteous", sans-serif;
+                    color: white;
+                    top: 3px;
+                    left: 5px;
+                    padding: 2px 5px;
+                    border-radius: 5px;
+                    font-size: 14px;
+                    z-index: 1;
+                }
+                #globo_precio{
+                    width: 38%;
+                    height: auto;
+                    position: absolute;
+                    top: 3px;
+                    left: 3px;
+                    z-index: 0;
+                }
+
+                /*INFORMACION DEL PRODUCTO*/
+                .producto-info {
+                    border: 1px solid #ccc;
+                    width: 50%;
+                    height: auto;
+                    position: absolute;
+                    top: 5px;
+                    right: 0;
+                    background-color: rgba(255, 255, 255, 0.8);
+                    padding-bottom: 2px;
+                    padding-left: 3px;
+                    padding-right: 3px;
+                    border-radius: 5px;
+                    z-index: 1;
+                    border-style: dashed; 
+                    border-width: 2px; 
+                    border-color: #9B9B9B;
+                    align-items: center;
+                    display:flex;
+                    flex-direction: column;
+                }
+
+                /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+                .producto-nombre {
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    color: white;
+                    border-radius: 5px;
+                    font-size: 7px;
+                    
+                    text-transform: uppercase;
+                    text-align: center;
+                    margin-top: 4px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 5px;
+                    padding-right: 5px;
+                }
+
+
+                .producto-descripcion {   
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    text-transform: uppercase;
+                    font-size: 6px;
+                    width: 80%;
+                    overflow: hidden; 
+                    text-align: center;
+                    padding: 2px;
+                    z-index: 3;
+
+                /*  width: 100%;
+                    text-align: center;
+                    font-size: min(5vw, 20px); 
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    text-overflow: ellipsis; */
+                }
+
+                .producto-presentacion {
+                    
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    color: white;
+                    font-size: 5px;
+                    width: 70%;
+                    text-transform: uppercase;
+                    text-align: center;
+                    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                    border-radius: 3px;
+                    display: inline-block;
+                    padding: 1px;
+                    padding-left: 3px;
+                    padding-right: 3px; 
+                }
+
+
+                /*ESCALA*/
+                #escala{
+                    width: 15%;
+                    height: auto;
+                    position: absolute;
+                    top: auto;
+                    right: 1px;
+                }
+
+                /*PIE DE PAGINA*/
+                .pie_de_pagina{
+                    padding: 10px;
+                    text-align: center;
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    font-size: 10px;
+                }
+
+                .medicamento {
+                    padding: 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    background-color: transparent;
+                    width: 208px;
+                    width: 42%;
+                    height: 115px;
+                }
+
+                .medicamento:hover {
+                    transform:scale(1.1);
+                    transition: transform 0.2s ease;
+                    background-color: white;
+                    z-index: 10;
+                }
+
+                #contenerdor_imagen_principal{
+                    
+                    height: 70%;
+                    bottom: 5%;
+                }
+            }
+
+            @media (min-width: 431px) and (max-width: 450px) {
+                /* Estilos para pantallas con ancho máximo de 600px */
+                /*LINEA DEL LABORATORIO*/
+                .cintaLinea {
+                   font-family: 'Varela Round', sans-serif;
+                   background-color: rgba(255, 96, 96, 1);
+                   color: white;
+                   padding-top: 3px;
+                   padding-bottom: 2px;
+                   padding-left: 10px; /* Espaciado interno */
+                   /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                   border-radius: 5px; /* Bordes redondeados */
+                   margin-bottom: 10px; /* Espacio entre líneas */
+                   font-size: 14px;
+               
+               }
+               
+               /*PRECIO*/
+               .precio{
+                   position: absolute;
+                   font-family: "Righteous", sans-serif;
+                   color: white;
+                   top: 3%;
+                   left: 5px;
+                   padding: 2px 5px;
+                   border-radius: 5px;
+                   font-size: 14px;
+                   z-index: 1;
+               }
+               #globo_precio{
+                   width: 38%;
+                   height: auto;
+                   position: absolute;
+                   top: 3px;
+                   left: 3px;
+                   z-index: 0;
+               }
+
+               /*INFORMACION DEL PRODUCTO*/
+               .producto-info {
+                   border: 1px solid #ccc;
+                   width: 50%;
+                   height: auto;
+                   position: absolute;
+                   top: 5px;
+                   right: 0;
+                   background-color: rgba(255, 255, 255, 0.8);
+                   padding-bottom: 2px;
+                   padding-left: 1px;
+                   padding-right: 1px;
+                   border-radius: 5px;
+                   z-index: 1;
+                   border-style: dashed; 
+                   border-width: 2px; 
+                   border-color: #9B9B9B;
+                   align-items: center;
+                   display:flex;
+                   flex-direction: column;
+               }
+
+               /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+               .producto-nombre {
+                   font-weight: bold;
+                   font-family: 'Varela Round', sans-serif;
+                   color: white;
+                   border-radius: 5px;
+                   font-size: 7px;
+                   
+                   text-transform: uppercase;
+                   text-align: center;
+                   margin-top: 2px;
+                   display: inline-block;
+                   padding: 2px;
+                   padding-left: 5px;
+                   padding-right: 5px;
+               }
+
+               .producto-descripcion {   
+                   font-weight: bold;
+                   font-family: 'Varela Round', sans-serif;
+                   text-transform: uppercase;
+                   font-size: 6px;
+                   width: 80%;
+                   overflow: hidden; 
+                   text-align: center;
+                   padding: 2px;
+                   z-index: 3;
+
+               /*  width: 100%;
+                   text-align: center;
+                   font-size: min(5vw, 20px); 
+                   white-space: nowrap; 
+                   overflow: hidden;
+                   text-overflow: ellipsis; */
+               }
+
+               .producto-presentacion {
+                   
+                   font-family: 'Varela Round', sans-serif;
+                   font-weight: bold;
+                   color: white;
+                   font-size: 5px;
+                   width: 60%;
+                   text-transform: uppercase;
+                   text-align: center;
+                   background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                   border-radius: 3px;
+                   display: inline-block;
+                   padding: 2px;
+                   padding-left: 3px;
+                   padding-right: 3px; 
+               }
+
+
+               /*ESCALA*/
+               #escala{
+                   width: 15%;
+                   height: auto;
+                   position: absolute;
+                   top: auto;
+                   right: 1px;
+               }
+
+               /*PIE DE PAGINA*/
+               .pie_de_pagina{
+                   padding: 10px;
+                   text-align: center;
+                   font-family: 'Varela Round', sans-serif;
+                   font-weight: bold;
+                   font-size: 10px;
+               }
+
+               .medicamento {
+                   padding: 10px;
+                   margin-left: 5px;
+                   margin-right: 5px;
+                   background-color: transparent;
+                   width: 208px;
+                   width: 42%;
+                   height: 125px;
+               }
+
+               .medicamento:hover {
+                transform:scale(1.1);
+                transition: transform 0.2s ease;
+                background-color: white;
+                z-index: 10;
+            }
+
+               #contenerdor_imagen_principal{
+                   
+                   height: 68%;
+                   bottom: 5%;
+               }
+ 
+           }
+
+            @media (min-width: 451px) and (max-width: 500px) {
+                /* Estilos para pantallas con ancho máximo de 600px */
+                /*LINEA DEL LABORATORIO*/
+                .cintaLinea {
+                   font-family: 'Varela Round', sans-serif;
+                   background-color: rgba(255, 96, 96, 1);
+                   color: white;
+                   padding-top: 3px;
+                   padding-bottom: 2px;
+                   padding-left: 10px; /* Espaciado interno */
+                   /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                   border-radius: 5px; /* Bordes redondeados */
+                   margin-bottom: 10px; /* Espacio entre líneas */
+                   font-size: 14px;
+               
+               }
+               
+               /*PRECIO*/
+               .precio{
+                   position: absolute;
+                   font-family: "Righteous", sans-serif;
+                   color: white;
+                   top: 5px;
+                   left: 5px;
+                   padding: 2px 5px;
+                   border-radius: 5px;
+                   font-size: 14px;
+                   z-index: 1;
+               }
+               #globo_precio{
+                   width: 35%;
+                   height: auto;
+                   position: absolute;
+                   top: 3px;
+                   left: 3px;
+                   z-index: 0;
+               }
+
+               /*INFORMACION DEL PRODUCTO*/
+               .producto-info {
+                   border: 1px solid #ccc;
+                   width: 50%;
+                   height: auto;
+                   position: absolute;
+                   top: 5px;
+                   right: 0;
+                   background-color: rgba(255, 255, 255, 0.8);
+                   padding-bottom: 2px;
+                   padding-left: 3px;
+                   padding-right: 3px;
+                   border-radius: 5px;
+                   z-index: 1;
+                   border-style: dashed; 
+                   border-width: 2px; 
+                   border-color: #9B9B9B;
+                   align-items: center;
+                   display:flex;
+                   flex-direction: column;
+               }
+
+               /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+               .producto-nombre {
+                   font-weight: bold;
+                   font-family: 'Varela Round', sans-serif;
+                   color: white;
+                   border-radius: 5px;
+                   font-size: 9px;
+                   
+                   text-transform: uppercase;
+                   text-align: center;
+                   margin-top: 2px;
+                   display: inline-block;
+                   padding: 2px;
+                   padding-left: 5px;
+                   padding-right: 5px;
+               }
+
+               .producto-descripcion {   
+                   font-weight: bold;
+                   font-family: 'Varela Round', sans-serif;
+                   text-transform: uppercase;
+                   font-size: 7px;
+                   width: 80%;
+                   overflow: hidden; 
+                   text-align: center;
+                   padding: 2px;
+                   z-index: 3;
+
+               /*  width: 100%;
+                   text-align: center;
+                   font-size: min(5vw, 20px); 
+                   white-space: nowrap; 
+                   overflow: hidden;
+                   text-overflow: ellipsis; */
+               }
+
+               .producto-presentacion {
+                   
+                   font-family: 'Varela Round', sans-serif;
+                   font-weight: bold;
+                   color: white;
+                   font-size: 7px;
+                   width: 70%;
+                   text-transform: uppercase;
+                   text-align: center;
+                   background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                   border-radius: 5px;
+                   display: inline-block;
+                   padding: 2px;
+                   padding-left: 3px;
+                   padding-right: 3px; 
+               }
+
+
+               /*ESCALA*/
+               #escala{
+                   width: 15%;
+                   height: auto;
+                   position: absolute;
+                   top: auto;
+                   right: 1px;
+               }
+
+               /*PIE DE PAGINA*/
+               .pie_de_pagina{
+                   padding: 10px;
+                   text-align: center;
+                   font-family: 'Varela Round', sans-serif;
+                   font-weight: bold;
+                   font-size: 10px;
+               }
+
+               .medicamento {
+                   padding: 10px;
+                   margin-left: 5px;
+                   margin-right: 5px;
+                   background-color: transparent;
+                   width: 208px;
+                   width: 42%;
+                   height: 140px;
+               }
+
+               .medicamento:hover {
+                transform:scale(1.1);
+                transition: transform 0.2s ease;
+                background-color: white;
+                z-index: 10;
+            }
+
+               #contenerdor_imagen_principal{
+                   
+                   height: 71%;
+                   bottom: 5%;
+               }
+
+           }
+
+            @media (min-width: 501px) and (max-width: 699px) {
+                /* Estilos para pantallas con ancho máximo de 600px */
+                .cintaLinea {
+                    font-family: 'Varela Round', sans-serif;
+                    background-color: rgba(255, 96, 96, 1);
+                    color: white;
+                    padding: 2px 10px; /* Espaciado interno */
+                    /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                    border-radius: 5px; /* Bordes redondeados */
+                    margin-bottom: 10px; /* Espacio entre líneas */
+                    font-size: 20px;
+                }
+                
+                
+                /*PRECIO*/
+                .precio{
+                    position: absolute;
+                    font-family: "Righteous", sans-serif;
+                    color: white;
+                    top: 5px;
+                    left: 5px;
+                    padding: 2px 5px;
+                    border-radius: 5px;
+                    font-size: 15px;
+                    z-index: 1;
+                }
+                #globo_precio{
+                    width: 35%;
+                    height: auto;
+                    position: absolute;
+                    top: 3px;
+                    left: 3px;
+                    z-index: 0;
+                }
+
+                /*INFORMACION DEL PRODUCTO*/
+                .producto-info {
+                    border: 1px solid #ccc;
+                    width: 50%;
+                    height: auto;
+                    position: absolute;
+                    top: 5px;
+                    right: 0;
+                    background-color: rgba(255, 255, 255, 0.8);
+                    padding-bottom: 5px;
+                    padding-left: 5px;
+                    padding-right: 5px;
+                    border-radius: 5px;
+                    z-index: 1;
+                    border-style: dashed; 
+                    border-width: 2px; 
+                    border-color: #9B9B9B;
+                    align-items: center;
+                    display:flex;
+                    flex-direction: column;
+                }
+
+                .producto-nombre {
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    color: white;
+                    border-radius: 5px;
+                    font-size: 11px;
+                    text-transform: uppercase;
+                    margin-top: 5px;
+                    text-align: center;
+                    
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 5px;
+                    padding-right: 5px;
+                }
+
+                /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+                .producto-descripcion {   
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    text-transform: uppercase;
+                    font-size: 9px;
+                    overflow: hidden; 
+                    text-align: center;
+                    padding: 4px;
+                    z-index: 3;
+
+                /*  width: 100%;
+                    text-align: center;
+                    font-size: min(5vw, 20px); 
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    text-overflow: ellipsis; */
+                }
+
+                .producto-presentacion {
+                    
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    color: white;
+                    font-size: 8px;
+                    text-transform: uppercase;
+                    text-align: center;
+                    
+                   
+                    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                    border-radius: 5px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 5px;
+                    padding-right: 5px; 
+                }
+
+
+                /*ESCALA*/
+                #escala{
+                    width: 20%;
+                    height: auto;
+                    position: absolute;
+                    top: auto;
+                    right: 1px;
+                }
+
+                /*PIE DE PAGINA*/
+                .pie_de_pagina{
+                    padding: 25px;
+                    text-align: center;
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    font-size: 25px;
+                }
+
+                .medicamento {
+                    padding: 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    background-color: transparent;
+                    width: 350px;
+                    width: 46%;
+                    height: 145px;
+                }
+
+                .medicamento:hover {
+                    transform:scale(1.1);
+                    transition: transform 0.2s ease;
+                    background-color: white;
+                    z-index: 10;
+                }
+
+                #contenerdor_imagen_principal{
+                    
+                    height: 71%;
+                    bottom: 5%;
+                }
+
+            }
+
+            @media (min-width: 700px) and (max-width: 800px) {
+                /* Estilos para pantallas con ancho máximo de 600px */
+                .cintaLinea {
+                    font-family: 'Varela Round', sans-serif;
+                    background-color: rgba(255, 96, 96, 1);
+                    color: white;
+                    padding: 2px 10px; /* Espaciado interno */
+                    /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                    border-radius: 5px; /* Bordes redondeados */
+                    margin-bottom: 10px; /* Espacio entre líneas */
+                    font-size: 20px;
+                }
+                .medicamento {
+                    padding: 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    background-color: transparent;
+                    width: 350px;
+                    width: 46%;
+                    height: 225px;
+                }
+                
+                .medicamento:hover {
+                    transform:scale(1.1);
+                    transition: transform 0.2s ease;
+                    background-color: white;
+                    z-index: 10;
+                }
+                /*PRECIO*/
+                .precio{
+                    position: absolute;
+                    font-family: "Righteous", sans-serif;
+                    color: white;
+                    top: 7px;
+                    left: 6px;
+                    padding: 2px 5px;
+                    border-radius: 5px;
+                    font-size: 21px;
+                    z-index: 1;
+                }
+                #globo_precio{
+                    width: 32%;
+                    height: auto;
+                    position: absolute;
+                    top: 3px;
+                    left: 3px;
+                    z-index: 0;
+                }
+
+                /*INFORMACION DEL PRODUCTO*/
+                .producto-info {
+                    border: 1px solid #ccc;
+                    width: 50%;
+                    height: auto;
+                    position: absolute;
+                    top: 5px;
+                    right: 0;
+                    background-color: rgba(255, 255, 255, 0.8);
+                    padding-bottom: 5px;
+                    padding-left: 5px;
+                    padding-right: 5px;
+                    border-radius: 5px;
+                    z-index: 1;
+                    border-style: dashed; 
+                    border-width: 2px; 
+                    border-color: #9B9B9B;
+                    align-items: center;
+                    display:flex;
+                    flex-direction: column;
+                }
+
+                .producto-nombre {
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    color: white;
+                    border-radius: 5px;
+                    font-size: 16px;
+                    text-transform: uppercase;
+                    margin-top: 5px;
+                    text-align: center;
+                    
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 5px;
+                    padding-right: 5px;
+                }
+
+                /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+                .producto-descripcion {   
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    text-transform: uppercase;
+                    font-size: 12px;
+                    overflow: hidden; 
+                    text-align: center;
+                    padding: 4px;
+                    z-index: 3;
+
+                /*  width: 100%;
+                    text-align: center;
+                    font-size: min(5vw, 20px); 
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    text-overflow: ellipsis; */
+                }
+
+                .producto-presentacion {
+                    
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    color: white;
+                    font-size: 12px;
+                    text-transform: uppercase;
+                    text-align: center;
+                    
+                   
+                    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                    border-radius: 5px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 5px;
+                    padding-right: 5px; 
+                }
+
+
+                /*ESCALA*/
+                #escala{
+                    width: 20%;
+                    height: auto;
+                    position: absolute;
+                    top: auto;
+                    right: 1px;
+                }
+
+                /*PIE DE PAGINA*/
+                .pie_de_pagina{
+                    padding: 25px;
+                    text-align: center;
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    font-size: 25px;
+                }
+
+                #contenerdor_imagen_principal{
+                    
+                    height: 73%;
+                    bottom: 5%;
+                }
+                
+            }
+
+            @media (min-width: 801px) and (max-width: 850px) {
+                /* Estilos para pantallas con ancho máximo de 600px */
+                .cintaLinea {
+                    font-family: 'Varela Round', sans-serif;
+                    background-color: rgba(255, 96, 96, 1);
+                    color: white;
+                    padding: 2px 10px; /* Espaciado interno */
+                    /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                    border-radius: 5px; /* Bordes redondeados */
+                    margin-bottom: 10px; /* Espacio entre líneas */
+                    font-size: 20px;
+                }
+                .medicamento {
+                    padding: 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    background-color: transparent;
+                    width: 350px;
+                    width: 46%;
+                    height: 246px;
+                }
+                
+                .medicamento:hover {
+                    transform:scale(1.1);
+                    transition: transform 0.2s ease;
+                    background-color: white;
+                    z-index: 10;
+                }
+                /*PRECIO*/
+                .precio{
+                    position: absolute;
+                    font-family: "Righteous", sans-serif;
+                    color: white;
+                    top: 7px;
+                    left: 6px;
+                    padding: 2px 5px;
+                    border-radius: 5px;
+                    font-size: 24px;
+                    z-index: 1;
+                }
+                #globo_precio{
+                    width: 32%;
+                    height: auto;
+                    position: absolute;
+                    top: 3px;
+                    left: 3px;
+                    z-index: 0;
+                }
+
+                /*INFORMACION DEL PRODUCTO*/
+                .producto-info {
+                    border: 1px solid #ccc;
+                    width: 50%;
+                    height: auto;
+                    position: absolute;
+                    top: 5px;
+                    right: 0;
+                    background-color: rgba(255, 255, 255, 0.8);
+                    padding-bottom: 5px;
+                    padding-left: 5px;
+                    padding-right: 5px;
+                    border-radius: 5px;
+                    z-index: 1;
+                    border-style: dashed; 
+                    border-width: 2px; 
+                    border-color: #9B9B9B;
+                    align-items: center;
+                    display:flex;
+                    flex-direction: column;
+                }
+
+                .producto-nombre {
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    color: white;
+                    border-radius: 5px;
+                    font-size: 16px;
+                    text-transform: uppercase;
+                    margin-top: 5px;
+                    text-align: center;
+                    
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 5px;
+                    padding-right: 5px;
+                }
+
+                /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+                .producto-descripcion {   
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    text-transform: uppercase;
+                    font-size: 15px;
+                    overflow: hidden; 
+                    text-align: center;
+                    padding: 4px;
+                    z-index: 3;
+
+                /*  width: 100%;
+                    text-align: center;
+                    font-size: min(5vw, 20px); 
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    text-overflow: ellipsis; */
+                }
+
+                .producto-presentacion {
+                    
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    color: white;
+                    font-size: 14px;
+                    text-transform: uppercase;
+                    text-align: center;
+                    width: 60%;
+                    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                    border-radius: 5px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 5px;
+                    padding-right: 5px; 
+                }
+
+
+                /*ESCALA*/
+                #escala{
+                    width: 20%;
+                    height: auto;
+                    position: absolute;
+                    top: auto;
+                    right: 1px;
+                }
+
+                /*PIE DE PAGINA*/
+                .pie_de_pagina{
+                    padding: 25px;
+                    text-align: center;
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    font-size: 25px;
+                }
+
+                #contenerdor_imagen_principal{
+                    
+                    height: 73%;
+                    bottom: 5%;
+                }
+
+            }
+
+            @media (min-width: 851px) and (max-width: 900px){
+                /* Estilos para pantallas con ancho máximo de 600px */
+                .cintaLinea {
+                    font-family: 'Varela Round', sans-serif;
+                    background-color: rgba(255, 96, 96, 1);
+                    color: white;
+                    padding-top: 3px;
+                    padding-bottom: 2px;/* Espaciado interno */
+                    /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                    border-radius: 5px; /* Bordes redondeados */
+                    margin-bottom: 20px;
+                    margin-top: 5px; /* Espacio entre líneas */
+                    font-size: 28px;
+                }
+                
+                
+                /*PRECIO*/
+                .precio{
+                    position: absolute;
+                    font-family: "Righteous", sans-serif;
+                    color: white;
+                    top: 8px;
+                    left: 8px;
+                    padding: 2px 5px;
+                    border-radius: 5px;
+                    font-size: 26px;
+                    z-index: 1;
+                }
+                #globo_precio{
+                    width: 34%;
+                    height: auto;
+                    position: absolute;
+                    top: 3px;
+                    left: 3px;
+                    z-index: 0;
+                }
+
+                /*INFORMACION DEL PRODUCTO*/
+                .producto-info {
+                    border: 1px solid #ccc;
+                    width: 50%;
+                    height: auto;
+                    position: absolute;
+                    top: 5px;
+                    right: 0;
+                    background-color: rgba(255, 255, 255, 0.8);
+                    padding-bottom: 10px;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    border-radius: 10px;
+                    z-index: 1;
+                    border-style: dashed; 
+                    border-width: 4px; 
+                    border-color: #9B9B9B;
+                    align-items: center;
+                    display:flex;
+                    flex-direction: column;
+                }
+
+                .producto-nombre {
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    color: white;
+                    border-radius: 8px;
+                    font-size: 135%;
+                    text-align: center;
+                    
+                    text-transform: uppercase;
+                    margin-top: 8px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                }
+
+                /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+                .producto-descripcion {   
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    text-transform: uppercase;
+                    font-size: 100%;
+                    overflow: hidden; 
+                    text-align: center;
+                    padding: 8px;
+                    z-index: 3;
+
+                /*  width: 100%;
+                    text-align: center;
+                    font-size: min(5vw, 20px); 
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    text-overflow: ellipsis; */
+                }
+
+                .producto-presentacion {
+                    
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    color: white;
+                    font-size: 90%;
+                    text-transform: uppercase;
+                    text-align: center;
+                    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                    border-radius: 10px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 10px;
+                    padding-right: 10px; 
+                }
+
+
+                /*ESCALA*/
+                #escala{
+                    width: 20%;
+                    height: auto;
+                    position: absolute;
+                    top: auto;
+                    right: 1px;
+                }
+
+                /*PIE DE PAGINA*/
+                .pie_de_pagina{
+                    padding: 50px;
+                    text-align: center;
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    font-size: 40px;
+                }
+
+                #contenerdor_imagen_principal{
+                    
+                    height: 73%;
+                    bottom: 5%;
+                }
+                
+                .medicamento {
+                    padding: 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    background-color: transparent;
+                    width: 350px;
+                    width: 47.5%;
+                    height: 270px;
+                }
+                .medicamento:hover {
+                    transform:scale(1.1);
+                    transition: transform 0.2s ease;
+                    background-color: white;
+                    z-index: 10;
+                }
+            }
+
+            @media (min-width: 901px) and (max-width: 1024px){
+                /* Estilos para pantallas con ancho máximo de 600px */
+                .cintaLinea {
+                    font-family: 'Varela Round', sans-serif;
+                    background-color: rgba(255, 96, 96, 1);
+                    color: white;
+                    padding-top: 3px;
+                    padding-bottom: 2px;/* Espaciado interno */
+                    /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                    border-radius: 5px; /* Bordes redondeados */
+                    margin-bottom: 20px;
+                    margin-top: 5px; /* Espacio entre líneas */
+                    font-size: 28px;
+                }
+                
+                
+                /*PRECIO*/
+                .precio{
+                    position: absolute;
+                    font-family: "Righteous", sans-serif;
+                    color: white;
+                    top: 8px;
+                    left: 8px;
+                    padding: 2px 5px;
+                    border-radius: 5px;
+                    font-size: 30px;
+                    z-index: 1;
+                }
+                #globo_precio{
+                    width: 32%;
+                    height: auto;
+                    position: absolute;
+                    top: 3px;
+                    left: 3px;
+                    z-index: 0;
+                }
+
+                /*INFORMACION DEL PRODUCTO*/
+                .producto-info {
+                    border: 1px solid #ccc;
+                    width: 50%;
+                    height: auto;
+                    position: absolute;
+                    top: 5px;
+                    right: 0;
+                    background-color: rgba(255, 255, 255, 0.8);
+                    padding-bottom: 10px;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    border-radius: 10px;
+                    z-index: 1;
+                    border-style: dashed; 
+                    border-width: 4px; 
+                    border-color: #9B9B9B;
+                    align-items: center;
+                    display:flex;
+                    flex-direction: column;
+                }
+
+                .producto-nombre {
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    color: white;
+                    border-radius: 8px;
+                    font-size: 140%;
+
+                    text-align: center;
+                    text-transform: uppercase;
+                    margin-top: 8px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                }
+
+                /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+                .producto-descripcion {   
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    text-transform: uppercase;
+                    font-size: 110%;
+                    overflow: hidden; 
+                    text-align: center;
+                    padding: 8px;
+                    z-index: 3;
+
+                /*  width: 100%;
+                    text-align: center;
+                    font-size: min(5vw, 20px); 
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    text-overflow: ellipsis; */
+                }
+
+                .producto-presentacion {
+                    
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    color: white;
+                    font-size: 95%;
+                    text-transform: uppercase;
+                    text-align: center;
+                    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                    border-radius: 10px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 10px;
+                    padding-right: 10px; 
+                }
+
+
+
+                /*ESCALA*/
+                #escala{
+                    width: 20%;
+                    height: auto;
+                    position: absolute;
+                    top: auto;
+                    right: 1px;
+                }
+
+                /*PIE DE PAGINA*/
+                .pie_de_pagina{
+                    padding: 50px;
+                    text-align: center;
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    font-size: 40px;
+                }
+
+                #contenerdor_imagen_principal{
+                    
+                    height: 75%;
+                    bottom: 5%;
+                }
+                
+                .medicamento {
+                    padding: 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    background-color: transparent;
+                    width: 350px;
+                    width: 47.5%;
+                    height: 315px;
+                }
+                .medicamento:hover {
+                    transform:scale(1.1);
+                    transition: transform 0.2s ease;
+                    background-color: white;
+                    z-index: 10;
+                }
+            }
+
+            @media (min-width: 1025px){
+                /* Estilos para pantallas con ancho máximo de 600px */
+                .cintaLinea {
+                    font-family: 'Varela Round', sans-serif;
+                    background-color: rgba(255, 96, 96, 1);
+                    color: white;
+                    padding-top: 3px;
+                    padding-bottom: 2px;/* Espaciado interno */
+                    /* display: inline-block; */ /* Para que ocupe solo el ancho del contenido */
+                    border-radius: 10px; /* Bordes redondeados */
+                    margin-bottom: 20px;
+                    margin-top: 5px; /* Espacio entre líneas */
+                    font-size: 35px;
+                }
+                
+                
+                /*PRECIO*/
+                .precio{
+                    position: absolute;
+                    font-family: "Righteous", sans-serif;
+                    color: white;
+                    top: 12px;
+                    left: 10px;
+                    padding: 2px 5px;
+                    border-radius: 5px;
+                    font-size: 42px;
+                    z-index: 1;
+                }
+                #globo_precio{
+                    width: 32%;
+                    height: auto;
+                    position: absolute;
+                    top: 3px;
+                    left: 3px;
+                    z-index: 0;
+                }
+
+                /*INFORMACION DEL PRODUCTO*/
+                .producto-info {
+                    border: 1px solid #ccc;
+                    width: 50%;
+                    height: auto;
+                    position: absolute;
+                    top: 5px;
+                    right: 0;
+                    background-color: rgba(255, 255, 255, 0.8);
+                    padding-bottom: 10px;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    border-radius: 10px;
+                    z-index: 1;
+                    border-style: dashed; 
+                    border-width: 4px; 
+                    border-color: #9B9B9B;
+                    align-items: center;
+                    display:flex;
+                    flex-direction: column;
+                }
+
+                .producto-nombre {
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    color: white;
+                    border-radius: 8px;
+                    font-size: 200%;
+                    text-align: center;
+                    
+                    text-align: center;
+                    text-transform: uppercase;
+                    margin-top: 8px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                }
+
+                /*EL NOMBRE DEL PRODUCTO ESTA ABAJO DEBIDO A QUE CAMBIA DE COLOR SEGUN AL LABORATORIO*/
+
+                .producto-descripcion {   
+                    font-weight: bold;
+                    font-family: 'Varela Round', sans-serif;
+                    text-transform: uppercase;
+                    font-size: 150%;
+                    overflow: hidden; 
+                    text-align: center;
+                    padding: 8px;
+                    z-index: 3;
+
+                /*  width: 100%;
+                    text-align: center;
+                    font-size: min(5vw, 20px); 
+                    white-space: nowrap; 
+                    overflow: hidden;
+                    text-overflow: ellipsis; */
+                }
+
+                .producto-presentacion {
+                    
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    color: white;
+                    font-size: 140%;
+                    text-transform: uppercase;
+                    text-align: center;
+                    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+                    border-radius: 10px;
+                    display: inline-block;
+                    padding: 2px;
+                    padding-left: 10px;
+                    padding-right: 10px; 
+                }
+
+
+                /*ESCALA*/
+                #escala{
+                    width: 20%;
+                    height: auto;
+                    position: absolute;
+                    top: auto;
+                    right: 1px;
+                }
+
+                /*PIE DE PAGINA*/
+                .pie_de_pagina{
+                    padding: 50px;
+                    text-align: center;
+                    font-family: 'Varela Round', sans-serif;
+                    font-weight: bold;
+                    font-size: 40px;
+                }
+
+                #contenerdor_imagen_principal{
+                    
+                    height: 75%;
+                    bottom: 5%;
+                }
+                
+                .medicamento {
+                    padding: 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    background-color: transparent;
+                    width: 350px;
+                    width: 47.5%;
+                    height: 440px;
+                }
+                .medicamento:hover {
+                    transform:scale(1.1);
+                    transition: transform 0.2s ease;
+                    background-color: white;
+                    z-index: 10;
+                }
+            }
+
+#contenerdor_imagen_principal{
+    width: 58%;
+
+
+    /* border: 1px solid #ccc; */
+
+    position: absolute;
+    border-radius: 5px;
+    z-index: 0; 
+    border-width: 2px; 
+    border-color: #9B9B9B;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#contenedor_imagen{
+    
+    height: 100%;
+    position: absolute;
+    border-radius: 5px;
+    z-index: 0; 
+    /* border-width: 2px; 
+    border-color: #9B9B9B;
+    border: 1px solid #ccc; */
+} 
+
+
+#imagen_producto{
+    /* filter: drop-shadow(0 0 10px rgba(0,0,0,.8)); */ /*por si se inserta imagen png*/
+    /* height: 100%; */
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    opacity: 1;
+    /* display: block; */
+}
+/* #contenedor_imagen_principal:hover {
+    transform: translateY(-5px);
+    transition: transform 0.2s ease;
+}
+#contenedor_imagen:hover {
+    transform: translateY(-5px);
+    transition: transform 0.2s ease;
+    z-index: 2; 
+}
+#imagen_producto:hover {
+    transform:scale(1.1);
+    transition: transform 0.2s ease;
+} */
+
+
+
+/*IMAGEN DEL LOGO DE BONED*/
+#logoboned{
+    width: 35%;
+    height: auto;
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+}
+               
+
+/* Colores para líneas medicinales */
+.cintaLinea[data-linea="DROPESAC"] {
+    background-color: rgba(255, 96, 96, 1);
+}
+
+.cintaLinea[data-linea="TERBOL"] {
+    background-color: #58BF53;
+}
+.cintaLinea[data-linea="TOBAL"] {
+    background-color: #27A3A5;
+}
+.cintaLinea[data-linea="QMPHARMA"] {
+    background-color: #01B7AD;
+}
+.cintaLinea[data-linea="LYAFARM"] {
+    background-color: #DF5077;
+}
+.cintaLinea[data-linea="NORDICPHARMACEUTICAL"] {
+    background-color: #e33737;
+}
+.cintaLinea[data-linea="INDUQUIMICA"] {
+    background-color: #DB70D6;
+}
+.cintaLinea[data-linea="INDUQUIMICA_GENERICO"] {
+    background-color: #DB70D6;
+}
+.cintaLinea[data-linea="MEDICALSTORE"] {
+    background-color: #0167AB;
+}
+.cintaLinea[data-linea="DIPHASAC"] {
+    background-color: #6565EB;
+}
+.cintaLinea[data-linea="DIPHASAC_GENERICO"] {
+    background-color: #6565EB;
+}
+.cintaLinea[data-linea="AJR LABS"] {
+    background-color: #2164C8;
+}
+.cintaLinea[data-linea="LABOFAR"] {
+    background-color: #5A5AE5;
+}
+.cintaLinea[data-linea="LABOGEN"] {
+    background-color: #04933D;
+}
+.cintaLinea[data-linea="EMCURE"] {
+    background-color: #1E64FF;
+}
+.cintaLinea[data-linea="SEVEN PHARMA"] {
+    background-color: #4B3CC7;
+}
+.cintaLinea[data-linea="MEDIKAR"] {
+    background-color: #3E3EBF;
+}
+.cintaLinea[data-linea="CARNOT"] {
+    background-color: #3D5DD3;
+}
+.cintaLinea[data-linea="GEDEON RICHTER"] {
+    background-color: #1F5BAF;
+}
+.cintaLinea[data-linea="EUROFARMA"] {
+    background-color: #1A74CC;
+}
+.cintaLinea[data-linea="DKT"] {
+    background-color: #E10003;
+}
+.cintaLinea[data-linea="PERUFAR"] {
+    background-color: #0C5FFF;
+}
+.cintaLinea[data-linea="JPS"] {
+    background-color: #4D9642;
+}
+.cintaLinea[data-linea="OTARVASQ"] {
+    background-color: #1846AC;
+}
+.cintaLinea[data-linea="DANY"] {
+    background-color: #1E70A7;
+}
+.cintaLinea[data-linea="CAFERMA"] {
+    background-color: #0E5BC0;
+}
+.cintaLinea[data-linea="ARIAL"] {
+    background-color: #3BDAEB;
+}
+/*COLOR DEL DIV DEL PRODUCTO*/
+
+.producto-nombre[data-linea="DROPESAC"] {
+    background-image: linear-gradient(45deg, #FF6060, #CCA235);
+}
+.producto-nombre[data-linea="TERBOL"] {
+    background-image: linear-gradient(45deg, #1CAE15, #1BA7FD);
+}
+
+.producto-nombre[data-linea="TOBAL"] {
+    background-image: linear-gradient(45deg, #23A8AA, #FEC316);
+}
+.producto-nombre[data-linea="QMPHARMA"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="LYAFARM"] {
+    background-image: linear-gradient(45deg, #397028, #B4D01D);
+}
+.producto-nombre[data-linea="NORDICPHARMACEUTICAL"] {
+    background-image: linear-gradient(45deg, #676766, #A6A6A4);
+}
+.producto-nombre[data-linea="INDUQUIMICA"] {
+    background-image: linear-gradient(45deg, #CF43C9, #03C1A3);
+}
+.producto-nombre[data-linea="INDUQUIMICA_GENERICO"] {
+    background-image: linear-gradient(45deg, #CF43C9, #03C1A3);
+}
+.producto-nombre[data-linea="MEDICALSTORE"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="DIPHASAC"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="DIPHASAC_GENERICO"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="AJR LABS"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="LABOFAR"] {
+    background-image: linear-gradient(45deg, #4758F4, #FFA208);
+}
+.producto-nombre[data-linea="LABOGEN"] {
+    background-image: linear-gradient(45deg, #03B138, #D3D800);
+}
+.producto-nombre[data-linea="EMCURE"] {
+    background-image: linear-gradient(45deg, #024CFD, #3AC2F5);
+}
+.producto-nombre[data-linea="SEVEN PHARMA"] {
+    background-image: linear-gradient(45deg, #655AC3, #F09817);
+}
+.producto-nombre[data-linea="MEDIKAR"] {
+    background-image: linear-gradient(45deg, #0038FC, #9AD31F);
+}
+.producto-nombre[data-linea="CARNOT"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="GEDEON RICHTER"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="EUROFARMA"] {
+    background-image: linear-gradient(45deg, #2669AB, #E0D726);
+}
+.producto-nombre[data-linea="DKT"] {
+    background-image: linear-gradient(45deg, #FF0003, #E37B7D);
+}
+.producto-nombre[data-linea="PERUFAR"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="JPS"] {
+    background-image: linear-gradient(45deg, #4BB03C, #03C1A3);
+}
+.producto-nombre[data-linea="OTARVASQ"] {
+    background-image: linear-gradient(45deg, #2254C0, #02BBD3);
+}
+.producto-nombre[data-linea="DANY"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="CAFERMA"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="ARIAL"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+
