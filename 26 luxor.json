@@ -8,7 +8,7 @@
         "imagen_producto":"imagenes/luxor/productos/nazofrip dia.png",
         "laboratorio": "LUXOR",
         "linea_medicinal": "1. Línea Antigripal",
-        "tamaño_imagen": "auto",
+        "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
     },
@@ -38,7 +38,7 @@
         "imagen_producto":"imagenes/luxor/productos/simetilux.png",
         "laboratorio": "LUXOR",
         "linea_medicinal": "3. Línea Gastro",
-        "tamaño_imagen": "auto",
+        "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
     },
@@ -51,7 +51,7 @@
         "imagen_producto":"imagenes/luxor/productos/sinongo.png",
         "laboratorio": "LUXOR",
         "linea_medicinal": "4. Línea Antimicótica",
-        "tamaño_imagen": "auto",
+        "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
     },
@@ -81,7 +81,7 @@
         "imagen_producto":"imagenes/luxor/productos/enzylux.png",
         "laboratorio": "LUXOR",
         "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "auto",
+        "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
     },
@@ -94,7 +94,7 @@
         "imagen_producto":"imagenes/luxor/productos/MAGZILUX COMPLEX.png",
         "laboratorio": "LUXOR",
         "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "auto",
+        "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
     },
@@ -107,7 +107,7 @@
         "imagen_producto":"imagenes/luxor/productos/BETA GLUX.png",
         "laboratorio": "LUXOR",
         "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "auto",
+        "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
     },
@@ -120,7 +120,7 @@
         "imagen_producto":"imagenes/luxor/productos/MULTI-VITAMÍNICO.png",
         "laboratorio": "LUXOR",
         "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "auto",
+        "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
     },
@@ -133,7 +133,7 @@
         "imagen_producto":"imagenes/luxor/productos/FERROLUX.png",
         "laboratorio": "LUXOR",
         "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "auto",
+        "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
     }
