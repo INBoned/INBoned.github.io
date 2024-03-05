@@ -1,0 +1,140 @@
+[
+    {
+        "precio": "S/106.25",
+        "nombre": "NAZOGRIP DIA",
+        "descripcion": "ANTITUSIVO, EXPECTORANTE, ANTIPIRÉTICO, DESCONGESTIVO",
+        "presentacion": "Caja x 200 TABLETAS RECUBIERTAS",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/nazofrip dia.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "1. Línea Antigripal",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+
+
+    {
+        "precio": "S/23.75",
+        "nombre": "LUXERGIA",
+        "descripcion": "CETIRIZINA 10MG",
+        "presentacion": "Caja x 100 TABLETAS RECUBIERTAS",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/luxergia.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "2. Línea Antihistamínica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+
+
+    {
+        "precio": "S/78.00",
+        "nombre": "simetilux",
+        "descripcion": "SIMETICONA 160MG",
+        "presentacion": "Caja x 100 TABLETAS MASTICABLES",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/simetilux.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "3. Línea Gastro",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/81.25",
+        "nombre": "sinongo",
+        "descripcion": "FLUCONAZOL 150MG",
+        "presentacion": "Caja x 100 CÁPSULAS",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/sinongo.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "4. Línea Antimicótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+
+    {
+        "precio": "S/54",
+        "nombre": "VIRIGOR 20MG",
+        "descripcion": "TADALAFILO",
+        "presentacion": "CAJA X 4 COMPRIMIDOS RECUBIERTO CON PELICULA",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/VIRIGOR 20MG.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "5. Línea Urológica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+
+
+
+    {
+        "precio": "S/76.25",
+        "nombre": "ENZYLUX",
+        "descripcion": "SUPLEMENTO NUTRICIONAL",
+        "presentacion": "Caja x 100 CÁPSULAS",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/enzylux.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "6. Línea Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/11.13",
+        "nombre": "MAGZILUX COMPLEX",
+        "descripcion": "MAGNESIO + COMPLEJO B + ZINC",
+        "presentacion": "Caja x 1 FRASCO x 20 TAB. EFERV.",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/MAGZILUX COMPLEX.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "6. Línea Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/21.88",
+        "nombre": "BETA GLUX",
+        "descripcion": "ZINC + VITAMINA C + BETAGLUCANO",
+        "presentacion": "FRASCO X 45 GOMITAS",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/BETA GLUX.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "6. Línea Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/21.88",
+        "nombre": "MULTI-VITAMÍNICO",
+        "descripcion": "VITAMINAS A, B, D Y E",
+        "presentacion": "FRASCO X 45 GOMITAS",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/MULTI-VITAMÍNICO.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "6. Línea Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/21.88",
+        "nombre": "FERROLUX",
+        "descripcion": "HIERRO, VITAMINA C, PROPÓLEO Y FIBRA",
+        "presentacion": "FRASCO X 45 GOMITAS",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/FERROLUX.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "6. Línea Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    }
+]

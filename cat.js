@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "3 tobal.json",
         "4 qmpharma.json",
         "5 lyafarm.json",
+        "26 luxor.json",
         "6 nordic.json",
         "7 induquimica.json",
         "7 induquimica generico.json",

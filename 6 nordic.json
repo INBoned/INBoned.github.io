@@ -153,7 +153,7 @@
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
     "imagen_producto":"imagenes/nordicpharmaceutical/productos/FLUKONOR.jpg",
     "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "3. Línea Gastro",
+    "linea_medicinal": "4. Línea Antimicótica",
     "tamaño_imagen": "auto",
     "escala":"si",
     "existe":"si"
@@ -169,7 +169,7 @@
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
     "imagen_producto":"imagenes/nordicpharmaceutical/productos/MACROKID XR.jpg",
     "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "4. Línea Urológica",
+    "linea_medicinal": "5. Línea Urológica",
     "tamaño_imagen": "1%",
     "escala":"si",
     "existe":"si"
@@ -185,7 +185,7 @@
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
     "imagen_producto":"imagenes/nordicpharmaceutical/productos/CLORURO DE SODIO.jpg",
     "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "5. Línea Suero",
+    "linea_medicinal": "6. Línea Suero",
     "tamaño_imagen": "15%",
     "escala":"si",
     "existe":"si"
@@ -201,7 +201,7 @@
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
     "imagen_producto":"imagenes/nordicpharmaceutical/productos/BIKONOR.jpg",
     "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "6. Línea Laxante",
+    "linea_medicinal": "7. Línea Laxante",
     "tamaño_imagen": "auto",
     "escala":"si",
     "existe":"si"

@@ -2026,6 +2026,9 @@ html {
 .cintaLinea[data-linea="ARIAL"] {
     background-color: #3BDAEB;
 }
+.cintaLinea[data-linea="LUXOR"] {
+    background-color: #dacd1c;
+}
 /*COLOR DEL DIV DEL PRODUCTO*/
 
 .producto-nombre[data-linea="DROPESAC"] {
@@ -2110,4 +2113,6 @@ html {
 .producto-nombre[data-linea="ARIAL"] {
     background-image: linear-gradient(45deg, #0038FC, #03C1A3);
 }
-
+.producto-nombre[data-linea="LUXOR"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
