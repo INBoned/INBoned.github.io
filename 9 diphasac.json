@@ -13,6 +13,19 @@
         "existe":"si"
       },
       {
+        "precio": "S/9.21",
+        "nombre": "DIPHADIC LONG GEL 2%",
+        "descripcion": "Diclofenaco sódico 2%",
+        "presentacion": "Caja x 1 Tubo de 50g",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHADIC LONG GEL.jpg",
+        "laboratorio": "DIPHASAC",
+        "linea_medicinal": "1. Línea Dolor Y Miorelajante",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
         "precio": "S/17.20",
         "nombre": "DIPHACORTEN 5MG",
         "descripcion": "Prednisolona 5mg/5mL",
@@ -85,19 +98,21 @@
 
 
 
-      {
-        "precio": "S/54.50",
-        "nombre": "NATUVARIX",
-        "descripcion": "Ruscus Aculeatus 100mg",
-        "presentacion": "Caja x 60 Cápsulas Blandas",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/NATUVARIX.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "3. Línea Anti Varicosa y Antihemorroidal",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
+
+    {
+      "precio": "S/60.00",
+      "nombre": "HEMZON",
+      "descripcion": "Ruscus Aculea, Lactobacilus Sporogenes + Vitamina C",
+      "presentacion": "Caja x 100 Tabletas Masticables",
+      "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+      "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/HEMZON.jpg",
+      "laboratorio": "DIPHASAC",
+      "linea_medicinal": "3. Línea Antihemorroidal",
+      "tamaño_imagen": "auto",
+      "escala":"no",
+      "existe":"si"
+  },
 
 
 
@@ -134,7 +149,7 @@
 
 
       {
-        "precio": "S/12.80",
+        "precio": "S/8.93",
         "nombre": "DUOCLAMOX",
         "descripcion": "Amoxicilina 500mg + Acido Clavulanico 125mg",
         "presentacion": "Caja x 10 Tabletas Recubiertas",

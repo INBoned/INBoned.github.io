@@ -170,6 +170,10 @@
             contenedorFirstProducto.style.zIndex = 5;
             nutria.style.animation = 'rebote 3s';
             nutria.style.transition = 'transform 0.1 ease';
+            setTimeout(function(){
+            nutria.classList.remove("nutria");
+            nutria.classList.add("ocultarnutria");
+            }, 3000);
             nutria.classList.remove("ocultarnutria");
             nutria.classList.add("nutria");
 
@@ -261,10 +265,16 @@
             contenedorFirstProducto.style.zIndex = 5;
             
             let nutria = document.getElementById('nutria'+firstIndex);
-                nutria.classList.remove("ocultarnutria");
-                nutria.classList.add("nutria");
+
                 nutria.style.animation = 'rebote 3s';
             nutria.style.transition = 'transform 0.1 ease';
+
+            setTimeout(function(){
+            nutria.classList.remove("nutria");
+            nutria.classList.add("ocultarnutria");
+            }, 3000);
+            nutria.classList.remove("ocultarnutria");
+            nutria.classList.add("nutria");
 
         contenedorFirstProducto.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
@@ -312,11 +322,16 @@
             contenedorFirstProducto.style.zIndex = 5;
             
             let nutria = document.getElementById('nutria'+firstIndex);
-            nutria.classList.remove("ocultarnutria");
-                nutria.classList.add("nutria");
                 nutria.style.animation = 'rebote 3s';
                 
             nutria.style.transition = 'transform 0.1 ease';
+
+            setTimeout(function(){
+            nutria.classList.remove("nutria");
+            nutria.classList.add("ocultarnutria");
+            }, 3000);
+            nutria.classList.remove("ocultarnutria");
+            nutria.classList.add("nutria");
         contenedorFirstProducto.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
 

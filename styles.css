@@ -278,7 +278,7 @@ html {
 
 @keyframes rebote {
     0%, 100% {
-      transform: translateX(30px);
+      transform: translateX(80px);
     }
     40% {
       transform: translateX(-110px); /* Altura del rebote */
