@@ -161,19 +161,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/29.98",
-        "nombre": "TYROXCAF",
-        "descripcion": "Levotiroxina Sódica 100mcg",
-        "presentacion": "Caja x 50 Tabletas",
-        "imagen": "imagenes/caferma/caferma_portada.jpg",
-        "imagen_producto":"imagenes/caferma/productos/tyroxcaf.jpg",
-        "laboratorio": "CAFERMA",
-        "linea_medicinal": "3. Línea Metabólica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/88.85",
         "nombre": "AUROVAS 20",
