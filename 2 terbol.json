@@ -25,19 +25,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/59.30",
-        "nombre": "TERBOCLOXIL 500MG",
-        "descripcion": "Dicloxacilina 500mg",
-        "presentacion": "Caja x 100 Cápsulas ",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/TERBOCLOXIL 500MG.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/7.10",
         "nombre": "TERBOMOX SUSP",
@@ -103,19 +91,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/30.00",
-        "nombre": "GLUMIKIN",
-        "descripcion": " Amikacina 500mg/2mL",
-        "presentacion": "Caja x 10 AMPOLLAS",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/GLUMIKIN.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
 
 
 
@@ -132,58 +108,10 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/38.50",
-        "nombre": "TERBOMETASONA 4MG",
-        "descripcion": "Dexametasona 4mg",
-        "presentacion": "Caja x 100 COMPRIMIDOS",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/TERBOMETASONA 4MG.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "2. Línea Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
-      {
-        "precio": "S/33.00",
-        "nombre": "ALGIAS 10MG",
-        "descripcion": "Ketorolaco Trometamina 10mg Excipientes C.S.P",
-        "presentacion": "Caja x 100 Comprimidos Recubiertos",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/ALGIAS 10MG.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "2. Línea Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
-      {
-        "precio": "S/42.86",
-        "nombre": "TERBOFENACO 75MG/3ML",
-        "descripcion": "Diclofenaco Sódico 75mg/3mL",
-        "presentacion": "Caja x 10 Ampollas",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/TERBOFENACO 75MG 3ML.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "2. Línea Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
-      {
-        "precio": "S/11.10",
-        "nombre": "TERBOFENACO GEL",
-        "descripcion": "Diclofenaco dietilamina 2.32% (Equivalente a Diclofenaco sódico 2.00%) Gel ",
-        "presentacion": "CAJA X 1 Tubo DE 50gr",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/TERBOFENACO GEL.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "2. Línea Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
+      
+      
+      
       {
         "precio": "S/66.00",
         "nombre": "DORAXOL",
@@ -272,19 +200,7 @@
 
 
 
-      {
-        "precio": "S/4.90",
-        "nombre": "SANIPEL C CREMA",
-        "descripcion": "Clotrimazol 1,0gr + Gentamicina 0,1gr + Betametasona 0,05gr",
-        "presentacion": "Tubo x 20gr",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/SANIPEL C CREMA.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "5. Línea Antimicótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
 
 
 
@@ -297,24 +213,12 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/OMEGA 3.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/70.00",
-        "nombre": "OMEGA 3",
-        "descripcion": "SupLemento dietético",
-        "presentacion": "Frasco x 90 Cápsulas Blandas",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/OMEGA 3 90.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "10%",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/37.50",
         "nombre": "VITAMIN A",
@@ -323,7 +227,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/VITAMIN A.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -336,7 +240,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/VITAMIN E 1000UI.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -349,7 +253,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/VITAMIN E 400UI.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -362,26 +266,14 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/VITAMIN E 1000UI 30.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
       },
       
 
-      {
-        "precio": "S/38.40",
-        "nombre": "ZINC",
-        "descripcion": "ZINC 30MG",
-        "presentacion": "Frasco x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/ZINC FRASCO.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "10%",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/16.70",
         "nombre": "ZINC",
@@ -390,7 +282,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/ZINC.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -406,24 +298,12 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/VITAMIN C 1000MG.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/15.00",
-        "nombre": "VITAMIN C 500MG",
-        "descripcion": "",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/VITAMIN C 500MG.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "5%",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/22.85",
         "nombre": "CALCIUM 600 PLUS D",
@@ -432,7 +312,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/CALCIUM 600 PLUS D.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -445,7 +325,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/CALCIUM PLUS FORTE.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -458,7 +338,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/FOLIC ACID 800MCG.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -471,7 +351,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/FOLIC ACID 800MCG TAB.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -484,7 +364,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/FULL SPECTRUM.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -497,7 +377,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/FULL SPECTRUM 120.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -510,24 +390,12 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/ISOTON C-CALCICO.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/17.00",
-        "nombre": "ISOTON C",
-        "descripcion": "Magnesio Vitamina C",
-        "presentacion": "Caja x 14 Tabletas Efervescentes",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/ISOTON C.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/30.00",
         "nombre": "FULL SPECTRUM PRENATAL",
@@ -536,7 +404,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/FULL SPECTRUM PRENATAL.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -549,7 +417,7 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/COLLAGEN PLUS C.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -562,22 +430,10 @@
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/B-SPECTRUM.jpg",
         "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
-      },
-      {
-        "precio": "S/80.00",
-        "nombre": "TERBOFIT 100MG",
-        "descripcion": "Suplemento Nutricional",
-        "presentacion": "Lata x 1000g Polvo Oral",
-        "imagen": "imagenes/terbol/terbol_portada.jpg",
-        "imagen_producto":"imagenes/terbol/productos/TERBOFIT 100MG.jpg",
-        "laboratorio": "TERBOL",
-        "linea_medicinal": "6. Línea Vitaminas",
-        "tamaño_imagen": "10%",
-        "escala":"si",
-        "existe":"si"
       }
+      
 ]

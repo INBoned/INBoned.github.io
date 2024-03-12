@@ -1,17 +1,5 @@
 [
-    {
-        "precio": "S/12.44",
-        "nombre": "AMOXYSEVEN 10",
-        "descripcion": "Amoxicilina 500mg + Acido Clavulanico 125mg",
-        "presentacion": "Caja x 10 tabletas",
-        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
-        "imagen_producto":"imagenes/sevenpharma/productos/amoxyseven 10.jpg",
-        "laboratorio": "SEVEN PHARMA",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si"
-      },
+    
       {
         "precio": "S/95.00",
         "nombre": "AMOXYSEVEN 100",
@@ -38,19 +26,7 @@
         "escala":"si",
         "existe":"si"
       },
-      {
-        "precio": "S/3.50",
-        "nombre": "AMOSEV-125",
-        "descripcion": "Amoxicilina 125mg/5mL",
-        "presentacion": "Caja x 1 Frasco de 60mL PPSO",
-        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
-        "imagen_producto":"imagenes/sevenpharma/productos/amosev 125.jpg",
-        "laboratorio": "SEVEN PHARMA",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "10%",
-        "escala":"si",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/104.98",
         "nombre": "MOQUIN 400",
@@ -89,18 +65,6 @@
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
-      },
-      {
-        "precio": "S/32.50",
-        "nombre": "HIERRO SACAROSA",
-        "descripcion": "Hierro Sacarosa  100mg/5mL",
-        "presentacion": "Caja x 5 Amp.",
-        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
-        "imagen_producto":"imagenes/sevenpharma/productos/hierro sacarosa.jpg",
-        "laboratorio": "SEVEN PHARMA",
-        "linea_medicinal": "4. Línea Antianémica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si"
       }
+      
     ]

@@ -116,19 +116,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/20.48",
-        "nombre": "FARMOXYL-CL 500",
-        "descripcion": "Amoxicilina 500mg + Acido clavulánico 125mg",
-        "presentacion": "Caja x 10 Tabletas Recubiertas",
-        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
-        "imagen_producto":"imagenes/lyafarm/productos/FARMOXYL-CL 500.jpg",
-        "laboratorio": "LYAFARM",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "1%",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/54.00",
         "nombre": "QUINOCIP",

@@ -14,7 +14,7 @@
       },
       {
         "precio": "S/13.38",
-        "nombre": "ETORICOXIB 1200",
+        "nombre": "ETORICOXIB 120",
         "descripcion": "ETORICOXIB 120MG",
         "presentacion": "Caja x 10 Tabletas Recubiertas",
         "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
@@ -116,19 +116,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/3.50",
-        "nombre": "LOSARTAN",
-        "descripcion": "Losartan 50MG",
-        "presentacion": "Caja x 30 Comprimidos Recubiertos",
-        "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
-        "imagen_producto":"imagenes/eurofarma/productos/losartan eurofarma.jpg",
-        "laboratorio": "EUROFARMA",
-        "linea_medicinal": "5. Línea Antihipertensiva",
-        "tamaño_imagen": "10%",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/64.08",
         "nombre": "TOBAN F",
@@ -137,7 +125,7 @@
         "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
         "imagen_producto":"imagenes/eurofarma/productos/toban f.jpg",
         "laboratorio": "EUROFARMA",
-        "linea_medicinal": "6. Línea Antidiarreica",
+        "linea_medicinal": "5. Línea Antidiarreica",
         "tamaño_imagen": "12%",
         "escala":"no",
         "existe":"si"

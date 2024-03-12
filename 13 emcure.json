@@ -25,19 +25,7 @@
         "escala":"si",
         "existe":"si"
       },
-      {
-        "precio": "S/18.90",
-        "nombre": "OROFER 15ML",
-        "descripcion": "Complejo de Hidroxido Ferrico 50mg/5mL",
-        "presentacion": "Caja x 1 Frasco de 15mL",
-        "imagen": "imagenes/emcure/emcure_portada.jpg",
-        "imagen_producto":"imagenes/emcure/productos/orofer 15ml.jpg",
-        "laboratorio": "EMCURE",
-        "linea_medicinal": "1. Línea Hematológica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/22.99",
         "nombre": "ADOLQUIR",

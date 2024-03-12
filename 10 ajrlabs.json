@@ -25,19 +25,7 @@
     "escala":"no",
     "existe":"si"
   },
-  {
-    "precio": "S/79.69",
-    "nombre": "URSOFLOW",
-    "descripcion": "Ácido Ursodesoxicólico 250mg (Cálculos biliares)",
-    "presentacion": "Caja x 30 Cápsulas",
-    "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
-    "imagen_producto":"imagenes/ajr_labs/productos/ursoflow.jpg",
-    "laboratorio": "AJR LABS",
-    "linea_medicinal": "2. Línea Gastro",
-    "tamaño_imagen": "auto",
-    "escala":"no",
-    "existe":"si"
-  },
+  
   {
     "precio": "S/48.85",
     "nombre": "ETORICOXIB 90",

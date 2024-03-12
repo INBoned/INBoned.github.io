@@ -90,19 +90,7 @@
     "escala":"no",
     "existe":"si"
   },
-  {
-    "precio": "S/35.06",
-    "nombre": "CLANZA 200",
-    "descripcion": "Aceclofenaco 200mg",
-    "presentacion": "Caja x 10 Tabletas Recubiertas L. p.",
-    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
-    "imagen_producto":"imagenes/dropesac/productos/CLANZA 200.jpg",
-    "laboratorio": "DROPESAC",
-    "linea_medicinal": "2. Línea Dolor",
-    "tamaño_imagen": "100",
-    "escala":"no",
-    "existe":"si"
-  },
+  
   {
     "precio": "S/25.00",
     "nombre": "PREGADOL 75",
@@ -129,19 +117,7 @@
     "escala":"si",
     "existe":"si"
   },
-  {
-    "precio": "S/50.70",
-    "nombre": "IBUPAIN",
-    "descripcion": "Ibuprofeno 400mg",
-    "presentacion": "Caja x 100 Cápsulas Blandas",
-    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
-    "imagen_producto":"imagenes/dropesac/productos/IBUPAIN.jpg",
-    "laboratorio": "DROPESAC",
-    "linea_medicinal": "2. Línea Dolor",
-    "tamaño_imagen": "70",
-    "escala":"si",
-    "existe":"si"
-  },
+  
   {
     "precio": "S/36.72",
     "nombre": "PREGADOL 150",
@@ -181,19 +157,7 @@
     "escala":"no",
     "existe":"si"
   },
-  {
-    "precio": "S/13.81",
-    "nombre": "CLASIPRO",
-    "descripcion": "Bacillus Clausii 2000 millones de esporas/5mL Suspención Oral",
-    "presentacion": "caja x 10 Frascos de 5mL",
-    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
-    "imagen_producto":"imagenes/dropesac/productos/CLASIPRO.jpg",
-    "laboratorio": "DROPESAC",
-    "linea_medicinal": "3. Línea Gastro",
-    "tamaño_imagen": "auto",
-    "escala":"no",
-    "existe":"si"
-  },
+  
   {
     "precio": "S/25.74",
     "nombre": "3-GEL",
@@ -285,32 +249,8 @@
     "escala":"no",
     "existe":"si"
   },
-  {
-    "precio": "S/17.00",
-    "nombre": "SYNATURA X 21",
-    "descripcion": "Extracto seco Coptidis Rhizoma 4.4mg + Hedera Helix L.",
-    "presentacion": "Caja x 21 sobres",
-    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
-    "imagen_producto":"imagenes/dropesac/productos/SYNATURA X 21.jpg",
-    "laboratorio": "DROPESAC",
-    "linea_medicinal": "7. Línea Natural",
-    "tamaño_imagen": "auto",
-    "escala":"si",
-    "existe":"si"
-  },
-  {
-    "precio": "S/66.40",
-    "nombre": "SYNATURA X 90",
-    "descripcion": "Extracto seco Coptidis Rhizoma 4.4mg + Hedera Helix L.",
-    "presentacion": "Caja x 90 sobres",
-    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
-    "imagen_producto":"imagenes/dropesac/productos/SYNATURA X 90.jpg",
-    "laboratorio": "DROPESAC",
-    "linea_medicinal": "7. Línea Natural",
-    "tamaño_imagen": "auto",
-    "escala":"si",
-    "existe":"si"
-  },
+  
+  
   {
     "precio": "S/21.25",
     "nombre": "ECHINEL",
@@ -363,19 +303,7 @@
     "escala":"no",
     "existe":"si"
   },
-  {
-    "precio": "S/28.13",
-    "nombre": "KAPSIHEAT",
-    "descripcion": "",
-    "presentacion": "caja x 1 Tubo de 60gr",
-    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
-    "imagen_producto":"imagenes/dropesac/productos/KAPSIHEAT.jpg",
-    "laboratorio": "DROPESAC",
-    "linea_medicinal": "7. Línea Natural",
-    "tamaño_imagen": "auto",
-    "escala":"no",
-    "existe":"si"
-  },
+  
   {
     "precio": "S/20.06",
     "nombre": "BIOVITON",

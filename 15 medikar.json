@@ -51,19 +51,7 @@
         "escala":"si",
         "existe":"si"
       }, 
-      {
-        "precio": "S/33.75",
-        "nombre": "HYNOFLEX",
-        "descripcion": "Meloxicam 15mg",
-        "presentacion": "Caja x 100 Tabletas",
-        "imagen": "imagenes/medikar/medikar_portada.jpg",
-        "imagen_producto":"imagenes/medikar/productos/hynoflex.jpg",
-        "laboratorio": "MEDIKAR",
-        "linea_medicinal": "3. Línea Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      }, 
+      
       {
         "precio": "S/30.00",
         "nombre": "DEXAMAX-E",

@@ -1,30 +1,5 @@
 [
-    {
-        "precio": "S/10.00",
-        "nombre": "LIVLODAN 2%",
-        "descripcion": "Clorhidrato de Lidocaína",
-        "presentacion": "Tubo x 30gr",
-        "imagen": "imagenes/dany/dany_portada.jpg",
-        "imagen_producto":"imagenes/dany/productos/livlodan.jpg",
-        "laboratorio": "DANY",
-        "linea_medicinal": "1. Línea Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
-      {
-        "precio": "S/26.56",
-        "nombre": "METAMIZOL SODICO 1G/2ML",
-        "descripcion": "",
-        "presentacion": "Caja x 25 Ampollas",
-        "imagen": "imagenes/dany/dany_portada.jpg",
-        "imagen_producto":"imagenes/dany/productos/metamizol sodico 1g.jpg",
-        "laboratorio": "DANY",
-        "linea_medicinal": "1. Línea Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+    
       {
         "precio": "S/18.75",
         "nombre": "AMPICILINA 1G",
@@ -33,7 +8,7 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/ampicilina 1g.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "2. Línea Antibiótica",
+        "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -46,7 +21,7 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/ampicilina sulbactan.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "2. Línea Antibiótica",
+        "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -59,7 +34,7 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/amoxicilina 500mg.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "2. Línea Antibiótica",
+        "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -72,7 +47,7 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/bicarbonato de sodio.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "3. Línea Gastro",
+        "linea_medicinal": "2. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -85,7 +60,7 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/omeprazol 40mg.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "3. Línea Gastro",
+        "linea_medicinal": "2. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -98,7 +73,7 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/fluconazol 100mg.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "4. Línea Antifúngica",
+        "linea_medicinal": "3. Línea Antifúngica",
         "tamaño_imagen": "10%",
         "escala":"si",
         "existe":"si"

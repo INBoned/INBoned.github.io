@@ -25,19 +25,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/12.88",
-        "nombre": "GARDIL SUSP",
-        "descripcion": "Nitazoxanida 100mg/5ml",
-        "presentacion": "Caja x 1 Frasco de 60ml PPSO",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/gardil susp.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/13.12",
         "nombre": "ZOLIDONE FORTE",
@@ -51,19 +39,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/12.88",
-        "nombre": "GARDIL TAB.",
-        "descripcion": "Nitazoxanida 500mg",
-        "presentacion": "Caja x 6 Tabletas Recubiertas",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/gardil tab.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/61.24",
         "nombre": "MIOALIV",

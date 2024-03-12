@@ -37,18 +37,5 @@
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
-      },
-      {
-        "precio": "S/4.06",
-        "nombre": "RIGEVIDON 21+7",
-        "descripcion": "Levonorgestrel 0,15mg + Etinilestradiol 0,03mg",
-        "presentacion": "Caja x 21+7 Comprimidos Recubiertos",
-        "imagen": "imagenes/gedeon_richter/gedeon_richter_portada.jpg",
-        "imagen_producto":"imagenes/gedeon_richter/productos/rigevidon.jpg",
-        "laboratorio": "GEDEON RICHTER",
-        "linea_medicinal": "1. Línea Ginecológica",
-        "tamaño_imagen": "1%",
-        "escala":"no",
-        "existe":"si"
       }
     ]

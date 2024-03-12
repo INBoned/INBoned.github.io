@@ -25,19 +25,7 @@
         "escala":"si",
         "existe":"si"
       },
-      {
-        "precio": "S/3.50",
-        "nombre": "CIPROF-200",
-        "descripcion": "Ciprofloxacino 200mg/100ml",
-        "presentacion": "Caja x 1 Frasco",
-        "imagen": "imagenes/jps/jps_portada.jpg",
-        "imagen_producto":"imagenes/jps/productos/ciprof 200.jpg",
-        "laboratorio": "JPS",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/3.50",
         "nombre": "METROXIN-500",

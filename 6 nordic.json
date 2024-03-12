@@ -38,19 +38,7 @@
     "escala":"si",
     "existe":"si"
   },
-  {
-    "precio": "S/135.00",
-    "nombre": "TELMINOR 80",
-    "descripcion": "Telmisartán 80 mg",
-    "presentacion": "Caja x 30 Tabletas",
-    "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
-    "imagen_producto":"imagenes/nordicpharmaceutical/productos/TELMINOR 80.jpg",
-    "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "1. Línea Cardiometabólica",
-    "tamaño_imagen": "auto",
-    "escala":"si",
-    "existe":"si"
-  },
+  
   {
     "precio": "S/109.00",
     "nombre": "PIDOGREL-N",
@@ -132,19 +120,7 @@
     "escala":"si",
     "existe":"si"
   },
-  {
-    "precio": "S/2.95",
-    "nombre": "METROSTAT 0.5%",
-    "descripcion": "Metronidazol 500mg/100mL",
-    "presentacion": "Caja x 1 Frasco DE 100ML",
-    "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
-    "imagen_producto":"imagenes/nordicpharmaceutical/productos/METROSTAT 0.5.jpg",
-    "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "3. Línea Gastro",
-    "tamaño_imagen": "auto",
-    "escala":"si",
-    "existe":"si"
-  },
+  
   {
     "precio": "S/180.00",
     "nombre": "FLUKONOR",
@@ -177,19 +153,7 @@
 
 
 
-  {
-    "precio": "S/2.70",
-    "nombre": "CLORURO DE SODIO",
-    "descripcion": "CLORURO DE SODIO 0.9%",
-    "presentacion": "Frasco x 100mL",
-    "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
-    "imagen_producto":"imagenes/nordicpharmaceutical/productos/CLORURO DE SODIO.jpg",
-    "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "6. Línea Suero",
-    "tamaño_imagen": "15%",
-    "escala":"si",
-    "existe":"si"
-  },
+  
 
 
 
@@ -201,7 +165,7 @@
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
     "imagen_producto":"imagenes/nordicpharmaceutical/productos/BIKONOR.jpg",
     "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "7. Línea Laxante",
+    "linea_medicinal": "6. Línea Laxante",
     "tamaño_imagen": "auto",
     "escala":"si",
     "existe":"si"

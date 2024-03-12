@@ -1,17 +1,5 @@
 [
-    {
-        "precio": "S/28.36",
-        "nombre": "DOSTEIN SUSP",
-        "descripcion": "Erdosteina 175/5mL",
-        "presentacion": "Caja x 1 Frasco de 90mL PPSO",
-        "imagen": "imagenes/carnot/carnot_portada.jpg",
-        "imagen_producto":"imagenes/carnot/productos/dostein susp.jpg",
-        "laboratorio": "CARNOT",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "2%",
-        "escala":"no",
-        "existe":"si"
-      },
+    
       {
         "precio": "S/42.63",
         "nombre": "DOSTEIN CAP.",
@@ -36,19 +24,6 @@
         "linea_medicinal": "2. Línea Ginecológica",
         "tamaño_imagen": "1%",
         "escala":"si",
-        "existe":"si"
-      },
-      {
-        "precio": "S/44.88",
-        "nombre": "CROLIPSA",
-        "descripcion": "Trimebutina 200mg",
-        "presentacion": "Caja x 24 Comprimidos",
-        "imagen": "imagenes/carnot/carnot_portada.jpg",
-        "imagen_producto":"imagenes/carnot/productos/crolipsa.jpg",
-        "laboratorio": "CARNOT",
-        "linea_medicinal": "3. Línea Espasmolítica y Analgésica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
         "existe":"si"
       }
     ]
