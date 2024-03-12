@@ -1,17 +1,5 @@
 [
-    {
-        "precio": "S/1.94",
-        "nombre": "DIPHADIC LONG",
-        "descripcion": "Diclofenaco Sódico 75mg IM",
-        "presentacion": "Caja x 1 Amp.",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHADIC LONG.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "1. Línea Dolor Y Miorelajante",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si"
-      },
+    
       {
         "precio": "S/10.24",
         "nombre": "DIPHADIC LONG GEL 2%",
@@ -25,19 +13,7 @@
         "escala":"si",
         "existe":"si"
       },
-      {
-        "precio": "S/17.20",
-        "nombre": "DIPHACORTEN 5MG",
-        "descripcion": "Prednisolona 5mg/5mL",
-        "presentacion": "Caja x 1 Frasco de 120mL",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHACORTEN 5MG.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "1. Línea Dolor Y Miorelajante",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/4.36",
         "nombre": "A-FIEBRIN",
@@ -82,19 +58,7 @@
 
 
       
-      {
-        "precio": "S/68.25",
-        "nombre": "BROLAXIL 5",
-        "descripcion": "Picosulfato 5mg",
-        "presentacion": "Caja x 100 Tabletas",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/BROLAXIL 5.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "2. Línea Antiparasitaria y Laxante",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
 
 
 
@@ -108,7 +72,7 @@
       "imagen": "imagenes/diphasac/diphasac_portada.jpg",
       "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/HEMZON.jpg",
       "laboratorio": "DIPHASAC",
-      "linea_medicinal": "3. Línea Antihemorroidal",
+      "linea_medicinal": "2. Línea Antihemorroidal",
       "tamaño_imagen": "auto",
       "escala":"no",
       "existe":"si"
@@ -124,7 +88,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHAXAMICO.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "4. Línea Hematológica",
+        "linea_medicinal": "3. Línea Hematológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -140,7 +104,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHA-ZINC-KID.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "5. Línea Vitaminas",
+        "linea_medicinal": "4. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -156,7 +120,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DUOCLAMOX.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "6. Línea Antibiótica",
+        "linea_medicinal": "5. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -173,7 +137,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DYOMIN H.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "7. Línea Urológica",
+        "linea_medicinal": "6. Línea Urológica",
         "escala":"no",
         "existe":"si"
       },
@@ -185,7 +149,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/PROSTAMICIL.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "7. Línea Urológica",
+        "linea_medicinal": "6. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -201,7 +165,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/NADO.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "8. Línea Hisopos",
+        "linea_medicinal": "7. Línea Hisopos",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"

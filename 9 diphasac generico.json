@@ -83,19 +83,7 @@
         "escala":"si",
         "existe":"si"
     },
-    {
-        "precio": "S/11.01",
-        "nombre": "ESOMEPRAZOL 20mg",
-        "descripcion": "",
-        "presentacion": "Caja x 30 Cápsulas LR",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_genericos/ESOMEPRAZOL 20mg.jpg",
-        "laboratorio": "DIPHASAC_GENERICO",
-        "linea_medicinal": "3. Línea Gastro",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-    },
+    
 
 
 

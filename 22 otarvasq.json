@@ -64,19 +64,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/16.50",
-        "nombre": "FLUNGOFYL",
-        "descripcion": "Fluconazol en Cloruro de Sodio 200mg/100mL  IV",
-        "presentacion": "Caja x 1 Frasco de 100ml SPP",
-        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
-        "imagen_producto":"imagenes/otarvasq/productos/flungofyl.jpg",
-        "laboratorio": "OTARVASQ",
-        "linea_medicinal": "2. Línea Antimicótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/54.53",
         "nombre": "FENITIN",
@@ -85,7 +73,7 @@
         "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
         "imagen_producto":"imagenes/otarvasq/productos/fenitin.jpg",
         "laboratorio": "OTARVASQ",
-        "linea_medicinal": "3. Línea Antiepiléptica",
+        "linea_medicinal": "2. Línea Antiepiléptica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -98,7 +86,7 @@
         "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
         "imagen_producto":"imagenes/otarvasq/productos/biformet.jpg",
         "laboratorio": "OTARVASQ",
-        "linea_medicinal": "4. Línea Metabólicaa",
+        "linea_medicinal": "3. Línea Metabólicaa",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -111,7 +99,7 @@
         "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
         "imagen_producto":"imagenes/otarvasq/productos/SILDENAFILO 100MG OTARVASQ.jpg",
         "laboratorio": "OTARVASQ",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
