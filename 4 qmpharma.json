@@ -221,7 +221,19 @@
         "existe":"si"
       },
 
-
+      {
+        "precio": "S/22.56",
+        "nombre": "VIRIGOR 20MG",
+        "descripcion": "TADALAFILO",
+        "presentacion": "CAJA X 4 COMPRIMIDOS RECUBIERTO CON PELICULA",
+        "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
+        "imagen_producto":"imagenes/qmpharma/productos/VIRIGOR 20MG.png",
+        "laboratorio": "QMPHARMA",
+        "linea_medicinal": "5. Línea Urológica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
       {
         "precio": "S/172.55",
         "nombre": "UROTOIN XR",

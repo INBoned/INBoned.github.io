@@ -56,20 +56,6 @@
         "existe":"si"
     },
 
-    {
-        "precio": "S/22.56",
-        "nombre": "VIRIGOR 20MG",
-        "descripcion": "TADALAFILO",
-        "presentacion": "CAJA X 4 COMPRIMIDOS RECUBIERTO CON PELICULA",
-        "imagen": "imagenes/luxor/luxor_portada.jpg",
-        "imagen_producto":"imagenes/luxor/productos/VIRIGOR 20MG.png",
-        "laboratorio": "LUXOR",
-        "linea_medicinal": "5. Línea Urológica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-    },
-
 
 
     {
@@ -80,7 +66,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/enzylux.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -93,7 +79,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/MAGZILUX COMPLEX.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
@@ -106,33 +92,33 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/BETA GLUX.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
     },
     {
         "precio": "S/21.88",
-        "nombre": "MULTI-VITAMÍNICO",
+        "nombre": "MULTI VITAMÍNICO",
         "descripcion": "VITAMINAS A, B, D Y E",
         "presentacion": "FRASCO X 45 GOMITAS",
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/MULTI-VITAMÍNICO.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
     },
     {
         "precio": "S/21.88",
-        "nombre": "FERROLUX",
+        "nombre": "FERRO LUX",
         "descripcion": "HIERRO, VITAMINA C, PROPÓLEO Y FIBRA",
         "presentacion": "FRASCO X 45 GOMITAS",
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/FERROLUX.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
