@@ -16,7 +16,7 @@
       
       {
         "precio": "S/4.36",
-        "nombre": "A-FIEBRIN",
+        "nombre": "A FIEBRIN",
         "descripcion": "Metamizol Sódico 1g/2mL IM/IV",
         "presentacion": "Caja x 1 Amp.",
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
@@ -29,7 +29,7 @@
       },
       {
         "precio": "S/3.98",
-        "nombre": "D-CORT 4",
+        "nombre": "D CORT 4",
         "descripcion": "Dexametasona Fosfato 4mg/mL IM/IV/IA",
         "presentacion": "Caja x 1 Ampolla",
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
@@ -98,7 +98,7 @@
 
       {
         "precio": "S/14.83",
-        "nombre": "DIPHA-ZINC-KID",
+        "nombre": "DIPHA ZINC KID",
         "descripcion": "Sulfato de Zinc 20mg/5mL",
         "presentacion": "Caja x 1 Frasco de 120mL",
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
@@ -167,7 +167,7 @@
         "laboratorio": "DIPHASAC",
         "linea_medicinal": "7. Línea Hisopos",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       }
 ]

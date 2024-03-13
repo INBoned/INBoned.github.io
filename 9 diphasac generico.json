@@ -114,7 +114,7 @@
         "linea_medicinal": "5. Línea Antiepiléctica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
     },
 
 
@@ -127,7 +127,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_genericos/DIMENHIDRINATO 50MG 5ML.jpg",
         "laboratorio": "DIPHASAC_GENERICO",
-        "linea_medicinal": "6. Línea Antiemética",
+        "linea_medicinal": "5. Línea Antiemética",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"

@@ -41,7 +41,7 @@
   
   {
     "precio": "S/109.00",
-    "nombre": "PIDOGREL-N",
+    "nombre": "PIDOGREL N",
     "descripcion": "Clopidogrel 75 mg",
     "presentacion": "Caja x 30 Tabletas Recubiertas",
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
@@ -96,7 +96,7 @@
   },
   {
     "precio": "S/7.00",
-    "nombre": "OMEPRA-N",
+    "nombre": "OMEPRA N",
     "descripcion": "Omeprazol 40 mg",
     "presentacion": "Caja x 1 vial",
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
@@ -109,7 +109,7 @@
   },
   {
     "precio": "S/123.90",
-    "nombre": "OMEPRA-N",
+    "nombre": "OMEPRA N",
     "descripcion": "Omeprazol 40 mg",
     "presentacion": "Caja x 20 viales",
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",

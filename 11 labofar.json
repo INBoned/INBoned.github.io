@@ -10,7 +10,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/16.88",
@@ -249,7 +249,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/76.25",
+        "precio": "S/8.74",
         "nombre": "TERBILAB CREMA",
         "descripcion": "Terbinafina Clorhidrato 1%",
         "presentacion": "Caja x 1 Crema",
@@ -262,7 +262,7 @@
         "existe":"no"
       },
       {
-        "precio": "S/76.25",
+        "precio": "S/18.74",
         "nombre": "TERBILAB TAB.",
         "descripcion": "Terbinafina 250mg",
         "presentacion": "Caja x 10 tabletas",

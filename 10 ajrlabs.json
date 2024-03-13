@@ -102,7 +102,7 @@
     "linea_medicinal": "4. Línea Hepática",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/23.37",
@@ -112,7 +112,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/flavoxato.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "5. Línea Urológica",
+    "linea_medicinal": "4. Línea Urológica",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
@@ -125,7 +125,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/tamsulosina.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "5. Línea Urológica",
+    "linea_medicinal": "4. Línea Urológica",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
@@ -138,7 +138,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/valtero 500.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "6. Línea  Antiviral",
+    "linea_medicinal": "5. Línea  Antiviral",
     "tamaño_imagen": "auto",
     "escala":"si",
     "existe":"si"
@@ -151,7 +151,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/tezen 400.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "6. Línea  Antiviral",
+    "linea_medicinal": "5. Línea  Antiviral",
     "tamaño_imagen": "12%",
     "escala":"no",
     "existe":"si"
@@ -164,7 +164,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/danell 35.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "7. Línea  Ginecológica",
+    "linea_medicinal": "6. Línea  Ginecológica",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
