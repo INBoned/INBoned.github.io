@@ -210,6 +210,19 @@
         "existe":"si"
       },
       {
+        "precio": "S/9.89",
+        "nombre": "HIZALAB JBE",
+        "descripcion": "CETIRIZINA 5MG/5ML",
+        "presentacion": "Caja x 1 Frasco de 60mL",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/hizalab.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "4. Línea Antihistamínica",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
         "precio": "S/59.60",
         "nombre": "DON GRIPPA",
         "descripcion": "Clorfenamina maleato 2mg + Fenilefrina clorhidrato 6mg + Paracetamol 500mg",

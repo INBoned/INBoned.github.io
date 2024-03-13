@@ -218,6 +218,19 @@
         "existe":"si"
       },
       {
+        "precio": "S/93.15",
+        "nombre": "IRBESEL HC 300+12.5",
+        "descripcion": "Irbesartan + Hidroclorotiazida 300mg/12.5mg",
+        "presentacion": "Caja x 20 Tabletas Recubiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/irbesel hc 300.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "4. Línea Cardio",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
         "precio": "S/110.55",
         "nombre": "VIBOLOXX",
         "descripcion": "Nebivolol 5mg",

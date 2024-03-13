@@ -270,5 +270,18 @@
         "tamaño_imagen": "2%",
         "escala":"si",
         "existe":"si"
+      },
+      {
+        "precio": "S/15.30",
+        "nombre": "ABRIBRONC",
+        "descripcion": "Extracto de Hedera, Helix 35mg/5mL, Jarabe",
+        "presentacion": "Caja x 1 Frasco de 120mL",
+        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
+        "imagen_producto":"imagenes/lyafarm/productos/ABRIBRONC.png",
+        "laboratorio": "LYAFARM",
+        "linea_medicinal": "7. Línea Natural",
+        "tamaño_imagen": "2%",
+        "escala":"no",
+        "existe":"si"
       }
 ]
