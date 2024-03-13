@@ -119,7 +119,7 @@
       },
       {
         "precio": "S/28.75",
-        "nombre": "NAPROXENO",
+        "nombre": "NAPROXENO 550mg",
         "descripcion": "",
         "presentacion": "Caja x 100 Tabletas Recubiertas",
         "imagen": "imagenes/labogen/labogen_portada.jpg",
@@ -132,7 +132,7 @@
       },
       {
         "precio": "S/32.00",
-        "nombre": "ACETILCISTEÍNA 200",
+        "nombre": "ACETILCISTEÍNA 200mg",
         "descripcion": "",
         "presentacion": "Caja x 50 sobres",
         "imagen": "imagenes/labogen/labogen_portada.jpg",
@@ -145,7 +145,7 @@
       },
       {
         "precio": "S/43.00",
-        "nombre": "ACETILCISTEÍNA 600",
+        "nombre": "ACETILCISTEÍNA 600mg",
         "descripcion": "",
         "presentacion": "Caja x 50 sobres",
         "imagen": "imagenes/labogen/labogen_portada.jpg",
@@ -158,7 +158,7 @@
       },
       {
         "precio": "S/26.25",
-        "nombre": "atorvastatina 40",
+        "nombre": "atorvastatina 40mg",
         "descripcion": "",
         "presentacion": "Caja x 100 Tabletas Recubiertas",
         "imagen": "imagenes/labogen/labogen_portada.jpg",
@@ -171,7 +171,7 @@
       },
       {
         "precio": "S/35.00",
-        "nombre": "DOBESILATO CÁLCICO",
+        "nombre": "DOBESILATO CÁLCICO 500mg",
         "descripcion": "",
         "presentacion": "Caja x 100 Cápsulas",
         "imagen": "imagenes/labogen/labogen_portada.jpg",
@@ -184,7 +184,7 @@
       },
       {
         "precio": "S/23.62",
-        "nombre": "GABAPENTINA",
+        "nombre": "GABAPENTINA 300mg",
         "descripcion": "",
         "presentacion": "Caja x 100 Cápsulas",
         "imagen": "imagenes/labogen/labogen_portada.jpg",
