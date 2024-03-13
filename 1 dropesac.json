@@ -157,7 +157,6 @@
     "escala":"no",
     "existe":"si"
   },
-  
   {
     "precio": "S/25.74",
     "nombre": "3-GEL",
@@ -169,7 +168,7 @@
     "linea_medicinal": "3. Línea Gastro",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/138.12",
@@ -304,6 +303,7 @@
     "existe":"si"
   },
   
+  
   {
     "precio": "S/20.06",
     "nombre": "BIOVITON",
@@ -315,7 +315,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "10%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/28.93",
@@ -328,7 +328,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "10%",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/111.56",
@@ -471,7 +471,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/40.52",

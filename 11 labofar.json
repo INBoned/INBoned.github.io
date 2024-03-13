@@ -142,7 +142,7 @@
         "linea_medicinal": "3. Línea Mucolítico Expectorante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/11.38",
@@ -259,7 +259,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/76.25",
