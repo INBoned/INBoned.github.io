@@ -14,9 +14,9 @@
       },
       {
         "precio": "S/27.23",
-        "nombre": "OROFER 250ML",
+        "nombre": "OROFER 150ML",
         "descripcion": "Complejo de Hidroxido Ferrico 50mg/5mL",
-        "presentacion": "Caja x 1 Frasco de 250mL",
+        "presentacion": "Caja x 1 Frasco de 150mL",
         "imagen": "imagenes/emcure/emcure_portada.jpg",
         "imagen_producto":"imagenes/emcure/productos/orofer 250ml.jpg",
         "laboratorio": "EMCURE",
@@ -67,7 +67,7 @@
       },
       {
         "precio": "S/186.90",
-        "nombre": "PAUSE-500",
+        "nombre": "PAUSE 500",
         "descripcion": "Acido Tranexámico 500mg",
         "presentacion": "Caja x 30 Tabletas",
         "imagen": "imagenes/emcure/emcure_portada.jpg",
@@ -80,7 +80,7 @@
       },
       {
         "precio": "S/31.32",
-        "nombre": "NUSAR-50",
+        "nombre": "NUSAR 50",
         "descripcion": "Losartán Potásico 50mg",
         "presentacion": "Caja x 30 Tabletas Recubiertas",
         "imagen": "imagenes/emcure/emcure_portada.jpg",
