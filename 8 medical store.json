@@ -31,7 +31,7 @@
 
     {
         "precio": "S/17.40",
-        "nombre": "MS-SUMIBLOC 40",
+        "nombre": "MS SUMIBLOC 40",
         "descripcion": "Clorhidrato de propanol 40mg",
         "presentacion": "Caja x 100 Tabletas",
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
@@ -77,7 +77,7 @@
 
     {
         "precio": "S/6.69",
-        "nombre": "MS-PROKINET",
+        "nombre": "MS PROKINET",
         "descripcion": "Metoclopramida 10mg/2mL IV/IM",
         "presentacion": "Caja x 10 Ampollas SI",
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",

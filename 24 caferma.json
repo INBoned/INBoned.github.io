@@ -82,7 +82,7 @@
       
       {
         "precio": "S/157.50",
-        "nombre": "DOLO-COMPLEX",
+        "nombre": "DOLO COMPLEX",
         "descripcion": "Diclofenaco 50mg +Vit B1, Vit B6, Vit B12",
         "presentacion": "Caja x 100 Cápsulas",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
@@ -271,7 +271,7 @@
       },
       
       {
-        "precio": "S/132.43",
+        "precio": "S/73.53",
         "nombre": "MEANTI",
         "descripcion": "Memantina Clorhidrato 10mg",
         "presentacion": "Caja x 30 Tabletas Recubiertas",
@@ -297,7 +297,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/24.65",
+        "precio": "S/19.93",
         "nombre": "LESSTAMIN SUSP.",
         "descripcion": "Levocetirizina 2.5mg/5mL",
         "presentacion": "Caja x 1 Frasco de 60mL",
@@ -350,7 +350,7 @@
       },
       
       {
-        "precio": "S/37.99",
+        "precio": "S/10.75",
         "nombre": "TERBIFUN CREMA",
         "descripcion": "Terbinafiina 1%",
         "presentacion": "Tubo x 15g Crema",
@@ -404,7 +404,7 @@
       },
       {
         "precio": "S/61.22",
-        "nombre": "FOS-HEPAN FORTE",
+        "nombre": "FOS HEPAN FORTE",
         "descripcion": "Silimarina 100mg + L/Glutation 50mg + Vitaminas",
         "presentacion": "Caja x 30 Cápsulas Blandas",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
@@ -443,7 +443,7 @@
       },
       {
         "precio": "S/33.00",
-        "nombre": "ROD-B",
+        "nombre": "ROD B",
         "descripcion": "Vit B1 + Colina Bitartrato + Inositol + Vit B3 + Vit B12 + Vit B9",
         "presentacion": "Caja x 30 Cápsulas Blandas",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
@@ -451,7 +451,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "11. Línea OTC",
         "tamaño_imagen": "10%",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       }
     ]
