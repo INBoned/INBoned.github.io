@@ -1,7 +1,7 @@
 [
     {
         "precio": "S/80.00",
-        "nombre": "ABUBRON-AB",
+        "nombre": "ABUBRON AB",
         "descripcion": "Amoxicilina 500mg + Ambroxol 30mg",
         "presentacion": "Caja x 100 Cápsulas",
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
@@ -14,7 +14,7 @@
       },
       {
         "precio": "S/12.45",
-        "nombre": "ABUBRON-AB SUSP.",
+        "nombre": "ABUBRON AB SUSP.",
         "descripcion": "Amoxicilina 250mg + Ambroxol 15mg",
         "presentacion": "Caja x 1 Frasco de 60mL",
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
@@ -27,7 +27,7 @@
       },
       {
         "precio": "S/103.32",
-        "nombre": "ABUBRON-BR",
+        "nombre": "ABUBRON BR",
         "descripcion": "Amoxicilina 500mg + Bromhexina Clorhidrato 8mg",
         "presentacion": "Caja x 100 Cápsulas",
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
@@ -40,7 +40,7 @@
       },
       {
         "precio": "S/12.13",
-        "nombre": "ABUBRON-BR SUSP.",
+        "nombre": "ABUBRON BR SUSP.",
         "descripcion": "Amoxicilina 250mg/5mL + Bromhexina Clorhidrato 4mg/5mL",
         "presentacion": "Caja x 1 Frasco de 60mL PPSO",
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
@@ -92,7 +92,7 @@
       },
       {
         "precio": "S/17.77",
-        "nombre": "FARMOXYL-CL SUSP",
+        "nombre": "FARMOXYL CL SUSP",
         "descripcion": "Amoxicilina 250mg + Acido Clavulánico 62.5mg",
         "presentacion": "Caja x 1 Frasco de 60mL PPSO",
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
@@ -105,7 +105,7 @@
       },
       {
         "precio": "S/27.75",
-        "nombre": "FARMOXYL-CL 875",
+        "nombre": "FARMOXYL CL 875",
         "descripcion": "Amoxicilina 875mg + Acido Clavulánico 125 mg",
         "presentacion": "Caja x 10 Tabletas Recubiertas",
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
@@ -172,7 +172,7 @@
       },
       {
         "precio": "S/59.30",
-        "nombre": "MIGRADRIN-F",
+        "nombre": "MIGRADRIN F",
         "descripcion": "Paracetamol 250mg + Ácido acetil salicílico 250mg + Cafeína 65mg",
         "presentacion": "Caja x 100 Tabletas Recubiertas",
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
