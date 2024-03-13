@@ -79,6 +79,19 @@
         "existe":"si"
       },
       {
+        "precio": "S/36.25",
+        "nombre": "LEVOCETIRIZINA 5MG",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/labogen/labogen_portada.jpg",
+        "imagen_producto":"imagenes/labogen/productos/levocetirizina.jpg",
+        "laboratorio": "LABOGEN",
+        "linea_medicinal": "3. Línea Antihistamínico",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
         "precio": "S/14.75",
         "nombre": "DEXAMETASONA 4MG",
         "descripcion": "",
