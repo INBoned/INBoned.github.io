@@ -78,7 +78,7 @@
     "existe":"si"
   },
   {
-    "precio": "S/18.89",
+    "precio": "S/15.94",
     "nombre": "CLANZA 100",
     "descripcion": "Aceclofenaco 100mg",
     "presentacion": "Caja x 10 Tabletas Recubiertas",
@@ -211,7 +211,7 @@
   },
   {
     "precio": "S/54.18",
-    "nombre": "DR. FLU",
+    "nombre": "DR FLU",
     "descripcion": "Paracetamol + Maleato de Clorf. Dextromet. Bromhidrato + Clorhid. de Fenilefrina",
     "presentacion": "Caja x 100 Cápsulas Blandas",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
@@ -319,7 +319,7 @@
   },
   {
     "precio": "S/28.93",
-    "nombre": "ORAMIN - F",
+    "nombre": "ORAMIN F",
     "descripcion": "Multivitaminico con Ginseng rojo y jalea real",
     "presentacion": "Caja x 30 Cápsulas Blandas",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
@@ -332,7 +332,7 @@
   },
   {
     "precio": "S/111.56",
-    "nombre": "B-VAT",
+    "nombre": "B VAT",
     "descripcion": "",
     "presentacion": "Caja x 10 Ampollas",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
@@ -345,7 +345,7 @@
   },
   {
     "precio": "S/146.62",
-    "nombre": "B-VAT FORTE",
+    "nombre": "B VAT FORTE",
     "descripcion": "",
     "presentacion": "Caja x 10 Ampollas",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
@@ -371,7 +371,7 @@
   },
   {
     "precio": "S/120.06",
-    "nombre": "M-VAT",
+    "nombre": "M VAT",
     "descripcion": "Mecobalamina 500ug/1mL",
     "presentacion": "Caja x 10 Amp.",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
