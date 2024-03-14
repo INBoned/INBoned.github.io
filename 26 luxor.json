@@ -122,5 +122,18 @@
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
+    },
+    {
+        "precio": "S/15.00",
+        "nombre": "CEFTRIAXONA 1G IV/IM",
+        "descripcion": "",
+        "presentacion": "CAJA X 10 VIALES",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/CEFTRIAXONA LUXOR.jpg",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "6. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
     }
 ]
