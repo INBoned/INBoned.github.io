@@ -78,6 +78,19 @@
     "existe":"si"
   },
   {
+    "precio": "S/18.89",
+    "nombre": "XONACEV",
+    "descripcion": "CEFTRIAXONA 1G + LIDOCAINA 1%",
+    "presentacion": "Caja x 1 VIAL",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+    "imagen_producto":"imagenes/dropesac/productos/XONACEF.jpg",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "1. Línea Antibiótica",
+    "tamaño_imagen": "100",
+    "escala":"no",
+    "existe":"si"
+  },
+  {
     "precio": "S/15.94",
     "nombre": "CLANZA 100",
     "descripcion": "Aceclofenaco 100mg",

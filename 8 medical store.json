@@ -26,6 +26,19 @@
         "escala":"si",
         "existe":"si"
     },
+    {
+        "precio": "S/15.26",
+        "nombre": "CYMAPRAM 10",
+        "descripcion": "ESCITALOPRAM 10MG",
+        "presentacion": "Caja x 30 TABLETAS RECUBIERTAS",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/CYMAPRAM.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "1. Línea Neuro",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+    },
 
 
 
@@ -105,6 +118,20 @@
         "existe":"si"
     },
 
+    {
+        "precio": "S/7.01",
+        "nombre": "MS FLUXTAC 50",
+        "descripcion": "Ranitidina 50mg/2ml",
+        "presentacion": "Caja x 10 Ampollas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/MS FLUXTAC.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "5. Línea Gastro",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+    },
+
 
 
     
@@ -154,6 +181,19 @@
         "escala":"no",
         "existe":"si"
     },
+    {
+        "precio": "S/6.96",
+        "nombre": "VIVANTIC 500",
+        "descripcion": "VANCOMICINA 500MG",
+        "presentacion": "Caja x 1 Vial",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/VIVANTIC 500.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "7. Línea Antibiótica",
+        "tamaño_imagen": "13%",
+        "escala":"no",
+        "existe":"si"
+    },
 
 
 
@@ -166,6 +206,20 @@
         "imagen_producto":"imagenes/medicalstore/productos/PHYSSAN.jpg",
         "laboratorio": "MEDICALSTORE",
         "linea_medicinal": "8. Línea Diurética",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+    },
+
+    {
+        "precio": "S/36.50",
+        "nombre": "MS-EDATRA",
+        "descripcion": "BUTILBROMURO DE HIOSCINA 10MG",
+        "presentacion": "Caja x 100 TABLETAS RECUBIERTAS",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/MS EDATRA.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "9. Línea Antiespasmódica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
