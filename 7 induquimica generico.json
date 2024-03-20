@@ -27,11 +27,11 @@
         "linea_medicinal": "2. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si" 
+        "existe":"no" 
     },
     {
         "precio": "S/5.55",
-        "nombre": "CLORFENAMINA 4MG",
+        "nombre": "CLORFENAMINA MALEATO 4MG",
         "descripcion": "",
         "presentacion": "Caja x 100 Tabletas Recubiertas",
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
@@ -40,7 +40,7 @@
         "linea_medicinal": "2. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si" 
+        "existe":"no" 
     },
 
 

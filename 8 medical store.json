@@ -14,6 +14,19 @@
         "existe":"si"
     },
     {
+        "precio": "S/29.45",
+        "nombre": "NEUROTINA",
+        "descripcion": "GABAPENTINA 300MG",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/NEUROTINA.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "1. Línea Neuro",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+    },
+    {
         "precio": "S/40.16",
         "nombre": "NEUPREL",
         "descripcion": "Pregabalina 75mg",
@@ -152,6 +165,19 @@
         "escala":"si",
         "existe":"si"
     },
+    {
+        "precio": "S/14.06",
+        "nombre": "THYROFIX 100",
+        "descripcion": "Levotiroxina Sódica 100mcg",
+        "presentacion": "Caja x 50 Tabletas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/THYROFIX 100.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "6. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+    },
 
 
     
@@ -191,7 +217,7 @@
         "laboratorio": "MEDICALSTORE",
         "linea_medicinal": "7. Línea Antibiótica",
         "tamaño_imagen": "13%",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
     },
 

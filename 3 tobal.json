@@ -103,7 +103,7 @@
         "linea_medicinal": "4. Línea Antiparasitario",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
 
 
@@ -155,6 +155,21 @@
         "laboratorio": "TOBAL",
         "linea_medicinal": "6. Línea Cardiológica",
         "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+
+
+      {
+        "precio": "S/2.30",
+        "nombre": "VIXINOR",
+        "descripcion": "LEVONORGESTREL 1.5MG",
+        "presentacion": "Caja x 1 Tableta",
+        "imagen": "imagenes/tobal/tobal_portada.jpg",
+        "imagen_producto":"imagenes/tobal/productos/vixinor.jpg",
+        "laboratorio": "TOBAL",
+        "linea_medicinal": "7. Línea Ginecológica",
+        "tamaño_imagen": "5%",
         "escala":"no",
         "existe":"si"
       }
