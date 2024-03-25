@@ -68,7 +68,7 @@
             <h1 id="coincidencias"></h1>
 
         </div>
-        <button style="display: none;" id="inicio">Ir a inicio</button>
+        <button id="inicio" onclick="desplazar()">Ir a inicio</button>
     </div>
     
         <div class="boton-container">
@@ -139,7 +139,6 @@
                 nutria.classList.remove("nutria");
                 nutria.classList.add("ocultarnutria");
             }
-            console.log('X:', window.screenX, 'Y:', window.screenY);
         });
         
 
@@ -180,14 +179,6 @@
 
             contenedorFirstProducto.scrollIntoView({ behavior: 'smooth', block: 'center' });
 
-
-            
-
-
-            if(foundIndexes[0]>7){
-                inicio.style.display = '';
-                inicio.setAttribute('onclick', 'desplazar()');
-            }
         }else{
             mostrarModal();
             let siguiente_producto = document.getElementById('siguiente');
@@ -345,7 +336,6 @@
         const firstProducto = productos[0];
         const contenedorFirstProducto = firstProducto.closest('.medicamento');
         contenedorFirstProducto.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        inicio.style.display = 'none';
         h1.textContent = '';
         siguiente_producto.style.display = 'none';
         anterior_producto.style.display = 'none';
