@@ -103,6 +103,19 @@
     "escala":"no",
     "existe":"si"
   },
+  {
+    "precio": "S/35.06",
+    "nombre": "CLANZA 200",
+    "descripcion": "Aceclofenaco 200mg",
+    "presentacion": "Caja x 10 Tabletas Recubiertas",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+    "imagen_producto":"imagenes/dropesac/productos/CLANZA 200.jpg",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "2. Línea Dolor",
+    "tamaño_imagen": "90",
+    "escala":"no",
+    "existe":"si"
+  },
   
   {
     "precio": "S/25.00",
@@ -183,6 +196,20 @@
     "escala":"no",
     "existe":"si"
   },
+  {
+    "precio": "S/13.81",
+    "nombre": "CLASIPRO",
+    "descripcion": "Bacillus Clausii 2000 millones de esporas/5mL Suspención Oral",
+    "presentacion": "Caja x 10 frascos de 5ml",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+      "imagen_producto":"imagenes/dropesac/productos/CLASIPRO.jpg",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "3. Línea Gastro",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"si"
+  },
+
   {
     "precio": "S/138.12",
     "nombre": "CRETROL",
@@ -315,6 +342,19 @@
     "escala":"no",
     "existe":"si"
   },
+  {
+    "precio": "S/17.00",
+    "nombre": "SYNATURA",
+    "descripcion": "Extracto seco Coptidis Rhizoma 4.4mg + Hedera Helix L.",
+    "presentacion": "caja x 21 Sobres",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+    "imagen_producto":"imagenes/dropesac/productos/SYNATURA X 21.jpg",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "7. Línea Natural",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"si"
+  },
   
   
   {
@@ -341,7 +381,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "10%",
     "escala":"si",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/111.56",
@@ -419,7 +459,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/30.71",
@@ -484,7 +524,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/40.52",
