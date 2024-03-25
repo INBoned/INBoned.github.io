@@ -65,15 +65,16 @@
             <button class="btn" onclick="searchProducts()"><i class="fa fa-search"></i></button>
             </div>
 
-            <button style="display: none;" id="anterior" onclick="anterior()"><i class="fa fa-arrow-left"></i></button>
-
-            <button style="display: none;" id="siguiente" onclick="siguiente()"><i class="fa fa-arrow-right"></i></button>
-
             <h1 id="coincidencias"></h1>
 
         </div>
         <button style="display: none;" id="inicio">Ir a inicio</button>
     </div>
+    
+        <div class="boton-container">
+            <button style="display: none;" id="anterior" onclick="anterior()"><i class="fa fa-arrow-left"></i></button>
+            <button style="display: none;" id="siguiente" onclick="siguiente()"><i class="fa fa-arrow-right"></i></button>
+        </div>
     
     <main id="medicamentos" class="catalogo">
         
@@ -99,7 +100,7 @@
     let idnutria;
     let idproducto;
     
-
+    
     function searchProducts() {
         
         buscador = 0;
@@ -138,7 +139,7 @@
                 nutria.classList.remove("nutria");
                 nutria.classList.add("ocultarnutria");
             }
-            
+            console.log('X:', window.screenX, 'Y:', window.screenY);
         });
         
 
