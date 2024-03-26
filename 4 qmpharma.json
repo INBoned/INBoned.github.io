@@ -107,7 +107,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/15.60",
@@ -150,7 +150,7 @@
         "linea_medicinal": "3. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/17.49",
