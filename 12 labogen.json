@@ -10,7 +10,7 @@
         "linea_medicinal": "1. Línea Cardio",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/28.62",
@@ -49,7 +49,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/81.24",
@@ -89,7 +89,7 @@
         "linea_medicinal": "3. Línea Antihistamínico",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/14.75",
