@@ -1,9 +1,8 @@
 
-document.addEventListener("DOMContentLoaded", function() {
-
 
     const laboratorios = [
         "1 dropesac.json",
+        "24 caferma.json",
         "2 terbol.json",
         "3 tobal.json",
         "4 qmpharma.json",
@@ -29,8 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "20 perufar.json",
         "21 jps.json",
         "22 otarvasq.json",
-        "23 dany.json",
-        "24 caferma.json"];
+        "23 dany.json"];
 
 let contador = 0;
 for (let i = 0; i < laboratorios.length; i++) {
@@ -164,6 +162,4 @@ function inicio(div) {
     
 }
 
-
-})
 
