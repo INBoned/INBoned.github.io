@@ -2,7 +2,7 @@
     
       
       {
-        "precio": "S/26.55",
+        "precio": "S/21.24",
         "nombre": "ETOXBLAM 90",
         "descripcion": "Etoricoxib 90mg",
         "presentacion": "Caja x 10 tableta recubierta",
@@ -201,7 +201,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/40.57",
+        "precio": "S/6.90",
         "nombre": "CEFTRIZOL",
         "descripcion": "Ceftriaxona 1g + Lidocaina ",
         "presentacion": "Caja x 1 vial Polvo para solución inyectable + 1 Amp. Solevente 3.5mL",
@@ -211,7 +211,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       
 
@@ -496,7 +496,7 @@
       },
 
       {
-        "precio": "S/35.94",
+        "precio": "S/17.97",
         "nombre": "B PEN",
         "descripcion": "Tadalafilo 20mg",
         "presentacion": "Caja x 4 Tabletas Recubiertas",
