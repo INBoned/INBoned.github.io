@@ -160,7 +160,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/9.31",
+        "precio": "S/7.76",
         "nombre": "DILOVET SUSPENSION",
         "descripcion": "Dicloxacilina 250mg/5mL",
         "presentacion": "Caja x 1 Frasco de 80mL",
@@ -174,7 +174,7 @@
       },
 
       {
-        "precio": "S/71.66",
+        "precio": "S/53.74",
         "nombre": "DILOVET CÁPSULA",
         "descripcion": "Dicloxacilina 500 MG",
         "presentacion": "Caja x 100 Cápsulas",
@@ -187,7 +187,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/40.57",
+        "precio": "S/22.31",
         "nombre": "DIZIMNA",
         "descripcion": "Levofloxacino 750mg",
         "presentacion": "Caja x 10 Tabletas Recubiertas",
@@ -198,6 +198,19 @@
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
+      },
+      {
+        "precio": "S/40.57",
+        "nombre": "CEFTRIZOL",
+        "descripcion": "Ceftriaxona 1g + Lidocaina ",
+        "presentacion": "Caja x 1 vial Polvo para solución inyectable + 1 Amp. Solevente 3.5mL",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/CEFTRIZOL.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "2. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       },
       
 
@@ -244,7 +257,7 @@
       },
 
       {
-        "precio": "S/52.25",
+        "precio": "S/39.19",
         "nombre": "MULCEROL 40",
         "descripcion": "Esomeprazol 40mg",
         "presentacion": "Caja x 30 Tabletas de Liberacion Retardada",
@@ -377,7 +390,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/19.93",
+        "precio": "S/14.95",
         "nombre": "LESSTAMIN SUSP.",
         "descripcion": "Levocetirizina 2.5mg/5mL",
         "presentacion": "Caja x 1 Frasco de 60mL",
@@ -403,7 +416,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/28.04",
+        "precio": "S/16.82",
         "nombre": "FEXAFEX  120",
         "descripcion": "Fexofenadina clorhidrato",
         "presentacion": "Caja x 10 Tabletas Recubiertas",
@@ -455,7 +468,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/10.75",
+        "precio": "S/10.32",
         "nombre": "TERBIFUN CREMA",
         "descripcion": "Terbinafina 1%",
         "presentacion": "Tubo x 15g Crema",
@@ -495,7 +508,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/21.44",
+        "precio": "S/16.08",
         "nombre": "NIMOCITAN K",
         "descripcion": "Citrato de Potasio 1080mg",
         "presentacion": "Caja x 14 TABLETAS DE LIBERACIÓN PROLONGADA",
