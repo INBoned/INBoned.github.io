@@ -10,7 +10,8 @@
         "linea_medicinal": "1. Línea Hepatoprotector",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/medikar.png"
       },
       {
         "precio": "S/70.00",
@@ -23,7 +24,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"si" 
       },
       {
         "precio": "S/6.80",

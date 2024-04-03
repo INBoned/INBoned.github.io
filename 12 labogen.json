@@ -1,5 +1,19 @@
 [
-    {
+      {
+        "precio": "S/28.62",
+        "nombre": "IRBESARTÁN 150MG",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Tabletas",
+        "imagen": "imagenes/labogen/labogen_portada.jpg",
+        "imagen_producto":"imagenes/labogen/productos/irbesartan 150.jpg",
+        "laboratorio": "LABOGEN",
+        "linea_medicinal": "1. Línea Cardio",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/LABOGEN.png" 
+      },
+      {
         "precio": "S/10.62",
         "nombre": "LOSARTÁN 50MG",
         "descripcion": "",
@@ -12,19 +26,7 @@
         "escala":"no",
         "existe":"no"
       },
-      {
-        "precio": "S/28.62",
-        "nombre": "IRBESARTÁN 150MG",
-        "descripcion": "",
-        "presentacion": "Caja x 100 Tabletas",
-        "imagen": "imagenes/labogen/labogen_portada.jpg",
-        "imagen_producto":"imagenes/labogen/productos/irbesartan 150.jpg",
-        "laboratorio": "LABOGEN",
-        "linea_medicinal": "1. Línea Cardio",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/42.52",
         "nombre": "IRBESARTÁN 300MG",

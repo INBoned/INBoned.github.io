@@ -10,7 +10,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "1%",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/OTARVASQ.png" 
       },
       {
         "precio": "S/30.00",

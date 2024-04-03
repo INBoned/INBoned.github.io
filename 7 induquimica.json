@@ -3,7 +3,20 @@
     
 
 
-
+    {
+        "precio": "S/4.39",
+        "nombre": "EVAZYR",
+        "descripcion": "Cetirizina 10 mg",
+        "presentacion": "Caja x 10 Tabletas Recubiertas",
+        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
+        "imagen_producto":"imagenes/induquimica/productos/induquimica_comercial/EVAZYR.jpg",
+        "laboratorio": "INDUQUIMICA",
+        "linea_medicinal": "1. Línea Antihistamínica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/induquimicaComercial.png" 
+    },
     {
         "precio": "S/13.78",
         "nombre": "SINALERG",
@@ -17,19 +30,7 @@
         "escala":"si",
         "existe":"no"
     },
-    {
-        "precio": "S/4.39",
-        "nombre": "EVAZYR",
-        "descripcion": "Cetirizina 10 mg",
-        "presentacion": "Caja x 10 Tabletas Recubiertas",
-        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
-        "imagen_producto":"imagenes/induquimica/productos/induquimica_comercial/EVAZYR.jpg",
-        "laboratorio": "INDUQUIMICA",
-        "linea_medicinal": "1. Línea Antihistamínica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si"
-    },
+    
     {
         "precio": "S/13.56",
         "nombre": "EVAZYR SUSP.",

@@ -10,7 +10,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "2%",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/Terbol.png"
       },
       {
         "precio": "S/8.30",

@@ -43,6 +43,7 @@ for (let i = 0; i < laboratorios.length; i++) {
             let laboratorio = null;
             let linea = null;
             let row;
+            let logoLab;
         
             let fila = 0;
 
@@ -64,7 +65,7 @@ for (let i = 0; i < laboratorios.length; i++) {
                         labImagen.style.backgroundImage = `url(${producto.imagen})`;
                         laboratorio.appendChild(labImagen);
 
-                        
+                        logoLab = producto.logoLab;
 
                         fila = 0;
                     }
@@ -113,6 +114,7 @@ for (let i = 0; i < laboratorios.length; i++) {
                             <img id="imagen_producto" src="${producto.imagen_producto}" />
                             </div>
                             </div>
+                            <img id="imagen_logoLab" src="${logoLab}"/>
                             <img id="logoboned" src="imagenes/logotipo.png" />
                             <img class="ocultarnutria" id="nutria${contadorlab}"  src="imagenes/nutria.png" />
                             <div class="precio">${producto.precio}</div> <!-- Precio -->

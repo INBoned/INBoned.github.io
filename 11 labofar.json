@@ -1,17 +1,4 @@
-[
-    {
-        "precio": "S/41.42",
-        "nombre": "KILACINOX",
-        "descripcion": "Clindamicina 300mg",
-        "presentacion": "Caja x 30 Cápsulas",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/kilacinox.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
+[ 
       {
         "precio": "S/16.88",
         "nombre": "ZITROLAB SUSP",
@@ -23,7 +10,21 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/labofar.png" 
+      },
+      {
+        "precio": "S/41.42",
+        "nombre": "KILACINOX",
+        "descripcion": "Clindamicina 300mg",
+        "presentacion": "Caja x 30 Cápsulas",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/kilacinox.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       },
       
       {

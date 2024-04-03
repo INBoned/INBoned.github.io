@@ -10,7 +10,8 @@
         "linea_medicinal": "1. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/arial.png" 
       },
       {
         "precio": "S/32.50",

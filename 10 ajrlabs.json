@@ -10,7 +10,8 @@
     "linea_medicinal": "1. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/ajr.png" 
   },
   {
     "precio": "S/17.00",

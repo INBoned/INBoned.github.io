@@ -1,17 +1,4 @@
-[
-      {
-        "precio": "S/7.50",
-        "nombre": "AMOXICILINA 250MG + ACIDO CLAVULANICO 62.5MG",
-        "descripcion": "",
-        "presentacion": "Caja x 1 Frasco x 60 ml",
-        "imagen": "imagenes/jps/jps_portada.jpg",
-        "imagen_producto":"imagenes/jps/productos/amoxicilina acido clavulanico.jpg",
-        "laboratorio": "JPS",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-      },
+[     
       {
         "precio": "S/3.50",
         "nombre": "XIMALAC",
@@ -23,7 +10,21 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/jps.png"
+      },
+      {
+        "precio": "S/7.50",
+        "nombre": "AMOXICILINA 250MG + ACIDO CLAVULANICO 62.5MG",
+        "descripcion": "",
+        "presentacion": "Caja x 1 Frasco x 60 ml",
+        "imagen": "imagenes/jps/jps_portada.jpg",
+        "imagen_producto":"imagenes/jps/productos/amoxicilina acido clavulanico.jpg",
+        "laboratorio": "JPS",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no" 
       },
       
       {
