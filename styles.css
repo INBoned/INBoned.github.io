@@ -351,7 +351,8 @@ html {
         background-position: center;
         background-repeat: no-repeat;
         min-height: 50px; /* Altura mínima de la imagen del laboratorio */
-        height: 15vw;  /* Altura de la imagen del laboratorio */
+        height: 20vw;  /* Altura de la imagen del laboratorio */
+        width: 100vw;
     }
 
         /*CONTENEDOR PARA LOS PRODUCTOS*/
