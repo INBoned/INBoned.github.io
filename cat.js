@@ -30,7 +30,7 @@
         "22 otarvasq.json",
         "23 dany.json"];
 
-let contador = 0;
+let contadorlab = 0;
 for (let i = 0; i < laboratorios.length; i++) {
 
     
@@ -114,11 +114,11 @@ for (let i = 0; i < laboratorios.length; i++) {
                             </div>
                             </div>
                             <img id="logoboned" src="imagenes/logotipo.png" />
-                            <img class="ocultarnutria" id="nutria${contador}"  src="imagenes/nutria.png" />
+                            <img class="ocultarnutria" id="nutria${contadorlab}"  src="imagenes/nutria.png" />
                             <div class="precio">${producto.precio}</div> <!-- Precio -->
                             <img id="globo_precio" src="imagenes/precio.png" />
                         `;
-                        contador++;
+                        contadorlab++;
                         row.appendChild(contProducto);
                         
                         if(fila === 1){

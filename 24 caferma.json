@@ -146,6 +146,59 @@
         "escala":"si",
         "existe":"si"
       },
+      {
+        "precio": "S/103.36",
+        "nombre": "VASENTOXIL",
+        "descripcion": "Sultamicilina 375mg",
+        "presentacion": "Caja x 30 Tabletas Recubiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/vasentoxil.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "2. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/9.31",
+        "nombre": "DILOVET SUSPENSION",
+        "descripcion": "Dicloxacilina 250mg/5mL",
+        "presentacion": "Caja x 1 Frasco de 80mL",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/dilovetsusp.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "2. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+
+      {
+        "precio": "S/71.66",
+        "nombre": "DILOVET CÁPSULA",
+        "descripcion": "Dicloxacilina 500 MG",
+        "presentacion": "Caja x 100 Cápsulas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/dilovet.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "2. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/40.57",
+        "nombre": "DIZIMNA",
+        "descripcion": "Levofloxacino 750mg",
+        "presentacion": "Caja x 10 Tabletas Recubiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/dizimna750.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "2. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
       
 
       {
@@ -189,6 +242,20 @@
         "escala":"no",
         "existe":"si"
       },
+
+      {
+        "precio": "S/52.25",
+        "nombre": "MULCEROL 40",
+        "descripcion": "Esomeprazol 40mg",
+        "presentacion": "Caja x 30 Tabletas de Liberacion Retardada",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/mulcerol40.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "4. Línea Gastro",
+        "tamaño_imagen": "0%",
+        "escala":"no",
+        "existe":"si"
+      },
       
       
       {
@@ -199,7 +266,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/irbesel 300.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "4. Línea Cardio",
+        "linea_medicinal": "5. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -212,7 +279,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/irbesel hc.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "4. Línea Cardio",
+        "linea_medicinal": "5. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -225,7 +292,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/irbesel hc 300.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "4. Línea Cardio",
+        "linea_medicinal": "5. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -238,7 +305,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/viboloxx.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "4. Línea Cardio",
+        "linea_medicinal": "5. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -251,7 +318,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/balile 75.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "5. Línea Neuro",
+        "linea_medicinal": "6. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -264,7 +331,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/balile 150.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "5. Línea Neuro",
+        "linea_medicinal": "6. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -277,7 +344,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/varpem.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "5. Línea Neuro",
+        "linea_medicinal": "6. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -291,7 +358,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/meanti.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "5. Línea Neuro",
+        "linea_medicinal": "6. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -304,7 +371,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/lesstamin tab.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "6. Línea Antihistamínica",
+        "linea_medicinal": "7. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -317,7 +384,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/lesstamin susp.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "6. Línea Antihistamínica",
+        "linea_medicinal": "7. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -330,7 +397,20 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/fexafex 180.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "6. Línea Antihistamínica",
+        "linea_medicinal": "7. Línea Antihistamínica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/28.04",
+        "nombre": "FEXAFEX  120",
+        "descripcion": "Fexofenadina clorhidrato",
+        "presentacion": "Caja x 10 Tabletas Recubiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/fexafex 120.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "7. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -343,7 +423,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/hisbec 16.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "7. Línea Antivertiginosa",
+        "linea_medicinal": "8. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -356,24 +436,36 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/hisbec 24.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "7. Línea Antivertiginosa",
+        "linea_medicinal": "8. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
       },
-      
+      {
+        "precio": "S/41.78",
+        "nombre": "TERBIFUN",
+        "descripcion": "Terbinafina 250mg",
+        "presentacion": "Caja x 28 Tabletas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/terbifun.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "9. Línea Antimicótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
       {
         "precio": "S/10.75",
         "nombre": "TERBIFUN CREMA",
-        "descripcion": "Terbinafiina 1%",
+        "descripcion": "Terbinafina 1%",
         "presentacion": "Tubo x 15g Crema",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/terbifun crema.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "8. Línea Antimicótica",
+        "linea_medicinal": "9. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/4.95",
@@ -383,12 +475,38 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/novucor crema.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "8. Línea Antimicótica",
+        "linea_medicinal": "9. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
       },
-      
+
+      {
+        "precio": "S/35.94",
+        "nombre": "B PEN",
+        "descripcion": "Tadalafilo 20mg",
+        "presentacion": "Caja x 4 Tabletas Recubiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/bpen.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "10. Línea Urológica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/21.44",
+        "nombre": "NIMOCITAN K",
+        "descripcion": "Citrato de Potasio 1080mg",
+        "presentacion": "Caja x 14 TABLETAS DE LIBERACIÓN PROLONGADA",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/nimocitan.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "10. Línea Urológica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
       {
         "precio": "S/66.00",
         "nombre": "UROSABAL",
@@ -397,7 +515,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/urosabal.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "9. Línea Urológica",
+        "linea_medicinal": "10. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -410,7 +528,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/ironfoc.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "10. Línea Antianémica",
+        "linea_medicinal": "11. Línea Antianémica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -423,7 +541,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/fos hepan forte.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "11. Línea OTC",
+        "linea_medicinal": "12. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
         "existe":"si"
@@ -436,7 +554,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/sopaldine.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "11. Línea OTC",
+        "linea_medicinal": "12. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
         "existe":"si"
@@ -449,7 +567,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/denzpil.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "11. Línea OTC",
+        "linea_medicinal": "12. Línea OTC",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -462,7 +580,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/rod b.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "11. Línea OTC",
+        "linea_medicinal": "12. Línea OTC",
         "tamaño_imagen": "10%",
         "escala":"si",
         "existe":"si"
