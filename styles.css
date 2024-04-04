@@ -8,7 +8,7 @@ body {
     overflow-x: hidden; /* Para evitar la barra de desplazamiento horizontal */
 }
 h1{
-    font-size: 15px;
+    font-size: 12px;
     font-family: 'Varela Round', sans-serif;
     color: white;
 }
@@ -19,7 +19,7 @@ h1{
     background-color: transparent;
         border: none;
         color: white;
-        font-size: 15px;
+        font-size: 12px;
         margin-right: 5px;
 
 }
