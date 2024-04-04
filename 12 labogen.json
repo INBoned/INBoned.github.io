@@ -114,7 +114,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/hioscina butil bromuro.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "4. Línea Dolor y Antiespasmódica",
+        "linea_medicinal": "2. Línea Dolor y Antiespasmódica",
         "tamaño_imagen": "12%",
         "escala":"no",
         "existe":"si"
@@ -140,7 +140,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/acetilcisteina 200.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "5. Línea Mucolítica",
+        "linea_medicinal": "3. Línea Mucolítica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -166,7 +166,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/atorvastatina 40.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "6. Línea Metabólica",
+        "linea_medicinal": "4. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -179,7 +179,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/dobesilato calcico.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "7. Línea Antivaricosa",
+        "linea_medicinal": "5. Línea Antivaricosa",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -192,7 +192,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/gabapentina.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "8. Línea Neurológica",
+        "linea_medicinal": "6. Línea Neurológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -205,7 +205,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/terbinafina.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "8. Línea Antimicótica",
+        "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
