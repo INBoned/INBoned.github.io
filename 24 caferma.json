@@ -27,6 +27,32 @@
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
+      },
+      {
+        "precio": "S/29.94",
+        "nombre": "PROFEKET 100MG/5ML",
+        "descripcion": "Ketoprofeno 100mg/5mL IV",
+        "presentacion": "Caja x 5 Amp.",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/profeket 100mg.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "1. Línea Dolor",
+        "tamaño_imagen": "0%",
+        "escala":"no",
+        "existe":"si"
+      },  
+      {
+        "precio": "S/20.79",
+        "nombre": "PROFEKET GEL",
+        "descripcion": "Ketoprofeno 2.5%",
+        "presentacion": "Tubo x 30gr",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/profeketgel.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "1. Línea Dolor",
+        "tamaño_imagen": "0%",
+        "escala":"no",
+        "existe":"si"
       }, 
       {
         "precio": "S/55.00",
@@ -228,6 +254,19 @@
         "escala":"no",
         "existe":"si"
       },
+      {
+        "precio": "S/29.98",
+        "nombre": "tyroxcaf",
+        "descripcion": "Levotiroxina Sódica 100mcg",
+        "presentacion": "Caja x 50 Tabletas ",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/tyroxcaf.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "3. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
       
       {
         "precio": "S/88.85",
@@ -253,6 +292,58 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "0%",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/60.58",
+        "nombre": "ATORSLIM 40",
+        "descripcion": "AtorvastaTina 40mg",
+        "presentacion": "Caja x 30 Tabletas Recubiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/atorslim 40.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "3. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/58.10",
+        "nombre": "VASTASLIM EZ",
+        "descripcion": "Ezetimiba + Simvastatina 10mg + 20mg",
+        "presentacion": "Caja x 20 Tabletas Recurbiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/VASTASLIM.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "3. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/51.47",
+        "nombre": "tsepros M",
+        "descripcion": "Glimepirida 2mg + Metformina HCL 500mg",
+        "presentacion": "Caja x 30 Tabletas Recurbiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/TSEPROSM.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "3. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/40.62",
+        "nombre": "trigliout",
+        "descripcion": "Ciprofibrato 100mg",
+        "presentacion": "Caja x 20 Tabletas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/trigliout.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "3. Línea Metabólica",
+        "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
       },
@@ -312,12 +403,38 @@
         "existe":"si"
       },
       {
+        "precio": "S/45.95",
+        "nombre": "FEDIRAL",
+        "descripcion": "Nifedipino 30mg",
+        "presentacion": "Caja x 20 Tabletas Recubiertas de Liberación Prolongadas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/fediral.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "5. Línea Cardio",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
         "precio": "S/110.55",
         "nombre": "VIBOLOXX",
         "descripcion": "Nebivolol 5mg",
         "presentacion": "Caja x 30 Tabletas",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/viboloxx.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "5. Línea Cardio",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/29.15",
+        "nombre": "LEISTRELL",
+        "descripcion": "Ácido Acetilsalicilico",
+        "presentacion": "Caja x 100 Tabletas de Liberación Retardada",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/leistrell.jpg",
         "laboratorio": "CAFERMA",
         "linea_medicinal": "5. Línea Cardio",
         "tamaño_imagen": "auto",
@@ -478,6 +595,19 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "9. Línea Antimicótica",
         "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/14.59",
+        "nombre": "TERBIFUN",
+        "descripcion": "Terbinafina 1%",
+        "presentacion": "Frasco x 30ml Solución Tópica",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/terbifunspray.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "9. Línea Antimicótica",
+        "tamaño_imagen": "8%",
         "escala":"no",
         "existe":"si"
       },
