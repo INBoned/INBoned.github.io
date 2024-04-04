@@ -120,7 +120,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/38.50",
@@ -277,6 +277,19 @@
         "presentacion": "Caja x 30 Cápsulas Blandas",
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/OMEGA 3.jpg",
+        "laboratorio": "TERBOL",
+        "linea_medicinal": "6. Línea Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/24.00",
+        "nombre": "OMEGA 3",
+        "descripcion": "Cápsula blanda 1000mg",
+        "presentacion": "Caja x 90 Cápsulas Blandas",
+        "imagen": "imagenes/terbol/terbol_portada.jpg",
+        "imagen_producto":"imagenes/terbol/productos/OMEGA 3 90.jpg",
         "laboratorio": "TERBOL",
         "linea_medicinal": "6. Línea Vitaminas",
         "tamaño_imagen": "auto",

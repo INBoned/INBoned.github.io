@@ -28,7 +28,7 @@
         "linea_medicinal": "1. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     },
     
     {
@@ -86,6 +86,19 @@
         "imagen_producto":"imagenes/induquimica/productos/induquimica_comercial/LEFOQUIM 500MG.jpg",
         "laboratorio": "INDUQUIMICA",
         "linea_medicinal": "4. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+    },
+    {
+        "precio": "S/7.62",
+        "nombre": "EXTENZE GEL",
+        "descripcion": "Diclofenaco Dietil Amonio 1%",
+        "presentacion": "Tubo x 40 g",
+        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
+        "imagen_producto":"imagenes/induquimica/productos/induquimica_comercial/EXTENZE GEL.jpg",
+        "laboratorio": "INDUQUIMICA",
+        "linea_medicinal": "5. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"

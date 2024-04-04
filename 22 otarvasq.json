@@ -116,6 +116,19 @@
         "linea_medicinal": "5. Línea Diurética",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
+      },
+      {
+        "precio": "S/16.50",
+        "nombre": "FLUNGOFYL",
+        "descripcion": "Fluconazol en Cloruro de Sodio 200mg/100mL IV",
+        "presentacion": "Caja x 1 Frasco de 100mL SPP",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/flungofyl.jpg",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "6. Línea Antimicótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
       }
     ]

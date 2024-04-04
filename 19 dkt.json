@@ -197,6 +197,19 @@
     },
     {
         "precio": "S/14.34",
+        "nombre": "PRUDENCE GEL FRUTILLA",
+        "descripcion": "Sabor y aroma a frutilla",
+        "presentacion": "Caja x 1 tubo de 100g",
+        "imagen": "imagenes/dkt/dkt_portada.jpg",
+        "imagen_producto":"imagenes/dkt/productos/prudence gel frutilla.jpg",
+        "laboratorio": "DKT",
+        "linea_medicinal": "1. Línea Prevención",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/14.34",
         "nombre": "PRUDENCE GEL SABOR MENTA",
         "descripcion": " Sabor y aroma a menta ",
         "presentacion": "Caja x 1 tubo de 100g",

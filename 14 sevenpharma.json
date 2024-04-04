@@ -76,7 +76,7 @@
         "linea_medicinal": "2. Línea Broncodilatador",
         "tamaño_imagen": "12%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/43.75",
@@ -102,6 +102,6 @@
         "linea_medicinal": "4. Línea Antianémica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       }
     ]
