@@ -186,7 +186,7 @@
   },
   {
     "precio": "S/25.74",
-    "nombre": "3-GEL",
+    "nombre": "3 GEL",
     "descripcion": "Gel seco de Hidróxido de Aluminio 582mg, Hidróxido de Magnesio 196mg,Oxetacaina 20mg",
     "presentacion": "Caja x 20 Sobres de 10ml",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
@@ -195,7 +195,7 @@
     "linea_medicinal": "3. Línea Gastro",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/13.81",
@@ -499,7 +499,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/32.63",

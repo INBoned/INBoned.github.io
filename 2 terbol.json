@@ -103,7 +103,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       
 
@@ -474,6 +474,19 @@
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
+      },
+      {
+        "precio": "S/19.00",
+        "nombre": "ISOTON C",
+        "descripcion": "Magnesio Vitamina C - Calcio",
+        "presentacion": "Caja x 14 Tabletas Efervescentes",
+        "imagen": "imagenes/terbol/terbol_portada.jpg",
+        "imagen_producto":"imagenes/terbol/productos/ISOTON C.jpg",
+        "laboratorio": "TERBOL",
+        "linea_medicinal": "6. Línea Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       },
 
       {
