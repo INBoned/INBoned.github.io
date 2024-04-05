@@ -16,9 +16,22 @@
         "logoLab":"imagenes/logoProveedores/caferma.png" 
       },
       {
+        "precio": "S/34.56",
+        "nombre": "DI PROFEKET",
+        "descripcion": "Ketoprofeno 150MG",
+        "presentacion": "Caja x 20 CAPSULAS",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/DI PROFEKET.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "1. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
         "precio": "S/57.35",
         "nombre": "PROFEKET 100MG/2ML",
-        "descripcion": "Ketoprofeno100mg/2mL IM",
+        "descripcion": "Ketoprofeno 100mg/2mL IM",
         "presentacion": "Caja x 10 Amp.",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/PROFEKET 100MG 2ML.jpg",
