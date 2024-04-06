@@ -284,7 +284,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/24.00",
+        "precio": "S/70.00",
         "nombre": "OMEGA 3",
         "descripcion": "Cápsula blanda 1000mg",
         "presentacion": "Caja x 90 Cápsulas Blandas",
@@ -294,7 +294,7 @@
         "linea_medicinal": "6. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
