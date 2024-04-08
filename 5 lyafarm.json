@@ -76,7 +76,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/50.64",
@@ -143,7 +143,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "2%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/50.50",

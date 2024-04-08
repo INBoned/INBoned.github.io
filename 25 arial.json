@@ -10,7 +10,7 @@
         "linea_medicinal": "1. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/arial.png" 
       },
       {
@@ -21,7 +21,7 @@
         "imagen": "imagenes/arial/arial_portada.jpg",
         "imagen_producto":"imagenes/arial/productos/ENJOY LOVE.jpg",
         "laboratorio": "ARIAL",
-        "linea_medicinal": "2. Línea Protección",
+        "linea_medicinal": "1. Línea Protección",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"

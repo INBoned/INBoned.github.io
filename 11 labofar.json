@@ -24,7 +24,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       
       {
@@ -78,7 +78,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/40.62",
@@ -195,7 +195,7 @@
         "linea_medicinal": "4. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/12.50",
