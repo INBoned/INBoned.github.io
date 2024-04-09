@@ -182,7 +182,7 @@
       {
         "precio": "S/15.59",
         "nombre": "FLORA BALANCE",
-        "descripcion": "Esporas de Basillus Claudio2000 Millones/5mL",
+        "descripcion": "Esporas de Basillus Claudi 2000 Millones/5mL",
         "presentacion": "Caja x 10 Frasco de 5ML S.O.",
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/FLORA BALANCE.jpg",
@@ -190,7 +190,7 @@
         "linea_medicinal": "3. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/59.89",
