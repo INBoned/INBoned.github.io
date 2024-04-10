@@ -24,7 +24,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/11.83",
@@ -76,7 +76,7 @@
         "linea_medicinal": "2. Línea Broncodilatador",
         "tamaño_imagen": "12%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/43.75",

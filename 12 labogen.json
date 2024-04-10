@@ -64,7 +64,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
 
       {
@@ -78,7 +78,7 @@
         "linea_medicinal": "3. Línea Antihistamínico",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/36.25",
@@ -156,7 +156,7 @@
         "linea_medicinal": "5. Línea Mucolítica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/26.25",
@@ -182,7 +182,7 @@
         "linea_medicinal": "5. Línea Antivaricosa",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/23.62",
