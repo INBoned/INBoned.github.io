@@ -278,7 +278,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
@@ -358,7 +358,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
 
       {
@@ -583,7 +583,7 @@
         "linea_medicinal": "8. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/39.00",
@@ -675,7 +675,7 @@
         "linea_medicinal": "10. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/110.33",
@@ -688,7 +688,7 @@
         "linea_medicinal": "11. Línea Antianémica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/61.22",
