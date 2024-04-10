@@ -219,22 +219,6 @@
         "existe":"si"
       },
 
-
-
-      {
-        "precio": "S/24.90",
-        "nombre": "HISTIGLOB 16MG",
-        "descripcion": "Betahistina 16mg",
-        "presentacion": "Caja x 20 Tabletas",
-        "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
-        "imagen_producto":"imagenes/qmpharma/productos/HISTIGLOB 16MG.jpg",
-        "laboratorio": "QMPHARMA",
-        "linea_medicinal": "4. Línea Antivertiginosa",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-
       {
         "precio": "S/22.56",
         "nombre": "VIRIGOR 20MG",
@@ -243,7 +227,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/VIRIGOR 20MG.png",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -256,7 +240,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/UROTOIN XR.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -269,7 +253,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/TAMSULOSINA CLORHIDRADO.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -282,7 +266,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/SILDENAFILO 100MG QM.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -295,7 +279,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/SILDENAFILO 50MG QM.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -308,7 +292,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/URIGLOB.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -321,28 +305,13 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/BIPROST-TD.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
       },
 
 
-
-
-      {
-        "precio": "S/26.56",
-        "nombre": "ESCITALOPRAM",
-        "descripcion": "",
-        "presentacion": "Caja x 30 Tabletas RECUBIERTAS",
-        "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
-        "imagen_producto":"imagenes/qmpharma/productos/ESCITALOPRAM.jpg",
-        "laboratorio": "QMPHARMA",
-        "linea_medicinal": "6. Línea Neuro",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
 
 
 
@@ -354,7 +323,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/MAGZIVIT.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "7. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -371,7 +340,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/DESLORATADINA 5MG QM.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "8. Línea Antihistamínica",
+        "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -384,7 +353,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/FEXOGLOB 120.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "8. Línea Antihistamínica",
+        "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -397,7 +366,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/FEXOGLOB 180.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "8. Línea Antihistamínica",
+        "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -413,7 +382,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/FEROSOM FORTE.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "9. Línea Hematológica",
+        "linea_medicinal": "7. Línea Hematológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -426,7 +395,7 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/FEROSOM FORTE SUSP.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "9. Línea Hematológica",
+        "linea_medicinal": "7. Línea Hematológica",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -444,9 +413,36 @@
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/LOSARTAN POTASICO QM.jpg",
         "laboratorio": "QMPHARMA",
-        "linea_medicinal": "10. Línea Cardio",
+        "linea_medicinal": "8. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
+      },
+
+      {
+        "precio": "S/24.90",
+        "nombre": "HISTIGLOB 16MG",
+        "descripcion": "Betahistina 16mg",
+        "presentacion": "Caja x 20 Tabletas",
+        "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
+        "imagen_producto":"imagenes/qmpharma/productos/HISTIGLOB 16MG.jpg",
+        "laboratorio": "QMPHARMA",
+        "linea_medicinal": "9. Línea Antivertiginosa",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/26.56",
+        "nombre": "ESCITALOPRAM",
+        "descripcion": "",
+        "presentacion": "Caja x 30 Tabletas RECUBIERTAS",
+        "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
+        "imagen_producto":"imagenes/qmpharma/productos/ESCITALOPRAM.jpg",
+        "laboratorio": "QMPHARMA",
+        "linea_medicinal": "10. Línea Neuro",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       }
 ]

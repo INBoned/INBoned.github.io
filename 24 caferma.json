@@ -678,19 +678,6 @@
         "existe":"no"
       },
       {
-        "precio": "S/110.33",
-        "nombre": "IRONFOC",
-        "descripcion": "Hierro Sacarato 100mg/5ml IV",
-        "presentacion": "Caja x 5 Ampollas",
-        "imagen": "imagenes/caferma/caferma_portada.jpg",
-        "imagen_producto":"imagenes/caferma/productos/ironfoc.jpg",
-        "laboratorio": "CAFERMA",
-        "linea_medicinal": "11. Línea Antianémica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
         "precio": "S/61.22",
         "nombre": "FOS HEPAN FORTE",
         "descripcion": "Silimarina 100mg + L/Glutation 50mg + Vitaminas",
@@ -698,7 +685,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/fos hepan forte.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "12. Línea OTC",
+        "linea_medicinal": "11. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
         "existe":"si"
@@ -711,7 +698,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/sopaldine.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "12. Línea OTC",
+        "linea_medicinal": "11. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
         "existe":"si"
@@ -724,7 +711,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/denzpil.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "12. Línea OTC",
+        "linea_medicinal": "11. Línea OTC",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -737,9 +724,22 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/rod b.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "12. Línea OTC",
+        "linea_medicinal": "11. Línea OTC",
         "tamaño_imagen": "10%",
         "escala":"si",
         "existe":"si"
+      },
+      {
+        "precio": "S/110.33",
+        "nombre": "IRONFOC",
+        "descripcion": "Hierro Sacarato 100mg/5ml IV",
+        "presentacion": "Caja x 5 Ampollas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/ironfoc.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "12. Línea Antianémica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       }
     ]

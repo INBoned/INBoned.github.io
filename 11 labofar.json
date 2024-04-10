@@ -236,32 +236,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/72.49",
-        "nombre": "HIOSIMOL COMPUESTO",
-        "descripcion": "Paracetamol 500mg Hioscina + Butil Bromuro 10mg",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/hiosimol compuesto.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "6. Línea Espasmódica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/76.25",
-        "nombre": "PLIDOLAN COMPUESTO",
-        "descripcion": "Hioscina butil bromuro 10mg + Metamizol sódico 250mg",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/plidolan compuesto.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "6. Línea Espasmódica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
+      
       {
         "precio": "S/8.74",
         "nombre": "TERBILAB CREMA",
@@ -270,7 +245,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/terbilab crema.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "7. Línea Antimicótica",
+        "linea_medicinal": "6. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -283,7 +258,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/terbilab tab.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "7. Línea Antimicótica",
+        "linea_medicinal": "6. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -296,7 +271,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/gaselab.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "8. Línea Gastro",
+        "linea_medicinal": "7. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -309,7 +284,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/nocidex.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "8. Línea Gastro",
+        "linea_medicinal": "7. Línea Gastro",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -322,7 +297,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/labutol.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "8. Línea Gastro",
+        "linea_medicinal": "7. Línea Gastro",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
@@ -335,9 +310,35 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/vodravol.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "9. Línea Antiemética",
+        "linea_medicinal": "8. Línea Antiemética",
         "tamaño_imagen": "12%",
         "escala":"no",
         "existe":"si"
+      },
+      {
+        "precio": "S/72.49",
+        "nombre": "HIOSIMOL COMPUESTO",
+        "descripcion": "Paracetamol 500mg Hioscina + Butil Bromuro 10mg",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/hiosimol compuesto.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "9. Línea Espasmódica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/76.25",
+        "nombre": "PLIDOLAN COMPUESTO",
+        "descripcion": "Hioscina butil bromuro 10mg + Metamizol sódico 250mg",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/plidolan compuesto.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "9. Línea Espasmódica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       }
     ]

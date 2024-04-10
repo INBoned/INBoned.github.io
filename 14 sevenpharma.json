@@ -65,19 +65,7 @@
         "escala":"si",
         "existe":"si"
       },
-      {
-        "precio": "S/6.50",
-        "nombre": "SALBUTAMOL",
-        "descripcion": "Salbutamol 100mcg/dosis",
-        "presentacion": "Caja x 1 Unidad",
-        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
-        "imagen_producto":"imagenes/sevenpharma/productos/salbutamol.jpg",
-        "laboratorio": "SEVEN PHARMA",
-        "linea_medicinal": "2. Línea Broncodilatador",
-        "tamaño_imagen": "12%",
-        "escala":"no",
-        "existe":"no"
-      },
+      
       {
         "precio": "S/43.75",
         "nombre": "IRBECARD 150",
@@ -86,7 +74,7 @@
         "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
         "imagen_producto":"imagenes/sevenpharma/productos/irbercard 150.jpg",
         "laboratorio": "SEVEN PHARMA",
-        "linea_medicinal": "3. Línea Cardio",
+        "linea_medicinal": "2. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -99,9 +87,22 @@
         "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
         "imagen_producto":"imagenes/sevenpharma/productos/hierro sacarosa.jpg",
         "laboratorio": "SEVEN PHARMA",
-        "linea_medicinal": "4. Línea Antianémica",
+        "linea_medicinal": "3. Línea Antianémica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
+      },
+      {
+        "precio": "S/6.50",
+        "nombre": "SALBUTAMOL",
+        "descripcion": "Salbutamol 100mcg/dosis",
+        "presentacion": "Caja x 1 Unidad",
+        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
+        "imagen_producto":"imagenes/sevenpharma/productos/salbutamol.jpg",
+        "laboratorio": "SEVEN PHARMA",
+        "linea_medicinal": "4. Línea Broncodilatador",
+        "tamaño_imagen": "12%",
+        "escala":"no",
+        "existe":"no"
       }
     ]

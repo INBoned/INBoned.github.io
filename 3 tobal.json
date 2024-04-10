@@ -86,12 +86,48 @@
         "escala":"no",
         "existe":"si"
       },
-      
-      
 
-      
+      {
+        "precio": "S/34.00",
+        "nombre": "ZECARDIX PLUS 40",
+        "descripcion": "Telmisartán 40mg + Hidroclorotiazida 12.5mg",
+        "presentacion": "Caja x 30 Tabletas Recubiertas",
+        "imagen": "imagenes/tobal/tobal_portada.jpg",
+        "imagen_producto":"imagenes/tobal/productos/ZECARDIX PLUS 40.jpg",
+        "laboratorio": "TOBAL",
+        "linea_medicinal": "4. Línea Cardiológica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/39.60",
+        "nombre": "ZECARDIX PLUS 80",
+        "descripcion": "Telmisartán 80mg + Hidroclorotiazida 12.5mg",
+        "presentacion": "Caja x 30 Tabletas Recubiertas",
+        "imagen": "imagenes/tobal/tobal_portada.jpg",
+        "imagen_producto":"imagenes/tobal/productos/ZECARDIX PLUS 80.jpg",
+        "laboratorio": "TOBAL",
+        "linea_medicinal": "4. Línea Cardiológica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
 
 
+      {
+        "precio": "S/2.30",
+        "nombre": "VIXINOR",
+        "descripcion": "LEVONORGESTREL 1.5MG",
+        "presentacion": "Caja x 1 Tableta",
+        "imagen": "imagenes/tobal/tobal_portada.jpg",
+        "imagen_producto":"imagenes/tobal/productos/vixinor.jpg",
+        "laboratorio": "TOBAL",
+        "linea_medicinal": "5. Línea Ginecológica",
+        "tamaño_imagen": "5%",
+        "escala":"no",
+        "existe":"no"
+      },
 
       {
         "precio": "S/15.50",
@@ -101,7 +137,7 @@
         "imagen": "imagenes/tobal/tobal_portada.jpg",
         "imagen_producto":"imagenes/tobal/productos/XEROXZANIDA SUSP.jpg",
         "laboratorio": "TOBAL",
-        "linea_medicinal": "4. Línea Antiparasitario",
+        "linea_medicinal": "6. Línea Antiparasitario",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -120,57 +156,6 @@
         "laboratorio": "TOBAL",
         "linea_medicinal": "5. Línea Broncodilatadora y Espectorante",
         "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-
-
-
-
-
-      
-
-
-
-
-      {
-        "precio": "S/34.00",
-        "nombre": "ZECARDIX PLUS 40",
-        "descripcion": "Telmisartán 40mg + Hidroclorotiazida 12.5mg",
-        "presentacion": "Caja x 30 Tabletas Recubiertas",
-        "imagen": "imagenes/tobal/tobal_portada.jpg",
-        "imagen_producto":"imagenes/tobal/productos/ZECARDIX PLUS 40.jpg",
-        "laboratorio": "TOBAL",
-        "linea_medicinal": "6. Línea Cardiológica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
-      {
-        "precio": "S/39.60",
-        "nombre": "ZECARDIX PLUS 80",
-        "descripcion": "Telmisartán 80mg + Hidroclorotiazida 12.5mg",
-        "presentacion": "Caja x 30 Tabletas Recubiertas",
-        "imagen": "imagenes/tobal/tobal_portada.jpg",
-        "imagen_producto":"imagenes/tobal/productos/ZECARDIX PLUS 80.jpg",
-        "laboratorio": "TOBAL",
-        "linea_medicinal": "6. Línea Cardiológica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
-
-
-      {
-        "precio": "S/2.30",
-        "nombre": "VIXINOR",
-        "descripcion": "LEVONORGESTREL 1.5MG",
-        "presentacion": "Caja x 1 Tableta",
-        "imagen": "imagenes/tobal/tobal_portada.jpg",
-        "imagen_producto":"imagenes/tobal/productos/vixinor.jpg",
-        "laboratorio": "TOBAL",
-        "linea_medicinal": "7. Línea Ginecológica",
-        "tamaño_imagen": "5%",
         "escala":"no",
         "existe":"no"
       }

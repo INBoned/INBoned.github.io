@@ -112,24 +112,6 @@
       },
 
 
-
-      {
-        "precio": "S/8.93",
-        "nombre": "DUOCLAMOX",
-        "descripcion": "Amoxicilina 500mg + Acido Clavulanico 125mg",
-        "presentacion": "Caja x 10 Tabletas Recubiertas",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DUOCLAMOX.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "5. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-
-
-
-
       {
         "precio": "S/41.89",
         "nombre": "DYOMIN H",
@@ -138,7 +120,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DYOMIN H.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "6. Línea Urológica",
+        "linea_medicinal": "5. Línea Urológica",
         "escala":"no",
         "existe":"si"
       },
@@ -150,7 +132,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/PROSTAMICIL.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "6. Línea Urológica",
+        "linea_medicinal": "5. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -166,9 +148,22 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/NADO.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "7. Línea Hisopos",
+        "linea_medicinal": "6. Línea Hisopos",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
+      },
+      {
+        "precio": "S/8.93",
+        "nombre": "DUOCLAMOX",
+        "descripcion": "Amoxicilina 500mg + Acido Clavulanico 125mg",
+        "presentacion": "Caja x 10 Tabletas Recubiertas",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DUOCLAMOX.jpg",
+        "laboratorio": "DIPHASAC",
+        "linea_medicinal": "7. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       }
 ]

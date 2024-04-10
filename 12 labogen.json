@@ -114,7 +114,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/hioscina butil bromuro.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "2. Línea Dolor y Antiespasmódica",
+        "linea_medicinal": "4. Línea Dolor y Antiespasmódica",
         "tamaño_imagen": "12%",
         "escala":"no",
         "existe":"si"
@@ -140,7 +140,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/acetilcisteina 200.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "3. Línea Mucolítica",
+        "linea_medicinal": "5. Línea Mucolítica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -166,24 +166,12 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/atorvastatina 40.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "4. Línea Metabólica",
+        "linea_medicinal": "6. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/35.00",
-        "nombre": "DOBESILATO CÁLCICO 500mg",
-        "descripcion": "",
-        "presentacion": "Caja x 100 Cápsulas",
-        "imagen": "imagenes/labogen/labogen_portada.jpg",
-        "imagen_producto":"imagenes/labogen/productos/dobesilato calcico.jpg",
-        "laboratorio": "LABOGEN",
-        "linea_medicinal": "5. Línea Antivaricosa",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
+      
       {
         "precio": "S/23.62",
         "nombre": "GABAPENTINA 300mg",
@@ -192,7 +180,7 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/gabapentina.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "6. Línea Neurológica",
+        "linea_medicinal": "7. Línea Neurológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -205,9 +193,22 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/terbinafina.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "7. Línea Antimicótica",
+        "linea_medicinal": "8. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
+      },
+      {
+        "precio": "S/35.00",
+        "nombre": "DOBESILATO CÁLCICO 500mg",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Cápsulas",
+        "imagen": "imagenes/labogen/labogen_portada.jpg",
+        "imagen_producto":"imagenes/labogen/productos/dobesilato calcico.jpg",
+        "laboratorio": "LABOGEN",
+        "linea_medicinal": "9. Línea Antivaricosa",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       }
     ]

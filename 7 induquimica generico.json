@@ -13,40 +13,6 @@
         "existe":"si",
         "logoLab":"imagenes/logoProveedores/induquimica.png" 
     },
-
-
-
-
-    {
-        "precio": "S/5.25",
-        "nombre": "LORATADINA 5MG/5ML",
-        "descripcion": "",
-        "presentacion": "CAJA X 1 Jarabe DE 60 mL",
-        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
-        "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/LORATADINA 5MG 5ML.jpg",
-        "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "2. Línea Antihistamínica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no" 
-    },
-    {
-        "precio": "S/5.55",
-        "nombre": "CLORFENAMINA MALEATO 4MG",
-        "descripcion": "",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
-        "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/CLORFENAMINA 4MG.jpg",
-        "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "2. Línea Antihistamínica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no" 
-    },
-
-
-
-
     
     
     {
@@ -57,7 +23,7 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/CLARITROMICINA 250MG 5ML.jpg",
         "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "3. Línea Antibiótica",
+        "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si" 
@@ -73,7 +39,7 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/SILDENAFILO 100MG.jpg",
         "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "4. Línea Urológica",
+        "linea_medicinal": "3. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si" 
@@ -86,17 +52,36 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/CAPTOPRIL 25MG.jpg",
         "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "4. Línea Urológica",
+        "linea_medicinal": "3. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si" 
+    },
+    {
+        "precio": "S/5.25",
+        "nombre": "LORATADINA 5MG/5ML",
+        "descripcion": "",
+        "presentacion": "CAJA X 1 Jarabe DE 60 mL",
+        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
+        "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/LORATADINA 5MG 5ML.jpg",
+        "laboratorio": "INDUQUIMICA_GENERICO",
+        "linea_medicinal": "4. Línea Antihistamínica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no" 
+    },
+    {
+        "precio": "S/5.55",
+        "nombre": "CLORFENAMINA MALEATO 4MG",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
+        "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/CLORFENAMINA 4MG.jpg",
+        "laboratorio": "INDUQUIMICA_GENERICO",
+        "linea_medicinal": "4. Línea Antihistamínica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no" 
     }
 
-
-
-    
-
-
-
-    
 ]

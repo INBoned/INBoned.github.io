@@ -121,20 +121,6 @@
     "escala":"si",
     "existe":"si"
   },
-  
-  {
-    "precio": "S/180.00",
-    "nombre": "FLUKONOR",
-    "descripcion": "Fluconazol 150mg",
-    "presentacion": "Caja x 100 CÁPSULAS",
-    "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
-    "imagen_producto":"imagenes/nordicpharmaceutical/productos/FLUKONOR.jpg",
-    "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "4. Línea Antimicótica",
-    "tamaño_imagen": "auto",
-    "escala":"si",
-    "existe":"no"
-  },
 
 
 
@@ -146,7 +132,7 @@
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
     "imagen_producto":"imagenes/nordicpharmaceutical/productos/MACROKID XR.jpg",
     "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "5. Línea Urológica",
+    "linea_medicinal": "4. Línea Urológica",
     "tamaño_imagen": "1%",
     "escala":"si",
     "existe":"si"
@@ -166,9 +152,22 @@
     "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
     "imagen_producto":"imagenes/nordicpharmaceutical/productos/BIKONOR.jpg",
     "laboratorio": "NORDICPHARMACEUTICAL",
-    "linea_medicinal": "6. Línea Laxante",
+    "linea_medicinal": "5. Línea Laxante",
     "tamaño_imagen": "auto",
     "escala":"si",
     "existe":"si"
+  },
+  {
+    "precio": "S/180.00",
+    "nombre": "FLUKONOR",
+    "descripcion": "Fluconazol 150mg",
+    "presentacion": "Caja x 100 CÁPSULAS",
+    "imagen": "imagenes/nordicpharmaceutical/nordicpharmaceutical_portada.jpg",
+    "imagen_producto":"imagenes/nordicpharmaceutical/productos/FLUKONOR.jpg",
+    "laboratorio": "NORDICPHARMACEUTICAL",
+    "linea_medicinal": "6. Línea Antimicótica",
+    "tamaño_imagen": "auto",
+    "escala":"si",
+    "existe":"no"
   }
 ]
