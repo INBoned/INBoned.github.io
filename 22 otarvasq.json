@@ -105,19 +105,7 @@
         "escala":"si",
         "existe":"si"
       },
-      {
-        "precio": "S/7.09",
-        "nombre": "DIUREFUR",
-        "descripcion": "FUROSEMIDA 20MG/2ML",
-        "presentacion": "Caja x 10 Ampollas",
-        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
-        "imagen_producto":"imagenes/otarvasq/productos/diurefur.jpg",
-        "laboratorio": "OTARVASQ",
-        "linea_medicinal": "5. Línea Diurética",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si"
-      },
+    
       {
         "precio": "S/16.50",
         "nombre": "FLUNGOFYL",
@@ -126,9 +114,22 @@
         "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
         "imagen_producto":"imagenes/otarvasq/productos/flungofyl.jpg",
         "laboratorio": "OTARVASQ",
-        "linea_medicinal": "6. Línea Antimicótica",
+        "linea_medicinal": "5. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/7.09",
+        "nombre": "DIUREFUR",
+        "descripcion": "FUROSEMIDA 20MG/2ML",
+        "presentacion": "Caja x 10 Ampollas",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/diurefur.jpg",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "6. Línea Diurética",
+        "tamaño_imagen": "auto",
+        "escala":"si",
         "existe":"no"
       }
     ]
