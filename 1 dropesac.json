@@ -1,20 +1,6 @@
 [
   {
     "precio": "S/78.62",
-    "nombre": "KELEXYN",
-    "descripcion": "Cefalexina 500mg",
-    "presentacion": "Caja x 100 Cápsulas",
-    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
-    "imagen_producto":"imagenes/dropesac/productos/KELEXYN.png",
-    "laboratorio": "DROPESAC",
-    "linea_medicinal": "1. Línea Antibiótica",
-    "tamaño_imagen": "auto",
-    "escala":"no",
-    "existe":"si",
-    "logoLab":"imagenes/logoProveedores/dropesac.png"
-  },
-  {
-    "precio": "S/78.62",
     "nombre": "KEFDYL",
     "descripcion": "Cefadroxilo 500mg",
     "presentacion": "Caja x 100 Cápsulas",
@@ -24,7 +10,21 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
+  },
+  {
+    "precio": "S/78.62",
+    "nombre": "KELEXYN",
+    "descripcion": "Cefalexina 500mg",
+    "presentacion": "Caja x 100 Cápsulas",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+    "imagen_producto":"imagenes/dropesac/productos/KELEXYN.png",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "1. Línea Antibiótica",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"no"
   },
   {
     "precio": "S/42.08",
@@ -395,7 +395,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/146.62",
@@ -512,7 +512,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/31.68",

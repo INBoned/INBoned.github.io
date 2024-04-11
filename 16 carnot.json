@@ -1,20 +1,6 @@
 [
     
       {
-        "precio": "S/42.63",
-        "nombre": "DOSTEIN CAP.",
-        "descripcion": "Erdosteina 300mg",
-        "presentacion": "Caja x 20 Cápsulas",
-        "imagen": "imagenes/carnot/carnot_portada.jpg",
-        "imagen_producto":"imagenes/carnot/productos/dostein cap.jpg",
-        "laboratorio": "CARNOT",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/carnot.png" 
-      },
-      {
         "precio": "S/10.06",
         "nombre": "MENSILLE",
         "descripcion": "Acetato de Medroxiprogesterona 25mg + Cipionato de Estradiol 5mg",
@@ -25,6 +11,20 @@
         "linea_medicinal": "2. Línea Ginecológica",
         "tamaño_imagen": "1%",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/carnot.png"
+      },
+      {
+        "precio": "S/42.63",
+        "nombre": "DOSTEIN CAP.",
+        "descripcion": "Erdosteina 300mg",
+        "presentacion": "Caja x 20 Cápsulas",
+        "imagen": "imagenes/carnot/carnot_portada.jpg",
+        "imagen_producto":"imagenes/carnot/productos/dostein cap.jpg",
+        "laboratorio": "CARNOT",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no" 
       }
     ]
