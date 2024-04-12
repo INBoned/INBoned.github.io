@@ -98,21 +98,6 @@
 
 
       {
-        "precio": "S/14.83",
-        "nombre": "DIPHA ZINC KID",
-        "descripcion": "Sulfato de Zinc 20mg/5mL",
-        "presentacion": "Caja x 1 Frasco de 120mL",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHA-ZINC-KID.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "4. Línea Vitaminas",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
-
-
-      {
         "precio": "S/41.89",
         "nombre": "DYOMIN H",
         "descripcion": "Diosmina 450mg + Esperidina 40mg",
@@ -120,7 +105,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DYOMIN H.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "escala":"no",
         "existe":"si"
       },
@@ -132,7 +117,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/PROSTAMICIL.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "5. Línea Urológica",
+        "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -148,7 +133,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/NADO.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "6. Línea Hisopos",
+        "linea_medicinal": "5. Línea Hisopos",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -161,7 +146,20 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DUOCLAMOX.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "7. Línea Antibiótica",
+        "linea_medicinal": "6. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/14.83",
+        "nombre": "DIPHA ZINC KID",
+        "descripcion": "Sulfato de Zinc 20mg/5mL",
+        "presentacion": "Caja x 1 Frasco de 120mL",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHA-ZINC-KID.jpg",
+        "laboratorio": "DIPHASAC",
+        "linea_medicinal": "7. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"

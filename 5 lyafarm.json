@@ -203,22 +203,6 @@
 
 
 
-      {
-        "precio": "S/75.53",
-        "nombre": "PLIMADOL COMPUESTO NF",
-        "descripcion": "Paracetamol 500mg + Hioscina N-Butil 10mg",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
-        "imagen_producto":"imagenes/lyafarm/productos/PLIMADOL COMPUESTO NF.jpg",
-        "laboratorio": "LYAFARM",
-        "linea_medicinal": "4. Línea Antiespasmódica",
-        "tamaño_imagen": "2%",
-        "escala":"no",
-        "existe":"si"
-      },
-
-
-
 
       {
         "precio": "S/77.00",
@@ -228,7 +212,7 @@
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
         "imagen_producto":"imagenes/lyafarm/productos/BYE GRIP DIA.jpg",
         "laboratorio": "LYAFARM",
-        "linea_medicinal": "5. Línea Antrigripal",
+        "linea_medicinal": "4. Línea Antrigripal",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -241,7 +225,7 @@
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
         "imagen_producto":"imagenes/lyafarm/productos/BYE GRIP NOCHE.jpg",
         "laboratorio": "LYAFARM",
-        "linea_medicinal": "5. Línea Antrigripal",
+        "linea_medicinal": "4. Línea Antrigripal",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -254,7 +238,7 @@
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
         "imagen_producto":"imagenes/lyafarm/productos/BYE GRIP.jpg",
         "laboratorio": "LYAFARM",
-        "linea_medicinal": "5. Línea Antrigripal",
+        "linea_medicinal": "4. Línea Antrigripal",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -267,7 +251,7 @@
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
         "imagen_producto":"imagenes/lyafarm/productos/CLODERM COMPUESTO BT.jpg",
         "laboratorio": "LYAFARM",
-        "linea_medicinal": "6. Línea Antimicótica",
+        "linea_medicinal": "5. Línea Antimicótica",
         "tamaño_imagen": "2%",
         "escala":"si",
         "existe":"si"
@@ -280,9 +264,22 @@
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
         "imagen_producto":"imagenes/lyafarm/productos/ABRIBRONC.png",
         "laboratorio": "LYAFARM",
-        "linea_medicinal": "7. Línea Natural",
+        "linea_medicinal": "6. Línea Natural",
         "tamaño_imagen": "2%",
         "escala":"no",
         "existe":"si"
+      },
+      {
+        "precio": "S/75.53",
+        "nombre": "PLIMADOL COMPUESTO NF",
+        "descripcion": "Paracetamol 500mg + Hioscina N-Butil 10mg",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
+        "imagen_producto":"imagenes/lyafarm/productos/PLIMADOL COMPUESTO NF.jpg",
+        "laboratorio": "LYAFARM",
+        "linea_medicinal": "7. Línea Antiespasmódica",
+        "tamaño_imagen": "2%",
+        "escala":"no",
+        "existe":"no"
       }
 ]

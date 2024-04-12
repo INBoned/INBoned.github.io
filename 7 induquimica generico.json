@@ -1,19 +1,4 @@
-[
-    {
-        "precio": "S/8.63",
-        "nombre": "DEXAMETASONA 1 MG",
-        "descripcion": "",
-        "presentacion": "CAJA X 100 TABLETAS",
-        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
-        "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/DEXAMETASONA 1 MG.jpg",
-        "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "1. Línea Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/induquimica.png" 
-    },
-    
+[   
     
     {
         "precio": "S/16.42",
@@ -23,10 +8,11 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/CLARITROMICINA 250MG 5ML.jpg",
         "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "2. Línea Antibiótica",
+        "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si" 
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/induquimica.png"  
     },
 
 
@@ -39,7 +25,7 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/SILDENAFILO 100MG.jpg",
         "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "3. Línea Urológica",
+        "linea_medicinal": "2. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si" 
@@ -52,7 +38,7 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/CAPTOPRIL 25MG.jpg",
         "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "3. Línea Urológica",
+        "linea_medicinal": "2. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si" 
@@ -65,7 +51,7 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/LORATADINA 5MG 5ML.jpg",
         "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "4. Línea Antihistamínica",
+        "linea_medicinal": "3. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no" 
@@ -78,10 +64,25 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/CLORFENAMINA 4MG.jpg",
         "laboratorio": "INDUQUIMICA_GENERICO",
-        "linea_medicinal": "4. Línea Antihistamínica",
+        "linea_medicinal": "3. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no" 
+    },
+
+
+    {
+        "precio": "S/8.63",
+        "nombre": "DEXAMETASONA 1 MG",
+        "descripcion": "",
+        "presentacion": "CAJA X 100 TABLETAS",
+        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
+        "imagen_producto":"imagenes/induquimica/productos/induquimica_generico/DEXAMETASONA 1 MG.jpg",
+        "laboratorio": "INDUQUIMICA_GENERICO",
+        "linea_medicinal": "4. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
     }
 
 ]
