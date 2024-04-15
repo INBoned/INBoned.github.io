@@ -9,7 +9,7 @@
         "laboratorio": "MEDIKAR",
         "linea_medicinal": "1. Línea Hepatoprotector",
         "tamaño_imagen": "15%",
-        "escala":"no",
+        "escala":"si",
         "existe":"si",
         "logoLab":"imagenes/logoProveedores/medikar.png"
       },

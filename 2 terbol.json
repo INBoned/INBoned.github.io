@@ -50,7 +50,7 @@
         "laboratorio": "TERBOL",
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
@@ -246,7 +246,7 @@
         "laboratorio": "TERBOL",
         "linea_medicinal": "5. Línea Espectorante",
         "tamaño_imagen": "3%",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
