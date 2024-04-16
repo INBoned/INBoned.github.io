@@ -103,22 +103,6 @@
 
 
     {
-        "precio": "S/6.69",
-        "nombre": "MS PROKINET",
-        "descripcion": "Metoclopramida 10mg/2mL IV/IM",
-        "presentacion": "Caja x 10 Ampollas SI",
-        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
-        "imagen_producto":"imagenes/medicalstore/productos/MS-PROKINET.jpg",
-        "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "4. Línea Antiemética",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si"
-    },
-
-
-
-    {
         "precio": "S/18.90",
         "nombre": "MEPRAZ 40",
         "descripcion": "Omeprazol 40mg",
@@ -126,7 +110,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/MEPRAZ 40.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "5. Línea Gastro",
+        "linea_medicinal": "4. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -140,7 +124,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/MS FLUXTAC.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "5. Línea Gastro",
+        "linea_medicinal": "4. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -161,7 +145,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/THYROFIX 50.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "6. Línea Metabólica",
+        "linea_medicinal": "5. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no"
@@ -174,7 +158,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/THYROFIX 100.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "6. Línea Metabólica",
+        "linea_medicinal": "5. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -190,7 +174,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/ZITROBIOT 200.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "7. Línea Antibiótica",
+        "linea_medicinal": "6. Línea Antibiótica",
         "tamaño_imagen": "3%",
         "escala":"si",
         "existe":"si"
@@ -203,7 +187,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/BACZOLE.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "7. Línea Antibiótica",
+        "linea_medicinal": "6. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -216,7 +200,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/VIVANTIC 500.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "7. Línea Antibiótica",
+        "linea_medicinal": "6. Línea Antibiótica",
         "tamaño_imagen": "13%",
         "escala":"si",
         "existe":"si"
@@ -232,7 +216,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/PHYSSAN.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "8. Línea Diurética",
+        "linea_medicinal": "7. Línea Diurética",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -246,9 +230,22 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/MS EDATRA.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "9. Línea Antiespasmódica",
+        "linea_medicinal": "8. Línea Antiespasmódica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
+    },
+    {
+        "precio": "S/6.69",
+        "nombre": "MS PROKINET",
+        "descripcion": "Metoclopramida 10mg/2mL IV/IM",
+        "presentacion": "Caja x 10 Ampollas SI",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/MS-PROKINET.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "9. Línea Antiemética",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
     }
 ]

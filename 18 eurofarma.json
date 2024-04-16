@@ -65,32 +65,6 @@
         "escala":"no",
         "existe":"no"
       },
-      {
-        "precio": "S/12.50",
-        "nombre": "BISMUCAR SUSP.",
-        "descripcion": "Subsalicilato de Bismuto 87,33mg/5mL",
-        "presentacion": "Caja x 1 Frasco de 150mL SO",
-        "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
-        "imagen_producto":"imagenes/eurofarma/productos/bismucar susp.jpg",
-        "laboratorio": "EUROFARMA",
-        "linea_medicinal": "2. Línea Gastro",
-        "tamaño_imagen": "13%",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/43.07",
-        "nombre": "BISMUCAR TAB.",
-        "descripcion": "Subsalicilato de Bismuto 262mg",
-        "presentacion": "Caja x 100 Tabletas Masticables",
-        "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
-        "imagen_producto":"imagenes/eurofarma/productos/bismucar tab.jpg",
-        "laboratorio": "EUROFARMA",
-        "linea_medicinal": "2. Línea Gastro",
-        "tamaño_imagen": "10%",
-        "escala":"no",
-        "existe":"no"
-      },
 
       {
         "precio": "S/12.41",
@@ -100,7 +74,7 @@
         "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
         "imagen_producto":"imagenes/eurofarma/productos/ergico susp.jpg",
         "laboratorio": "EUROFARMA",
-        "linea_medicinal": "3. Línea Antihistamínica",
+        "linea_medicinal": "2. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -114,7 +88,7 @@
         "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
         "imagen_producto":"imagenes/eurofarma/productos/toban f.jpg",
         "laboratorio": "EUROFARMA",
-        "linea_medicinal": "4. Línea Antidiarreica",
+        "linea_medicinal": "3. Línea Antidiarreica",
         "tamaño_imagen": "12%",
         "escala":"no",
         "existe":"no"
@@ -127,8 +101,34 @@
         "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
         "imagen_producto":"imagenes/eurofarma/productos/mucocar.jpg",
         "laboratorio": "EUROFARMA",
-        "linea_medicinal": "5. Línea Mucótica",
+        "linea_medicinal": "4. Línea Mucótica",
         "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/12.50",
+        "nombre": "BISMUCAR SUSP.",
+        "descripcion": "Subsalicilato de Bismuto 87,33mg/5mL",
+        "presentacion": "Caja x 1 Frasco de 150mL SO",
+        "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
+        "imagen_producto":"imagenes/eurofarma/productos/bismucar susp.jpg",
+        "laboratorio": "EUROFARMA",
+        "linea_medicinal": "5. Línea Gastro",
+        "tamaño_imagen": "13%",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/43.07",
+        "nombre": "BISMUCAR TAB.",
+        "descripcion": "Subsalicilato de Bismuto 262mg",
+        "presentacion": "Caja x 100 Tabletas Masticables",
+        "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
+        "imagen_producto":"imagenes/eurofarma/productos/bismucar tab.jpg",
+        "laboratorio": "EUROFARMA",
+        "linea_medicinal": "5. Línea Gastro",
+        "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"no"
       }

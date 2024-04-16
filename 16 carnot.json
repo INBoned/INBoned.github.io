@@ -8,7 +8,7 @@
         "imagen": "imagenes/carnot/carnot_portada.jpg",
         "imagen_producto":"imagenes/carnot/productos/mensille.jpg",
         "laboratorio": "CARNOT",
-        "linea_medicinal": "2. Línea Ginecológica",
+        "linea_medicinal": "1. Línea Ginecológica",
         "tamaño_imagen": "1%",
         "escala":"si",
         "existe":"si",
@@ -22,7 +22,7 @@
         "imagen": "imagenes/carnot/carnot_portada.jpg",
         "imagen_producto":"imagenes/carnot/productos/dostein cap.jpg",
         "laboratorio": "CARNOT",
-        "linea_medicinal": "1. Línea Antibiótica",
+        "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no" 

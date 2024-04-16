@@ -13,19 +13,6 @@
     "existe":"si",
     "logoLab":"imagenes/logoProveedores/ajr.png" 
   },
-  {
-    "precio": "S/17.00",
-    "nombre": "FLORAINTE",
-    "descripcion": "Esporas de Bacillus Claussi 2000 Millones UFC/5mL",
-    "presentacion": "Caja x 10 Ampollas de Suspensión Oral",
-    "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
-    "imagen_producto":"imagenes/ajr_labs/productos/florainte.jpg",
-    "laboratorio": "AJR LABS",
-    "linea_medicinal": "2. Línea Gastro",
-    "tamaño_imagen": "auto",
-    "escala":"no",
-    "existe":"si"
-  },
   
   {
     "precio": "S/48.85",
@@ -35,7 +22,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/etoricoxib 90.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "3. Línea Dolor",
+    "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
@@ -48,7 +35,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/etoricoxib 120.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "3. Línea Dolor",
+    "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
@@ -61,7 +48,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/etoricoxib 60.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "3. Línea Dolor",
+    "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
@@ -74,7 +61,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/lavidic long 100.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "3. Línea Dolor",
+    "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "1%",
     "escala":"si",
     "existe":"si"
@@ -87,23 +74,10 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/lavidic long amp.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "3. Línea Dolor",
+    "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
-  },
-  {
-    "precio": "S/78.39",
-    "nombre": "HIGABIOX 500",
-    "descripcion": "Silimarina 500mg",
-    "presentacion": "Caja x 30 Cápsulas Blandas",
-    "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
-    "imagen_producto":"imagenes/ajr_labs/productos/higabiox 500.jpg",
-    "laboratorio": "AJR LABS",
-    "linea_medicinal": "4. Línea Hepática",
-    "tamaño_imagen": "auto",
-    "escala":"no",
-    "existe":"no"
   },
   {
     "precio": "S/23.37",
@@ -113,7 +87,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/flavoxato.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "4. Línea Urológica",
+    "linea_medicinal": "3. Línea Urológica",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
@@ -126,7 +100,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/tamsulosina.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "4. Línea Urológica",
+    "linea_medicinal": "3. Línea Urológica",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
@@ -139,7 +113,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/valtero 500.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "5. Línea  Antiviral",
+    "linea_medicinal": "4. Línea  Antiviral",
     "tamaño_imagen": "auto",
     "escala":"si",
     "existe":"si"
@@ -152,7 +126,7 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/tezen 400.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "5. Línea  Antiviral",
+    "linea_medicinal": "4. Línea  Antiviral",
     "tamaño_imagen": "12%",
     "escala":"no",
     "existe":"si"
@@ -165,9 +139,35 @@
     "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
     "imagen_producto":"imagenes/ajr_labs/productos/danell 35.jpg",
     "laboratorio": "AJR LABS",
-    "linea_medicinal": "6. Línea  Ginecológica",
+    "linea_medicinal": "5. Línea  Ginecológica",
     "tamaño_imagen": "auto",
     "escala":"no",
     "existe":"si"
+  },
+  {
+    "precio": "S/78.39",
+    "nombre": "HIGABIOX 500",
+    "descripcion": "Silimarina 500mg",
+    "presentacion": "Caja x 30 Cápsulas Blandas",
+    "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
+    "imagen_producto":"imagenes/ajr_labs/productos/higabiox 500.jpg",
+    "laboratorio": "AJR LABS",
+    "linea_medicinal": "6. Línea Hepática",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"no"
+  },
+  {
+    "precio": "S/17.00",
+    "nombre": "FLORAINTE",
+    "descripcion": "Esporas de Bacillus Claussi 2000 Millones UFC/5mL",
+    "presentacion": "Caja x 10 Ampollas de Suspensión Oral",
+    "imagen": "imagenes/ajr_labs/ajr_labs_portada.jpg",
+    "imagen_producto":"imagenes/ajr_labs/productos/florainte.jpg",
+    "laboratorio": "AJR LABS",
+    "linea_medicinal": "7. Línea Gastro",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"no"
   }
 ]

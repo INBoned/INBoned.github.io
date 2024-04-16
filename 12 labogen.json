@@ -172,19 +172,7 @@
         "existe":"si"
       },
       
-      {
-        "precio": "S/23.62",
-        "nombre": "GABAPENTINA 300mg",
-        "descripcion": "",
-        "presentacion": "Caja x 100 Cápsulas",
-        "imagen": "imagenes/labogen/labogen_portada.jpg",
-        "imagen_producto":"imagenes/labogen/productos/gabapentina.jpg",
-        "laboratorio": "LABOGEN",
-        "linea_medicinal": "7. Línea Neurológica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
+
       {
         "precio": "S/40.00",
         "nombre": "TERBINAFINA 250MG",
@@ -193,10 +181,23 @@
         "imagen": "imagenes/labogen/labogen_portada.jpg",
         "imagen_producto":"imagenes/labogen/productos/terbinafina.jpg",
         "laboratorio": "LABOGEN",
-        "linea_medicinal": "8. Línea Antimicótica",
+        "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
+      },
+      {
+        "precio": "S/23.62",
+        "nombre": "GABAPENTINA 300mg",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Cápsulas",
+        "imagen": "imagenes/labogen/labogen_portada.jpg",
+        "imagen_producto":"imagenes/labogen/productos/gabapentina.jpg",
+        "laboratorio": "LABOGEN",
+        "linea_medicinal": "8. Línea Neurológica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
       },
       {
         "precio": "S/35.00",
