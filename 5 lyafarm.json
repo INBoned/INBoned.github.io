@@ -1,18 +1,4 @@
 [
-    {
-        "precio": "S/80.00",
-        "nombre": "ABUBRON AB",
-        "descripcion": "Amoxicilina 500mg + Ambroxol 30mg",
-        "presentacion": "Caja x 100 Cápsulas",
-        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
-        "imagen_producto":"imagenes/lyafarm/productos/ABUBRON-AB.jpg",
-        "laboratorio": "LYAFARM",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "3%",
-        "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/lyafarm.png"
-      },
       {
         "precio": "S/12.45",
         "nombre": "ABUBRON AB SUSP.",
@@ -24,7 +10,21 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/lyafarm.png"
+      },
+      {
+        "precio": "S/80.00",
+        "nombre": "ABUBRON AB",
+        "descripcion": "Amoxicilina 500mg + Ambroxol 30mg",
+        "presentacion": "Caja x 100 Cápsulas",
+        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
+        "imagen_producto":"imagenes/lyafarm/productos/ABUBRON-AB.jpg",
+        "laboratorio": "LYAFARM",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "3%",
+        "escala":"si",
+        "existe":"no"
       },
       {
         "precio": "S/103.32",

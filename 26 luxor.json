@@ -29,20 +29,6 @@
         "existe":"si"
     },
 
-
-    {
-        "precio": "S/78.00",
-        "nombre": "simetilux",
-        "descripcion": "SIMETICONA 160MG",
-        "presentacion": "Caja x 100 TABLETAS MASTICABLES",
-        "imagen": "imagenes/luxor/luxor_portada.jpg",
-        "imagen_producto":"imagenes/luxor/productos/simetilux.png",
-        "laboratorio": "LUXOR",
-        "linea_medicinal": "3. Línea Gastro",
-        "tamaño_imagen": "15%",
-        "escala":"no",
-        "existe":"si"
-    },
     {
         "precio": "S/81.25",
         "nombre": "sinongo",
@@ -51,7 +37,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/sinongo.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "4. Línea Antimicótica",
+        "linea_medicinal": "3. Línea Antimicótica",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -67,7 +53,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/enzylux.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "5. Línea Vitaminas",
+        "linea_medicinal": "4. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -80,7 +66,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/MAGZILUX COMPLEX.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "5. Línea Vitaminas",
+        "linea_medicinal": "4. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
@@ -93,7 +79,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/BETA GLUX.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "5. Línea Vitaminas",
+        "linea_medicinal": "4. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
@@ -106,7 +92,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/MULTI-VITAMÍNICO.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "5. Línea Vitaminas",
+        "linea_medicinal": "4. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
@@ -119,7 +105,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/FERROLUX.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "5. Línea Vitaminas",
+        "linea_medicinal": "4. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"no"
@@ -132,9 +118,22 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/CEFTRIAXONA LUXOR.jpg",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "6. Línea Antibiótica",
+        "linea_medicinal": "5. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
+    },
+    {
+        "precio": "S/78.00",
+        "nombre": "simetilux",
+        "descripcion": "SIMETICONA 160MG",
+        "presentacion": "Caja x 100 TABLETAS MASTICABLES",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/simetilux.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "6. Línea Gastro",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"no"
     }
 ]

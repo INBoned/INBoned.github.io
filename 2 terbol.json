@@ -349,7 +349,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
 
       {
@@ -419,7 +419,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/12.75",
@@ -526,7 +526,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/37.00",

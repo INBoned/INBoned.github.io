@@ -28,7 +28,7 @@
         "linea_medicinal": "1. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
     },
     
     {
@@ -42,7 +42,7 @@
         "linea_medicinal": "1. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
     },
 
 
