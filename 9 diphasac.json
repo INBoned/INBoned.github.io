@@ -58,29 +58,6 @@
 
 
 
-      
-      
-
-
-
-      
-
-    {
-      "precio": "S/60.00",
-      "nombre": "HEMZON",
-      "descripcion": "Ruscus Aculea, Lactobacilus Sporogenes + Vitamina C",
-      "presentacion": "Caja x 100 Tabletas Masticables",
-      "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-      "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/HEMZON.jpg",
-      "laboratorio": "DIPHASAC",
-      "linea_medicinal": "2. Línea Antihemorroidal",
-      "tamaño_imagen": "auto",
-      "escala":"no",
-      "existe":"si"
-  },
-
-
-
       {
         "precio": "S/16.39",
         "nombre": "DIPHAXAMICO",
@@ -89,7 +66,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHAXAMICO.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "3. Línea Hematológica",
+        "linea_medicinal": "2. Línea Hematológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -105,7 +82,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DYOMIN H.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "4. Línea Urológica",
+        "linea_medicinal": "3. Línea Urológica",
         "escala":"no",
         "existe":"no"
       },
@@ -117,7 +94,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/PROSTAMICIL.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "4. Línea Urológica",
+        "linea_medicinal": "3. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -133,7 +110,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/NADO.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "5. Línea Hisopos",
+        "linea_medicinal": "4. Línea Hisopos",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -146,10 +123,10 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DUOCLAMOX.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "6. Línea Antibiótica",
+        "linea_medicinal": "5. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/14.83",
@@ -159,9 +136,22 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHA-ZINC-KID.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "7. Línea Vitaminas",
+        "linea_medicinal": "6. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
-      }
+      },
+      {
+        "precio": "S/60.00",
+        "nombre": "HEMZON",
+        "descripcion": "Ruscus Aculea, Lactobacilus Sporogenes + Vitamina C",
+        "presentacion": "Caja x 100 Tabletas Masticables",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/HEMZON.jpg",
+        "laboratorio": "DIPHASAC",
+        "linea_medicinal": "7. Línea Antihemorroidal",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+    }
 ]
