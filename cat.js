@@ -30,9 +30,10 @@
         "22 otarvasq.json",
         "23 dany.json"];
 
-let contadorlab = 0;
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("cargando");
+    let contadorlab = 0;
 for (let i = 0; i < laboratorios.length; i++) {
-
     
     fetch(laboratorios[i])
     .then(response => response.json())
@@ -163,5 +164,8 @@ function inicio(div) {
         div.style.left = Math.random() * 100 + '%';
     
 }
+    
+});
+
 
 
