@@ -24,7 +24,7 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/42.08",
@@ -274,7 +274,7 @@
     "linea_medicinal": "6. Línea Ginecológica",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/42.50",
