@@ -76,7 +76,7 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "100",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/6.25",
@@ -102,7 +102,7 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "90",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/35.06",
@@ -169,7 +169,7 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "70",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },  
   {
     "precio": "S/22.95",
@@ -328,7 +328,7 @@
     "linea_medicinal": "7. Línea Natural",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/22.31",
@@ -421,7 +421,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/120.06",
@@ -486,7 +486,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/47.29",
@@ -499,7 +499,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/32.63",
@@ -512,7 +512,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/31.68",
