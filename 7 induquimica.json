@@ -62,19 +62,6 @@
     },
 
     {
-        "precio": "S/79.64",
-        "nombre": "LEFOQUIM 500MG",
-        "descripcion": "Levofloxacino 500 mg 2.5 mg/5mL",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
-        "imagen_producto":"imagenes/induquimica/productos/induquimica_comercial/LEFOQUIM 500MG.jpg",
-        "laboratorio": "INDUQUIMICA",
-        "linea_medicinal": "3. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si"
-    },
-    {
         "precio": "S/7.62",
         "nombre": "EXTENZE GEL",
         "descripcion": "Diclofenaco Dietil Amonio 1%",
@@ -82,7 +69,7 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_comercial/EXTENZE GEL.jpg",
         "laboratorio": "INDUQUIMICA",
-        "linea_medicinal": "4. Línea Dolor",
+        "linea_medicinal": "3. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no"
@@ -95,8 +82,21 @@
         "imagen": "imagenes/induquimica/induquimica_portada.jpg",
         "imagen_producto":"imagenes/induquimica/productos/induquimica_comercial/MAKSAN.jpg",
         "laboratorio": "INDUQUIMICA",
-        "linea_medicinal": "5. Línea Antimicótica",
+        "linea_medicinal": "4. Línea Antimicótica",
         "tamaño_imagen": "15%",
+        "escala":"si",
+        "existe":"no"
+    },
+    {
+        "precio": "S/79.64",
+        "nombre": "LEFOQUIM 500MG",
+        "descripcion": "Levofloxacino 500 mg 2.5 mg/5mL",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/induquimica/induquimica_portada.jpg",
+        "imagen_producto":"imagenes/induquimica/productos/induquimica_comercial/LEFOQUIM 500MG.jpg",
+        "laboratorio": "INDUQUIMICA",
+        "linea_medicinal": "5. Línea Antibiótica",
+        "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no"
     }
