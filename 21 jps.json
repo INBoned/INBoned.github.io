@@ -1,19 +1,5 @@
 [     
       {
-        "precio": "S/3.50",
-        "nombre": "XIMALAC",
-        "descripcion": "Amoxicilina 250mg",
-        "presentacion": "Caja x 1 Frasco x 60 ml",
-        "imagen": "imagenes/jps/jps_portada.jpg",
-        "imagen_producto":"imagenes/jps/productos/ximalac.jpg",
-        "laboratorio": "JPS",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/jps.png"
-      },
-      {
         "precio": "S/7.50",
         "nombre": "AMOXICILINA 250MG + ACIDO CLAVULANICO 62.5MG",
         "descripcion": "",
@@ -24,7 +10,22 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no" 
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/jps.png" 
+      },
+
+      {
+        "precio": "S/3.50",
+        "nombre": "XIMALAC",
+        "descripcion": "Amoxicilina 250mg",
+        "presentacion": "Caja x 1 Frasco x 60 ml",
+        "imagen": "imagenes/jps/jps_portada.jpg",
+        "imagen_producto":"imagenes/jps/productos/ximalac.jpg",
+        "laboratorio": "JPS",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
       },
       
       {
@@ -41,17 +42,17 @@
         "existe":"si"
       },
       {
-        "precio": "S/90.50",
+        "precio": "S/8.78",
         "nombre": "XEVUNAC",
         "descripcion": "Amoxicilina 500mg + Ácido Clavulanico 125mg",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "presentacion": "Caja x 10 Tabletas Recubiertas",
         "imagen": "imagenes/jps/jps_portada.jpg",
         "imagen_producto":"imagenes/jps/productos/xevunac.jpg",
         "laboratorio": "JPS",
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       
       

@@ -15,6 +15,20 @@
         "logoLab":"imagenes/logoProveedores/carnot.png"
       },
       {
+        "precio": "S/14.50",
+        "nombre": "MENSILLE JP",
+        "descripcion": "Acetato de Medroxiprogesterona 25mg + Cipionato de Estradiol 5mg",
+        "presentacion": "Caja x 1 jeringa precargada",
+        "imagen": "imagenes/carnot/carnot_portada.jpg",
+        "imagen_producto":"imagenes/carnot/productos/mensille jp.jpg",
+        "laboratorio": "CARNOT",
+        "linea_medicinal": "1. Línea Ginecológica",
+        "tamaño_imagen": "1%",
+        "escala":"no",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/carnot.png"
+      },
+      {
         "precio": "S/42.63",
         "nombre": "DOSTEIN CAP.",
         "descripcion": "Erdosteina 300mg",

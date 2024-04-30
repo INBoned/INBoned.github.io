@@ -1,19 +1,4 @@
 [
-    
-      {
-        "precio": "S/10.24",
-        "nombre": "DIPHADIC LONG GEL 2%",
-        "descripcion": "Diclofenaco sódico 2%",
-        "presentacion": "Caja x 1 Tubo de 50g",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHADIC LONG GEL.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "1. Línea Dolor Y Miorelajante",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/diphasac.png" 
-      },
       
       {
         "precio": "S/4.36",
@@ -26,7 +11,22 @@
         "linea_medicinal": "1. Línea Dolor Y Miorelajante",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
+      },
+
+      {
+        "precio": "S/10.24",
+        "nombre": "DIPHADIC LONG GEL 2%",
+        "descripcion": "Diclofenaco sódico 2%",
+        "presentacion": "Caja x 1 Tubo de 50g",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHADIC LONG GEL.jpg",
+        "laboratorio": "DIPHASAC",
+        "linea_medicinal": "1. Línea Dolor Y Miorelajante",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
       },
       {
         "precio": "S/3.98",

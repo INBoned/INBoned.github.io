@@ -133,7 +133,7 @@
       },
 
       {
-        "precio": "S/44.37",
+        "precio": "S/46.14",
         "nombre": "MULTIGESICO",
         "descripcion": "Ibuprofeno 400mg",
         "presentacion": "Caja x 60 Cápsulas blandas",
@@ -143,7 +143,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "2%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/50.50",
@@ -172,7 +172,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/59.30",
+        "precio": "S/61.38",
         "nombre": "MIGRADRIN F",
         "descripcion": "Paracetamol 250mg + Ácido acetil salicílico 250mg + Cafeína 65mg",
         "presentacion": "Caja x 100 Tabletas Recubiertas",
@@ -182,7 +182,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
 
 
@@ -281,6 +281,6 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "2%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       }
 ]

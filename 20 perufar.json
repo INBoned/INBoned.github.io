@@ -50,7 +50,20 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
+      },
+      {
+        "precio": "S/6.79",
+        "nombre": "REUMA SOL 30G",
+        "descripcion": "SALICILATO DE METILO 35G + MENTOL 3G + ALCANFOR 10G",
+        "presentacion": "Frasco x 30g",
+        "imagen": "imagenes/perufar/perufar_portada.jpg",
+        "imagen_producto":"imagenes/perufar/productos/reuma sol 30.jpg",
+        "laboratorio": "PERUFAR",
+        "linea_medicinal": "1. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
       },
       {
         "precio": "S/10.75",
@@ -63,7 +76,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/19.42",
@@ -89,7 +102,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/11.00",
