@@ -1,0 +1,42 @@
+[
+    {
+        "precio": "S/13.74",
+        "nombre": "THE RAPY",
+        "descripcion": "Jabón Líquido Íntimo",
+        "presentacion": "frasco x 220ml",
+        "imagen": "imagenes/soinsderma/soinsdermaportada.jpg",
+        "imagen_producto":"imagenes/soinsderma/productos/jabon the rapy.jpg",
+        "laboratorio": "SOINSDERMA",
+        "linea_medicinal": "1. Línea Aseo personal",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/soinsderma.jpg" 
+    },
+    {
+        "precio": "S/13.74",
+        "nombre": "CLASSIC",
+        "descripcion": "Jabón Líquido Íntimo",
+        "presentacion": "frasco x 220ml",
+        "imagen": "imagenes/soinsderma/soinsdermaportada.jpg",
+        "imagen_producto":"imagenes/soinsderma/productos/jabon classic.jpg",
+        "laboratorio": "SOINSDERMA",
+        "linea_medicinal": "1. Línea Aseo personal",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/13.74",
+        "nombre": "SENSITIVE",
+        "descripcion": "Jabón Líquido Íntimo",
+        "presentacion": "frasco x 220ml",
+        "imagen": "imagenes/soinsderma/soinsdermaportada.jpg",
+        "imagen_producto":"imagenes/soinsderma/productos/jabon sensitive.jpg",
+        "laboratorio": "SOINSDERMA",
+        "linea_medicinal": "1. Línea Aseo personal",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"si"
+    }
+    ]

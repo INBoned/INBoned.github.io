@@ -237,5 +237,45 @@
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no"
+    },
+    {
+        "precio": "S/61.60",
+        "nombre": "ENOXAPLUS 40MG",
+        "descripcion": "enoxaparina sodica 40mg",
+        "presentacion": "Caja x 2 jeringas precargadas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/enoxaplus 40.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "10. Línea Hematológica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/73.66",
+        "nombre": "ENOXAPLUS 60MG",
+        "descripcion": "enoxaparina sodica 60mg",
+        "presentacion": "Caja x 2 jeringas precargadas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/enoxaplus 60.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "10. Línea Hematológica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+    },
+    {
+        "precio": "S/24.20",
+        "nombre": "CAOSINA",
+        "descripcion": "Calcio 500mg",
+        "presentacion": "Caja x 100 tabletas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/caosina.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "11. Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
     }
+    
 ]

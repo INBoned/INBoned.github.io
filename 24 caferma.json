@@ -152,12 +152,12 @@
         "descripcion": "Leflunomida 20mg",
         "presentacion": "Caja x 30 Tabletas Recubiertas",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
-        "imagen_producto":"imagenes/caferma/productos/etodolo 20.jpg",
+        "imagen_producto":"imagenes/caferma/productos/lemida.jpg",
         "laboratorio": "CAFERMA",
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/89.21",

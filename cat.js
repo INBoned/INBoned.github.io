@@ -28,7 +28,9 @@
         "20 perufar.json",
         "21 jps.json",
         "22 otarvasq.json",
-        "23 dany.json"];
+        "23 dany.json",
+        "27 soinsderma.json"
+];
 
 document.addEventListener("DOMContentLoaded", function() {
     console.log("cargando");

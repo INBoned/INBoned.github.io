@@ -2067,6 +2067,9 @@ html {
 .cintaLinea[data-linea="LUXOR"] {
     background-color: #FF9034;
 }
+.cintaLinea[data-linea="SOINSDERMA"] {
+    background-color: #00edba;
+}
 /*COLOR DEL DIV DEL PRODUCTO*/
 
 .producto-nombre[data-linea="DROPESAC"] {
@@ -2153,4 +2156,7 @@ html {
 }
 .producto-nombre[data-linea="LUXOR"] {
     background-image: linear-gradient(45deg, #DF751E, #6A36FF);
+}
+.producto-nombre[data-linea="SOINSDERMA"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
 }
