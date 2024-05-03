@@ -131,7 +131,6 @@
         "escala":"no",
         "existe":"si"
       },
-
       {
         "precio": "S/46.14",
         "nombre": "MULTIGESICO",
@@ -184,9 +183,6 @@
         "escala":"no",
         "existe":"si"
       },
-
-
-
       {
         "precio": "S/68.70",
         "nombre": "MIODISTEN RELAX",
@@ -200,10 +196,6 @@
         "escala":"no",
         "existe":"si"
       },
-
-
-
-
       {
         "precio": "S/77.00",
         "nombre": "BYE GRIP DIA",
@@ -243,7 +235,6 @@
         "escala":"no",
         "existe":"si"
       },
-    
       {
         "precio": "S/15.30",
         "nombre": "ABRIBRONC",
@@ -258,19 +249,6 @@
         "existe":"si"
       },
       {
-        "precio": "S/75.53",
-        "nombre": "PLIMADOL COMPUESTO NF",
-        "descripcion": "Paracetamol 500mg + Hioscina N-Butil 10mg",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
-        "imagen_producto":"imagenes/lyafarm/productos/PLIMADOL COMPUESTO NF.jpg",
-        "laboratorio": "LYAFARM",
-        "linea_medicinal": "6. Línea Antiespasmódica",
-        "tamaño_imagen": "2%",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
         "precio": "S/5.61",
         "nombre": "CLODERM COMPUESTO BT",
         "descripcion": "Clotrimazol 1g Gentamicina 0,10g Betametasona 0,05g 100g",
@@ -278,9 +256,22 @@
         "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
         "imagen_producto":"imagenes/lyafarm/productos/CLODERM COMPUESTO BT.jpg",
         "laboratorio": "LYAFARM",
-        "linea_medicinal": "7. Línea Antimicótica",
+        "linea_medicinal": "6. Línea Antimicótica",
         "tamaño_imagen": "2%",
         "escala":"si",
         "existe":"si"
+      },
+      {
+        "precio": "S/75.53",
+        "nombre": "PLIMADOL COMPUESTO NF",
+        "descripcion": "Paracetamol 500mg + Hioscina N-Butil 10mg",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
+        "imagen_producto":"imagenes/lyafarm/productos/PLIMADOL COMPUESTO NF.jpg",
+        "laboratorio": "LYAFARM",
+        "linea_medicinal": "7. Línea Antiespasmódica",
+        "tamaño_imagen": "2%",
+        "escala":"no",
+        "existe":"no"
       }
 ]

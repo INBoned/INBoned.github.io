@@ -749,7 +749,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/mulcerol40.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "11. Línea Gastro",
+        "linea_medicinal": "12. Línea Gastro",
         "tamaño_imagen": "0%",
         "escala":"si",
         "existe":"si"
@@ -762,7 +762,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/hisbec 16.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "12. Línea Antivertiginosa",
+        "linea_medicinal": "13. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -775,7 +775,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/hisbec 24.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "12. Línea Antivertiginosa",
+        "linea_medicinal": "13. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no"

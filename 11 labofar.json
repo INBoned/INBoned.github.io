@@ -183,45 +183,6 @@
       "tamaño_imagen": "auto",
       "escala":"no",
       "existe":"si"
-    },
-    {
-        "precio": "S/15.61",
-        "nombre": "VITALLERG",
-        "descripcion": "Desloratadina 2.5mg/5ml",
-        "presentacion": "Caja x 1 Frasco de 60mL SO",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/vitallerg.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "4. Línea Antihistamínica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/12.50",
-        "nombre": "ALERGILAB SUSP",
-        "descripcion": "Levocetirizina 2,5mg/5mL",
-        "presentacion": "Caja x 1 Frasco de 60mL",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/alergilab susp.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "4. Línea Antihistamínica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/9.89",
-        "nombre": "HIZALAB JBE",
-        "descripcion": "CETIRIZINA 5MG/5ML",
-        "presentacion": "Caja x 1 Frasco de 60mL",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/hizalab.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "4. Línea Antihistamínica",
-        "tamaño_imagen": "10%",
-        "escala":"no",
-        "existe":"no"
       },
       {
         "precio": "S/59.60",
@@ -231,51 +192,10 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/don grippa.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "5. Línea Antigripal",
+        "linea_medicinal": "4. Línea Antigripal",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
-      },
-      
-    
-      {
-        "precio": "S/51.25",
-        "nombre": "GASELAB",
-        "descripcion": "Simeticona 80mg",
-        "presentacion": "Caja x 100 Tabletas Masticables",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/gaselab.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "6. Línea Gastro",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/18.11",
-        "nombre": "NOCIDEX",
-        "descripcion": "Magaldrato/Simeticona 400mg+30mg/5mL",
-        "presentacion": "Caja x 1 Frasco DE 200ml",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/nocidex.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "6. Línea Gastro",
-        "tamaño_imagen": "10%",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/12.49",
-        "nombre": "LABUTOL",
-        "descripcion": "Subsalicilato de bismuto 87.33mg/5mL",
-        "presentacion": "Caja x 1 Frasco de 150mL",
-        "imagen": "imagenes/labofar/labofar_portada.jpg",
-        "imagen_producto":"imagenes/labofar/productos/labutol.jpg",
-        "laboratorio": "LABOFAR",
-        "linea_medicinal": "6. Línea Gastro",
-        "tamaño_imagen": "15%",
-        "escala":"no",
-        "existe":"no"
       },
       {
         "precio": "S/19.12",
@@ -285,7 +205,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/vodravol.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "7. Línea Antiemética",
+        "linea_medicinal": "5. Línea Antiemética",
         "tamaño_imagen": "12%",
         "escala":"no",
         "existe":"si"
@@ -298,7 +218,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/hiosimol compuesto.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "8. Línea Espasmódica",
+        "linea_medicinal": "6. Línea Espasmódica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -311,7 +231,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/plidolan compuesto.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "8. Línea Espasmódica",
+        "linea_medicinal": "6. Línea Espasmódica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -324,7 +244,7 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/terbilab crema.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "9. Línea Antimicótica",
+        "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -337,8 +257,88 @@
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/terbilab tab.jpg",
         "laboratorio": "LABOFAR",
-        "linea_medicinal": "9. Línea Antimicótica",
+        "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/15.61",
+        "nombre": "VITALLERG",
+        "de,scripcion": "Desloratadina 2.5mg/5ml",
+        "presentacion": "Caja x 1 Frasco de 60mL SO",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/vitallerg.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "8. Línea Antihistamínica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/12.50",
+        "nombre": "ALERGILAB SUSP",
+        "descripcion": "Levocetirizina 2,5mg/5mL",
+        "presentacion": "Caja x 1 Frasco de 60mL",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/alergilab susp.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "8. Línea Antihistamínica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/9.89",
+        "nombre": "HIZALAB JBE",
+        "descripcion": "CETIRIZINA 5MG/5ML",
+        "presentacion": "Caja x 1 Frasco de 60mL",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/hizalab.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "8. Línea Antihistamínica",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"no"
+      },
+      
+    
+      {
+        "precio": "S/51.25",
+        "nombre": "GASELAB",
+        "descripcion": "Simeticona 80mg",
+        "presentacion": "Caja x 100 Tabletas Masticables",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/gaselab.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "9. Línea Gastro",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/18.11",
+        "nombre": "NOCIDEX",
+        "descripcion": "Magaldrato/Simeticona 400mg+30mg/5mL",
+        "presentacion": "Caja x 1 Frasco DE 200ml",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/nocidex.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "9. Línea Gastro",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/12.49",
+        "nombre": "LABUTOL",
+        "descripcion": "Subsalicilato de bismuto 87.33mg/5mL",
+        "presentacion": "Caja x 1 Frasco de 150mL",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/labutol.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "9. Línea Gastro",
+        "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"no"
       }

@@ -14,7 +14,6 @@
         "existe":"si",
         "logoLab":"imagenes/logoProveedores/diphasac.png" 
       },
-
       {
         "precio": "S/10.24",
         "nombre": "DIPHADIC LONG GEL 2%",
@@ -54,10 +53,6 @@
         "escala":"si",
         "existe":"si"
       },
-
-
-
-
       {
         "precio": "S/16.39",
         "nombre": "DIPHAXAMICO",
@@ -71,37 +66,6 @@
         "escala":"si",
         "existe":"si"
       },
-      
-
-
-      {
-        "precio": "S/41.89",
-        "nombre": "DYOMIN H",
-        "descripcion": "Diosmina 450mg + Esperidina 40mg",
-        "presentacion": "Caja x 30 Tabletas Recubiertas",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DYOMIN H.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "3. Línea Urológica",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/57.60",
-        "nombre": "PROSTAMICIL",
-        "descripcion": "Saw Palmetto 320mg",
-        "presentacion": "Caja x 30 Cápsulas Blandas",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/PROSTAMICIL.jpg",
-        "laboratorio": "DIPHASAC",
-        "linea_medicinal": "3. Línea Urológica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-      },
-
-
-
       {
         "precio": "S/10.21",
         "nombre": "NADO",
@@ -110,7 +74,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/NADO.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "4. Línea Hisopos",
+        "linea_medicinal": "3. Línea Hisopos",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -123,7 +87,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DUOCLAMOX.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "5. Línea Antibiótica",
+        "linea_medicinal": "4. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -136,7 +100,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHA-ZINC-KID.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "6. Línea Vitaminas",
+        "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -149,9 +113,34 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/HEMZON.jpg",
         "laboratorio": "DIPHASAC",
-        "linea_medicinal": "7. Línea Antihemorroidal",
+        "linea_medicinal": "6. Línea Antihemorroidal",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
+    },
+    {
+      "precio": "S/41.89",
+      "nombre": "DYOMIN H",
+      "descripcion": "Diosmina 450mg + Esperidina 40mg",
+      "presentacion": "Caja x 30 Tabletas Recubiertas",
+      "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+      "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DYOMIN H.jpg",
+      "laboratorio": "DIPHASAC",
+      "linea_medicinal": "7. Línea Urológica",
+      "escala":"no",
+      "existe":"no"
+    },
+    {
+      "precio": "S/57.60",
+      "nombre": "PROSTAMICIL",
+      "descripcion": "Saw Palmetto 320mg",
+      "presentacion": "Caja x 30 Cápsulas Blandas",
+      "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+      "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/PROSTAMICIL.jpg",
+      "laboratorio": "DIPHASAC",
+      "linea_medicinal": "7. Línea Urológica",
+      "tamaño_imagen": "auto",
+      "escala":"si",
+      "existe":"no"
     }
 ]

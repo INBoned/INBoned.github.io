@@ -53,9 +53,6 @@
         "escala":"si",
         "existe":"no"
     },
-
-
-
     {
         "precio": "S/17.40",
         "nombre": "MS SUMIBLOC 40",
@@ -82,9 +79,6 @@
         "escala":"si",
         "existe":"si"
     },
-
-
-
     {
         "precio": "S/18.90",
         "nombre": "MEPRAZ 40",
@@ -112,39 +106,6 @@
         "escala":"si",
         "existe":"no"
     },
-
-
-
-    
-    {
-        "precio": "S/13.00",
-        "nombre": "THYROFIX 50",
-        "descripcion": "Levotiroxina Sódica 50mcg",
-        "presentacion": "Caja x 50 Tabletas",
-        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
-        "imagen_producto":"imagenes/medicalstore/productos/THYROFIX 50.jpg",
-        "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "4. Línea Metabólica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-    },
-    {
-        "precio": "S/14.06",
-        "nombre": "THYROFIX 100",
-        "descripcion": "Levotiroxina Sódica 100mcg",
-        "presentacion": "Caja x 50 Tabletas",
-        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
-        "imagen_producto":"imagenes/medicalstore/productos/THYROFIX 100.jpg",
-        "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "4. Línea Metabólica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-    },
-
-
-    
     {
         "precio": "S/12.42",
         "nombre": "ZITROBIOT 200",
@@ -153,7 +114,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/ZITROBIOT 200.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "5. Línea Antibiótica",
+        "linea_medicinal": "4. Línea Antibiótica",
         "tamaño_imagen": "3%",
         "escala":"si",
         "existe":"si"
@@ -166,7 +127,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/BACZOLE.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "5. Línea Antibiótica",
+        "linea_medicinal": "4. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -179,13 +140,11 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/VIVANTIC 500.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "5. Línea Antibiótica",
+        "linea_medicinal": "4. Línea Antibiótica",
         "tamaño_imagen": "13%",
         "escala":"si",
         "existe":"si"
     },
-
-
     {
         "precio": "S/36.50",
         "nombre": "MS-EDATRA",
@@ -194,49 +153,10 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/MS EDATRA.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "6. Línea Antiespasmódica",
+        "linea_medicinal": "5. Línea Antiespasmódica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
-    },
-    {
-        "precio": "S/6.69",
-        "nombre": "MS PROKINET",
-        "descripcion": "Metoclopramida 10mg/2mL IV/IM",
-        "presentacion": "Caja x 10 Ampollas SI",
-        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
-        "imagen_producto":"imagenes/medicalstore/productos/MS-PROKINET.jpg",
-        "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "7. Línea Antiemética",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-    },
-    {
-        "precio": "S/6.97",
-        "nombre": "PHYSSAN",
-        "descripcion": "Furosemida 20mg/2mL IV/IM",
-        "presentacion": "Caja x 10 Ampollas",
-        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
-        "imagen_producto":"imagenes/medicalstore/productos/PHYSSAN.jpg",
-        "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "8. Línea Diurética",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-    },
-    {
-        "precio": "S/48.90",
-        "nombre": "LEFLUMEX 20",
-        "descripcion": "Leflunomida 20mg",
-        "presentacion": "Caja x 30 Tabletas Recubiertas",
-        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
-        "imagen_producto":"imagenes/medicalstore/productos/LEFLUMEX 20.jpg",
-        "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "9. Línea Reuma/Dolor",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
     },
     {
         "precio": "S/61.60",
@@ -246,7 +166,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/enoxaplus 40.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "10. Línea Hematológica",
+        "linea_medicinal": "6. Línea Hematológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -259,7 +179,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/enoxaplus 60.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "10. Línea Hematológica",
+        "linea_medicinal": "6. Línea Hematológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -272,10 +192,75 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/caosina.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "11. Vitaminas",
+        "linea_medicinal": "7. Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
+    }, 
+    {
+        "precio": "S/13.00",
+        "nombre": "THYROFIX 50",
+        "descripcion": "Levotiroxina Sódica 50mcg",
+        "presentacion": "Caja x 50 Tabletas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/THYROFIX 50.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "8. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
+    },
+    {
+        "precio": "S/14.06",
+        "nombre": "THYROFIX 100",
+        "descripcion": "Levotiroxina Sódica 100mcg",
+        "presentacion": "Caja x 50 Tabletas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/THYROFIX 100.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "8. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
+    },
+    {
+        "precio": "S/6.69",
+        "nombre": "MS PROKINET",
+        "descripcion": "Metoclopramida 10mg/2mL IV/IM",
+        "presentacion": "Caja x 10 Ampollas SI",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/MS-PROKINET.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "9. Línea Antiemética",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
+    },
+    {
+        "precio": "S/6.97",
+        "nombre": "PHYSSAN",
+        "descripcion": "Furosemida 20mg/2mL IV/IM",
+        "presentacion": "Caja x 10 Ampollas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/PHYSSAN.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "10. Línea Diurética",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
+    },
+    {
+        "precio": "S/48.90",
+        "nombre": "LEFLUMEX 20",
+        "descripcion": "Leflunomida 20mg",
+        "presentacion": "Caja x 30 Tabletas Recubiertas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/LEFLUMEX 20.jpg",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "11. Línea Reuma/Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
     }
     
 ]
