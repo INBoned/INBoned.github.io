@@ -147,8 +147,8 @@
         "existe":"si"
       },
       {
-        "precio": "S/96.62",
-        "nombre": "ETODOLO 20",
+        "precio": "S/241.56",
+        "nombre": "LEMIDA",
         "descripcion": "Leflunomida 20mg",
         "presentacion": "Caja x 30 Tabletas Recubiertas",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
@@ -156,8 +156,8 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
+        "escala":"si",
+        "existe":"no"
       },
       {
         "precio": "S/89.21",
