@@ -39,7 +39,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/26.95",
@@ -144,7 +144,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/81.10",
@@ -358,7 +358,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       
       
@@ -556,7 +556,7 @@
         "linea_medicinal": "7. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/128.67",
@@ -595,7 +595,7 @@
         "linea_medicinal": "8. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/12.90",
@@ -608,7 +608,7 @@
         "linea_medicinal": "8. Línea Antimicótica",
         "tamaño_imagen": "8%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/4.95",
@@ -648,7 +648,7 @@
         "linea_medicinal": "9. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/66.00",
@@ -726,7 +726,7 @@
         "linea_medicinal": "11. Línea Antianémica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/39.19",
