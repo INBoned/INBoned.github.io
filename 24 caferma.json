@@ -545,32 +545,7 @@
         "escala":"no",
         "existe":"si"
       },
-      {
-        "precio": "S/69.43",
-        "nombre": "HISBEC 16",
-        "descripcion": "Betahistina Diclorhidrato 16mg",
-        "presentacion": "Caja x 42 Tabletas",
-        "imagen": "imagenes/caferma/caferma_portada.jpg",
-        "imagen_producto":"imagenes/caferma/productos/hisbec 16.jpg",
-        "laboratorio": "CAFERMA",
-        "linea_medicinal": "7. Línea Antivertiginosa",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/128.67",
-        "nombre": "HISBEC 24",
-        "descripcion": "Betahistina Diclorhidrato 24mg",
-        "presentacion": "Caja x 42 Tabletas",
-        "imagen": "imagenes/caferma/caferma_portada.jpg",
-        "imagen_producto":"imagenes/caferma/productos/hisbec 24.jpg",
-        "laboratorio": "CAFERMA",
-        "linea_medicinal": "7. Línea Antivertiginosa",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
+      
       {
         "precio": "S/39.00",
         "nombre": "TERBIFUN",
@@ -579,7 +554,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/terbifun.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "8. Línea Antimicótica",
+        "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -592,7 +567,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/terbifun crema.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "8. Línea Antimicótica",
+        "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -605,7 +580,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/terbifunspray.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "8. Línea Antimicótica",
+        "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "8%",
         "escala":"no",
         "existe":"no"
@@ -618,7 +593,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/novucor crema.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "8. Línea Antimicótica",
+        "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -632,7 +607,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/bpen.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "9. Línea Urológica",
+        "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -645,7 +620,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/nimocitan.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "9. Línea Urológica",
+        "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -658,7 +633,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/urosabal.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "9. Línea Urológica",
+        "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no"
@@ -671,7 +646,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/fos hepan forte.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "10. Línea OTC",
+        "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
         "existe":"si"
@@ -684,7 +659,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/sopaldine.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "10. Línea OTC",
+        "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
         "existe":"si"
@@ -697,7 +672,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/denzpil.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "10. Línea OTC",
+        "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -710,7 +685,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/rod b.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "10. Línea OTC",
+        "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "10%",
         "escala":"si",
         "existe":"si"
@@ -723,7 +698,7 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/ironfoc.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "11. Línea Antianémica",
+        "linea_medicinal": "10. Línea Antianémica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -736,8 +711,34 @@
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/mulcerol40.jpg",
         "laboratorio": "CAFERMA",
-        "linea_medicinal": "12. Línea Gastro",
+        "linea_medicinal": "11. Línea Gastro",
         "tamaño_imagen": "0%",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/69.43",
+        "nombre": "HISBEC 16",
+        "descripcion": "Betahistina Diclorhidrato 16mg",
+        "presentacion": "Caja x 42 Tabletas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/hisbec 16.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "12. Línea Antivertiginosa",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/128.67",
+        "nombre": "HISBEC 24",
+        "descripcion": "Betahistina Diclorhidrato 24mg",
+        "presentacion": "Caja x 42 Tabletas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/hisbec 24.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "12. Línea Antivertiginosa",
+        "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
       }

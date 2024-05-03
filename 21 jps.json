@@ -1,4 +1,17 @@
-[     
+[     {
+        "precio": "S/3.50",
+        "nombre": "METROXIN-500",
+        "descripcion": "Metronidazol 500mg/100ml",
+        "presentacion": "Caja x 1 Frasco",
+        "imagen": "imagenes/jps/jps_portada.jpg",
+        "imagen_producto":"imagenes/jps/productos/METROXIN 500.jpg",
+        "laboratorio": "JPS",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/jps.png" 
+      },
       {
         "precio": "S/7.50",
         "nombre": "AMOXICILINA 250MG + ACIDO CLAVULANICO 62.5MG",
@@ -10,8 +23,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no",
-        "logoLab":"imagenes/logoProveedores/jps.png" 
+        "existe":"no"
       },
 
       {
@@ -28,19 +40,7 @@
         "existe":"no"
       },
       
-      {
-        "precio": "S/3.50",
-        "nombre": "METROXIN-500",
-        "descripcion": "Metronidazol 500mg/100ml",
-        "presentacion": "Caja x 1 Frasco",
-        "imagen": "imagenes/jps/jps_portada.jpg",
-        "imagen_producto":"imagenes/jps/productos/METROXIN 500.jpg",
-        "laboratorio": "JPS",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si"
-      },
+      
       {
         "precio": "S/8.78",
         "nombre": "XEVUNAC",

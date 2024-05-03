@@ -14,21 +14,6 @@
         "logoLab":"imagenes/logoProveedores/luxor.png" 
     },
 
-
-    {
-        "precio": "S/23.75",
-        "nombre": "LUXERGIA",
-        "descripcion": "CETIRIZINA 10MG",
-        "presentacion": "Caja x 100 TABLETAS RECUBIERTAS",
-        "imagen": "imagenes/luxor/luxor_portada.jpg",
-        "imagen_producto":"imagenes/luxor/productos/luxergia.png",
-        "laboratorio": "LUXOR",
-        "linea_medicinal": "2. Línea Antihistamínica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-    },
-
     {
         "precio": "S/81.25",
         "nombre": "sinongo",
@@ -37,7 +22,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/sinongo.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "3. Línea Antimicótica",
+        "linea_medicinal": "2. Línea Antimicótica",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -53,7 +38,7 @@
         "imagen": "imagenes/luxor/luxor_portada.jpg",
         "imagen_producto":"imagenes/luxor/productos/enzylux.png",
         "laboratorio": "LUXOR",
-        "linea_medicinal": "4. Línea Vitaminas",
+        "linea_medicinal": "3. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
@@ -133,6 +118,21 @@
         "laboratorio": "LUXOR",
         "linea_medicinal": "6. Línea Gastro",
         "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"no"
+    },
+
+
+    {
+        "precio": "S/23.75",
+        "nombre": "LUXERGIA",
+        "descripcion": "CETIRIZINA 10MG",
+        "presentacion": "Caja x 100 TABLETAS RECUBIERTAS",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/luxergia.png",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "7. Línea Antihistamínica",
+        "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
     }
