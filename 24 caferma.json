@@ -1,8 +1,21 @@
 [
-    
-      
+  
       {
-        "precio": "S/21.24",
+        "precio": "S/34.72",
+        "nombre": "ETOXBLAM 120",
+        "descripcion": "Etoricoxib 120mg",
+        "presentacion": "Caja x 10 tableta recubierta",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/ETOXBLAM 120.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "1. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/caferma.png" 
+      },
+      {
+        "precio": "S/26.55",
         "nombre": "ETOXBLAM 90",
         "descripcion": "Etoricoxib 90mg",
         "presentacion": "Caja x 10 tableta recubierta",
@@ -11,12 +24,12 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si",
         "logoLab":"imagenes/logoProveedores/caferma.png" 
       },
       {
-        "precio": "S/34.56",
+        "precio": "S/41.48",
         "nombre": "DI PROFEKET",
         "descripcion": "Ketoprofeno 150MG",
         "presentacion": "Caja x 20 CAPSULAS",
@@ -25,11 +38,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/57.35",
+        "precio": "S/65.37",
         "nombre": "PROFEKET 100MG/2ML",
         "descripcion": "Ketoprofeno 100mg/2mL IM",
         "presentacion": "Caja x 10 Amp.",
@@ -38,11 +51,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/26.95",
+        "precio": "S/35.93",
         "nombre": "PROFEKET 100MG/5ML",
         "descripcion": "Ketoprofeno 100mg/5mL IV",
         "presentacion": "Caja x 5 Amp.",
@@ -51,11 +64,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "0%",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },  
       {
-        "precio": "S/16.07",
+        "precio": "S/22.86",
         "nombre": "PROFEKET GEL",
         "descripcion": "Ketoprofeno 2.5%",
         "presentacion": "Tubo x 30gr",
@@ -68,7 +81,7 @@
         "existe":"si"
       }, 
       {
-        "precio": "S/55.00",
+        "precio": "S/74.80",
         "nombre": "DOLMACAF PLUS",
         "descripcion": "Paracetamol 500mg + Ibuprofeno 150mg",
         "presentacion": "Caja x 100 Tabletas Recubiertas",
@@ -77,7 +90,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "0%",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       }, 
       {
@@ -94,7 +107,7 @@
         "existe":"no"
       }, 
       {
-        "precio": "S/50.00",
+        "precio": "S/68.00",
         "nombre": "DOLMACAF FORTE",
         "descripcion": "Paracetamol 500mg + Cafeína 65mg",
         "presentacion": "Caja x 100 Tabletas",
@@ -121,7 +134,7 @@
       },
       
       {
-        "precio": "S/138.00",
+        "precio": "S/210.00",
         "nombre": "DOLO COMPLEX",
         "descripcion": "Diclofenaco 50mg +Vit B1, Vit B6, Vit B12",
         "presentacion": "Caja x 100 Cápsulas",
@@ -147,7 +160,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/81.10",
+        "precio": "S/89.21",
         "nombre": "SEROTOCAF CAP.",
         "descripcion": "Cefalexina 500mg",
         "presentacion": "Caja x 100 cápsulas",
@@ -156,11 +169,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/15.08",
+        "precio": "S/15.07",
         "nombre": "SEROTOCAF SUSP.",
         "descripcion": "Cefalexina  250mg/5mL",
         "presentacion": "Caja x 1 Frasco de 60mL PPSO",
@@ -169,7 +182,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       
@@ -187,7 +200,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/89.58",
+        "precio": "S/134.37",
         "nombre": "VASENTOXIL",
         "descripcion": "Sultamicilina 375mg",
         "presentacion": "Caja x 30 Tabletas Recubiertas",
@@ -196,11 +209,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/7.76",
+        "precio": "S/9.31",
         "nombre": "DILOVET SUSPENSION",
         "descripcion": "Dicloxacilina 250mg/5mL",
         "presentacion": "Caja x 1 Frasco de 80mL",
@@ -214,7 +227,7 @@
       },
 
       {
-        "precio": "S/53.74",
+        "precio": "S/80.62",
         "nombre": "DILOVET CÁPSULA",
         "descripcion": "Dicloxacilina 500 MG",
         "presentacion": "Caja x 100 Cápsulas",
@@ -255,7 +268,7 @@
       
 
       {
-        "precio": "S/91.93",
+        "precio": "S/101.12",
         "nombre": "ENOFIBS",
         "descripcion": "FenofiIbrato 160mg",
         "presentacion": "Caja x 20 Cápsulas",
@@ -264,7 +277,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
@@ -291,7 +304,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       
@@ -305,7 +318,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "0%",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
@@ -322,7 +335,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/58.10",
+        "precio": "S/62.75",
         "nombre": "VASTASLIM EZ",
         "descripcion": "Ezetimiba + Simvastatina 10mg + 20mg",
         "presentacion": "Caja x 20 Tabletas Recurbiertas",
@@ -331,11 +344,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/48.58",
+        "precio": "S/72.88",
         "nombre": "tsepros M",
         "descripcion": "Glimepirida 2mg + Metformina HCL 500mg",
         "presentacion": "Caja x 30 Tabletas Recurbiertas",
@@ -344,11 +357,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/40.62",
+        "precio": "S/47.14",
         "nombre": "trigliout",
         "descripcion": "Ciprofibrato 100mg",
         "presentacion": "Caja x 20 Tabletas",
@@ -357,13 +370,13 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       
       
       {
-        "precio": "S/35.48",
+        "precio": "S/84.27",
         "nombre": "IRBESEL 300",
         "descripcion": "Irbesartán 300mg",
         "presentacion": "Caja x 20 Tabletas Recubiertas",
@@ -372,11 +385,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/86.78",
+        "precio": "S/108.47",
         "nombre": "IRBESEL HC 150+12.5",
         "descripcion": "Irbesartan + Hidroclorotiazida 150mg/12.5mg",
         "presentacion": "Caja x 20 Tabletas Recubiertas",
@@ -385,11 +398,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/93.15",
+        "precio": "S/116.44",
         "nombre": "IRBESEL HC 300+12.5",
         "descripcion": "Irbesartan + Hidroclorotiazida 300mg/12.5mg",
         "presentacion": "Caja x 20 Tabletas Recubiertas",
@@ -398,11 +411,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/45.95",
+        "precio": "S/68.93",
         "nombre": "FEDIRAL",
         "descripcion": "Nifedipino 30mg",
         "presentacion": "Caja x 20 Tabletas Recubiertas de Liberación Prolongadas",
@@ -411,11 +424,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/110.55",
+        "precio": "S/99.00",
         "nombre": "VIBOLOXX",
         "descripcion": "Nebivolol 5mg",
         "presentacion": "Caja x 30 Tabletas",
@@ -428,7 +441,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/29.15",
+        "precio": "S/32.07",
         "nombre": "LEISTRELL",
         "descripcion": "Ácido Acetilsalicilico",
         "presentacion": "Caja x 100 Tabletas de Liberación Retardada",
@@ -437,11 +450,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/64.35",
+        "precio": "S/70.79",
         "nombre": "BALILE 75",
         "descripcion": "Pregabalina 75mg",
         "presentacion": "Caja x 30 Cápsulas",
@@ -467,7 +480,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/72.60",
+        "precio": "S/90.75",
         "nombre": "VARPEM",
         "descripcion": "Citicolina 500mg",
         "presentacion": "Caja x 10 Tabletas Recubiertas ",
@@ -481,7 +494,7 @@
       },
       
       {
-        "precio": "S/73.53",
+        "precio": "S/88.24",
         "nombre": "MEANTI",
         "descripcion": "Memantina Clorhidrato 10mg",
         "presentacion": "Caja x 30 Tabletas Recubiertas",
@@ -490,11 +503,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "5. Línea Neuro",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/19.72",
+        "precio": "S/24.65",
         "nombre": "LESSTAMIN TAB.",
         "descripcion": "Levocetirizina diclorhidrato 5mg",
         "presentacion": "Caja x 20 Tabletas Recubiertas",
@@ -503,11 +516,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/14.95",
+        "precio": "S/19.93",
         "nombre": "LESSTAMIN SUSP.",
         "descripcion": "Levocetirizina 2.5mg/5mL",
         "presentacion": "Caja x 1 Frasco de 60mL",
@@ -516,7 +529,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
@@ -529,11 +542,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/16.82",
+        "precio": "S/28.04",
         "nombre": "FEXAFEX  120",
         "descripcion": "Fexofenadina clorhidrato",
         "presentacion": "Caja x 10 Tabletas Recubiertas",
@@ -542,12 +555,12 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       
       {
-        "precio": "S/39.00",
+        "precio": "S/58.51",
         "nombre": "TERBIFUN",
         "descripcion": "Terbinafina 250mg",
         "presentacion": "Caja x 28 Tabletas",
@@ -556,11 +569,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
+        "escala":"si",
+        "existe":"si"
       },
       {
-        "precio": "S/10.32",
+        "precio": "S/12.90",
         "nombre": "TERBIFUN CREMA",
         "descripcion": "Terbinafina 1%",
         "presentacion": "Tubo x 15g Crema",
@@ -569,11 +582,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/12.90",
+        "precio": "S/15.48",
         "nombre": "TERBIFUN",
         "descripcion": "Terbinafina 1%",
         "presentacion": "Frasco x 30ml Solución Tópica",
@@ -598,9 +611,21 @@
         "escala":"no",
         "existe":"no"
       },
-
       {
-        "precio": "S/17.97",
+        "precio": "S/131.56",
+        "nombre": "FOSLISELEN",
+        "descripcion": "fosfomicina 3g",
+        "presentacion": "Caja x 3 sobres",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/fosliselen.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "8. Línea Urológica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/35.94",
         "nombre": "B PEN",
         "descripcion": "Tadalafilo 20mg",
         "presentacion": "Caja x 4 Tabletas Recubiertas",
@@ -609,11 +634,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/16.08",
+        "precio": "S/21.44",
         "nombre": "NIMOCITAN K",
         "descripcion": "Citrato de Potasio 1080mg",
         "presentacion": "Caja x 14 TABLETAS DE LIBERACIÓN PROLONGADA",
@@ -622,7 +647,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
@@ -639,7 +664,7 @@
         "existe":"no"
       },
       {
-        "precio": "S/61.22",
+        "precio": "S/61.98",
         "nombre": "FOS HEPAN FORTE",
         "descripcion": "Silimarina 100mg + L/Glutation 50mg + Vitaminas",
         "presentacion": "Caja x 30 Cápsulas Blandas",
@@ -652,7 +677,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/87.09",
+        "precio": "S/90.00",
         "nombre": "SOPALDINE",
         "descripcion": "Insaponificable de aceite de Palta 100mg + Insaponificable de aceite de soya 200mg",
         "presentacion": "Caja x 30 Cápsulas Blandas",
@@ -665,7 +690,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/56.22",
+        "precio": "S/67.46",
         "nombre": "DENZPIL",
         "descripcion": "Ext. Allium cepa 10g + Heparina Sódica 5000 UI + Alantoina 1gr",
         "presentacion": "Tubo x 20gr Gel Tópico",
@@ -678,7 +703,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/33.00",
+        "precio": "S/36.30",
         "nombre": "ROD B",
         "descripcion": "Vit B1 + Colina Bitartrato + Inositol + Vit B3 + Vit B12 + Vit B9",
         "presentacion": "Caja x 30 Cápsulas Blandas",
@@ -700,11 +725,24 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "10. Línea Antianémica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       },
       {
-        "precio": "S/39.19",
+        "precio": "S/140.00",
+        "nombre": "GRIPA NOT",
+        "descripcion": "paracetamol 325mg/bromhidrato de dextrometorfano 10mg/clorhidrato de fenilefrina 5mg",
+        "presentacion": "Caja x 100cap",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/GRIPA NOT.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "11. Línea Antigripal",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/52.25",
         "nombre": "MULCEROL 40",
         "descripcion": "Esomeprazol 40mg",
         "presentacion": "Caja x 30 Tabletas de Liberacion Retardada",
@@ -713,11 +751,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "11. Línea Gastro",
         "tamaño_imagen": "0%",
-        "escala":"no",
-        "existe":"no"
+        "escala":"si",
+        "existe":"si"
       },
       {
-        "precio": "S/69.43",
+        "precio": "S/83.31",
         "nombre": "HISBEC 16",
         "descripcion": "Betahistina Diclorhidrato 16mg",
         "presentacion": "Caja x 42 Tabletas",
@@ -726,11 +764,11 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "12. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
+        "escala":"si",
+        "existe":"si"
       },
       {
-        "precio": "S/128.67",
+        "precio": "S/131.25",
         "nombre": "HISBEC 24",
         "descripcion": "Betahistina Diclorhidrato 24mg",
         "presentacion": "Caja x 42 Tabletas",
@@ -739,7 +777,7 @@
         "laboratorio": "CAFERMA",
         "linea_medicinal": "12. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"no"
       }
     ]
