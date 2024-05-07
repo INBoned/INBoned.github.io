@@ -259,7 +259,7 @@
         "linea_medicinal": "6. Línea Antimicótica",
         "tamaño_imagen": "2%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/75.53",
@@ -272,6 +272,6 @@
         "linea_medicinal": "7. Línea Antiespasmódica",
         "tamaño_imagen": "2%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       }
 ]

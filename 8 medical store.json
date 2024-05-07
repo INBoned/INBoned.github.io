@@ -234,7 +234,7 @@
         "linea_medicinal": "9. Línea Antiemética",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     },
     {
         "precio": "S/6.97",
@@ -260,7 +260,7 @@
         "linea_medicinal": "11. Línea Reuma/Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     }
     
 ]

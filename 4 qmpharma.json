@@ -51,7 +51,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       }, 
       {
         "precio": "S/14.94",
@@ -121,7 +121,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
 
 
@@ -426,6 +426,20 @@
         "presentacion": "Caja x 20 Tabletas",
         "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
         "imagen_producto":"imagenes/qmpharma/productos/HISTIGLOB 16MG.jpg",
+        "laboratorio": "QMPHARMA",
+        "linea_medicinal": "9. Línea Antivertiginosa",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+
+      {
+        "precio": "S/24.90",
+        "nombre": "HISTIGLOB 24MG",
+        "descripcion": "Betahistina 24mg",
+        "presentacion": "Caja x 20 Tabletas",
+        "imagen": "imagenes/qmpharma/qmpharma_portada.jpg",
+        "imagen_producto":"imagenes/qmpharma/productos/histiglob24mg.jpg",
         "laboratorio": "QMPHARMA",
         "linea_medicinal": "9. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
