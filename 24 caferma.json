@@ -130,7 +130,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       
       {
@@ -237,7 +237,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/22.31",
@@ -414,7 +414,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/116.44",
+        "precio": "S/116.49",
         "nombre": "IRBESEL HC 300+12.5",
         "descripcion": "Irbesartan + Hidroclorotiazida 300mg/12.5mg",
         "presentacion": "Caja x 20 Tabletas Recubiertas",
@@ -595,7 +595,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/15.48",
@@ -608,7 +608,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "8%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/4.95",

@@ -169,7 +169,7 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "70",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },  
   {
     "precio": "S/22.95",
@@ -382,7 +382,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "10%",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/111.56",
@@ -512,7 +512,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/31.68",
