@@ -130,7 +130,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
@@ -489,7 +489,7 @@
         "linea_medicinal": "5. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/90.75",
@@ -529,7 +529,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/19.93",
@@ -555,7 +555,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/28.04",
