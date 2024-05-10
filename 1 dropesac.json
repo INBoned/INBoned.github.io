@@ -331,6 +331,19 @@
     "existe":"no"
   },
   {
+    "precio": "S/28.13",
+    "nombre": "KAPSIHEAT",
+    "descripcion": "Extracto de Pimiento y Propoleo que alivian el dolor muscular y articular",
+    "presentacion": "caja x 1 Tubo de 60 gr",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+    "imagen_producto":"imagenes/dropesac/productos/KAPSIHEAT.jpg",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "7. Línea Natural",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"si"
+  },
+  {
     "precio": "S/22.31",
     "nombre": "APIPOL PROPOLIS",
     "descripcion": "Protege, hidrata, refresca, suaviza y renueva la piel sensible Unguento",
