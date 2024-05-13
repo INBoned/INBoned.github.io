@@ -467,9 +467,9 @@
         "existe":"no"
       },
       {
-        "precio": "S/19.00",
+        "precio": "S/5.00",
         "nombre": "ISOTON C",
-        "descripcion": "Magnesio Vitamina C - Calcio",
+        "descripcion": "Magnesio 100mg, Vitamina C 500mg",
         "presentacion": "Caja x 14 Tabletas Efervescentes",
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/ISOTON C.jpg",
@@ -481,9 +481,9 @@
       },
 
       {
-        "precio": "S/19.00",
+        "precio": "S/10.00",
         "nombre": "ISOTON C-CALCICO",
-        "descripcion": "Magnesio Vitamina C - Calcio",
+        "descripcion": "Magnesio 131,74mg, Vitamina C 100mg - Calcio 250mg",
         "presentacion": "Caja x 14 Tabletas Efervescentes",
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/ISOTON C-CALCICO.jpg",
