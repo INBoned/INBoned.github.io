@@ -10,8 +10,7 @@
         "linea_medicinal": "1. Línea Antigripal",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/luxor.png" 
+        "existe":"no"
     },
 
     {
@@ -25,7 +24,8 @@
         "linea_medicinal": "2. Línea Antimicótica",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/luxor.png"
     },
 
 
@@ -41,7 +41,7 @@
         "linea_medicinal": "3. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
     },
     {
         "precio": "S/11.13",
