@@ -358,15 +358,27 @@
         "existe":"no"
       },
 
-
-
       {
-        "precio": "S/55.00",
+        "precio": "S/20.00",
         "nombre": "VITAMIN C 1000MG",
         "descripcion": "",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "presentacion": "Frasco x 100 Tabletas Recubiertas",
         "imagen": "imagenes/terbol/terbol_portada.jpg",
         "imagen_producto":"imagenes/terbol/productos/VITAMIN C 1000MG.jpg",
+        "laboratorio": "TERBOL",
+        "linea_medicinal": "5. Línea Vitaminas",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+
+      {
+        "precio": "S/5.00",
+        "nombre": "VITAMIN C 500MG",
+        "descripcion": "",
+        "presentacion": "Frasco x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/terbol/terbol_portada.jpg",
+        "imagen_producto":"imagenes/terbol/productos/VITAMIN C 500MG.jpg",
         "laboratorio": "TERBOL",
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",

@@ -197,7 +197,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/77.00",
+        "precio": "S/25.00",
         "nombre": "BYE GRIP DIA",
         "descripcion": "Paracetamol 500mg + Guaifenesina 200mg + Fenilefrina Clorhidrato 10mg",
         "presentacion": "Caja x 60 Sobres PPSO",
@@ -206,11 +206,11 @@
         "laboratorio": "LYAFARM",
         "linea_medicinal": "4. Línea Antrigripal",
         "tamaño_imagen": "auto",
-        "escala":"si",
+        "escala":"no",
         "existe":"si"
       },
       {
-        "precio": "S/77.00",
+        "precio": "S/25.00",
         "nombre": "BYE GRIP NOCHE",
         "descripcion": "Paracetamol 650 mg + Ácido Ascórbico 250 mg + Clorfenamina Maleato 4 mg + Cafeína Citrato 30mg + Dextrometorfano 20mg",
         "presentacion": "Caja x 60 Sobres PPSO",
@@ -219,7 +219,7 @@
         "laboratorio": "LYAFARM",
         "linea_medicinal": "4. Línea Antrigripal",
         "tamaño_imagen": "auto",
-        "escala":"si",
+        "escala":"no",
         "existe":"si"
       },
       {
