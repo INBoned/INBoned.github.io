@@ -27,6 +27,19 @@
     "existe":"si"
   },
   {
+    "precio": "S/15.45",
+    "nombre": "KELEXYN",
+    "descripcion": "Cefalexina 250mg/5ml",
+    "presentacion": "Caja x 1 Frasco",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+    "imagen_producto":"imagenes/dropesac/productos/KELEXYN SUSP.png",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "1. Línea Antibiótica",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"si"
+  },
+  {
     "precio": "S/42.08",
     "nombre": "AUGMOX 1000",
     "descripcion": "Amoxicilina 875mg + Ácido clavulánico 125mg",
@@ -80,7 +93,7 @@
   },
   {
     "precio": "S/6.25",
-    "nombre": "XONACEV",
+    "nombre": "XONACEF IM",
     "descripcion": "CEFTRIAXONA 1G + LIDOCAINA 1%",
     "presentacion": "Caja x 1 VIAL",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
@@ -130,6 +143,19 @@
     "tamaño_imagen": "100",
     "escala":"no",
     "existe":"no"
+  },
+  {
+    "precio": "S/50.70",
+    "nombre": "IBUPAIN",
+    "descripcion": "Ibuprofeno 400mg",
+    "presentacion": "Caja x 100 capsulas blandas",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+    "imagen_producto":"imagenes/dropesac/productos/IBUPAIN.jpg",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "2. Línea Dolor",
+    "tamaño_imagen": "90",
+    "escala":"no",
+    "existe":"si"
   },
   {
     "precio": "S/35.00",
