@@ -1,5 +1,19 @@
 [
     {
+        "precio": "S/2.11",
+        "nombre": "POSTPIL",
+        "descripcion": "LEVONORGESTREL  1.5MG",
+        "presentacion": "Caja x 1 Comprimido",
+        "imagen": "imagenes/dkt/dkt_portada.jpg",
+        "imagen_producto":"imagenes/dkt/productos/postpil.jpg",
+        "laboratorio": "DKT",
+        "linea_medicinal": "1. Línea Prevención",
+        "tamaño_imagen": "0%",
+        "escala":"no",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/prudence.png" 
+    },
+    {
         "precio": "S/5.29",
         "nombre": "PRUDENCE VETE A LA VERSH",
         "descripcion": "Sabor y color chicle",
@@ -10,8 +24,7 @@
         "linea_medicinal": "1. Línea Prevención",
         "tamaño_imagen": "0%",
         "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/prudence.png" 
+        "existe":"si"        
     },
     {
         "precio": "S/3.83",
