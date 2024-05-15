@@ -28,8 +28,6 @@
         "existe":"si"
     },
 
-
-
     {
         "precio": "S/76.25",
         "nombre": "ENZYLUX",
@@ -43,6 +41,7 @@
         "escala":"no",
         "existe":"si"
     },
+
     {
         "precio": "S/11.13",
         "nombre": "MAGZILUX COMPLEX",
@@ -56,6 +55,7 @@
         "escala":"no",
         "existe":"si"
     },
+
     {
         "precio": "S/21.88",
         "nombre": "BETA GLUX",
@@ -69,6 +69,7 @@
         "escala":"no",
         "existe":"no"
     },
+
     {
         "precio": "S/21.88",
         "nombre": "MULTI VITAMÍNICO",
@@ -80,8 +81,9 @@
         "linea_medicinal": "4. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
     },
+
     {
         "precio": "S/21.88",
         "nombre": "FERRO LUX",
@@ -93,8 +95,9 @@
         "linea_medicinal": "4. Línea Vitaminas",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
     },
+
     {
         "precio": "S/15.00",
         "nombre": "CEFTRIAXONA 1G IV/IM",
@@ -108,6 +111,7 @@
         "escala":"no",
         "existe":"si"
     },
+
     {
         "precio": "S/78.00",
         "nombre": "simetilux",
@@ -119,9 +123,22 @@
         "linea_medicinal": "6. Línea Gastro",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
     },
 
+    {
+        "precio": "S/",
+        "nombre": "simetilux 80mg",
+        "descripcion": "SIMETICONA 80MG",
+        "presentacion": "Caja x 100 TABLETAS MASTICABLES",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/SIMETILUX 80.jpg",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "6. Línea Gastro",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"no"
+    },
 
     {
         "precio": "S/23.75",

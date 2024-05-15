@@ -104,7 +104,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/6.62",
@@ -299,7 +299,7 @@
         "linea_medicinal": "8. Línea Antihistamínica",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       
     

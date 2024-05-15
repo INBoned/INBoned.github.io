@@ -24,7 +24,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "3%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/103.32",
@@ -259,7 +259,20 @@
         "linea_medicinal": "6. Línea Antimicótica",
         "tamaño_imagen": "2%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
+      },
+      {
+        "precio": "S/54.00",
+        "nombre": "MICOVAG",
+        "descripcion": "METRONIDAZOL 500MG, NISTATINA 100000 UI",
+        "presentacion": "CAJA X 1 Tubo DE 20gr",
+        "imagen": "imagenes/lyafarm/lyafarm_portada.jpg",
+        "imagen_producto":"imagenes/lyafarm/productos/MICOVAG.jpg",
+        "laboratorio": "LYAFARM",
+        "linea_medicinal": "6. Línea Antimicótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
       },
       {
         "precio": "S/75.53",

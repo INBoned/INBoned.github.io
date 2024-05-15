@@ -24,7 +24,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "2%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/59.30",
@@ -191,6 +191,19 @@
         "escala":"no",
         "existe":"no"
       },
+      {
+        "precio": "S/42.86",
+        "nombre": "TERBOFENACO 75mg/3ml",
+        "descripcion": "Diclofenaco sodico",
+        "presentacion": "caja x 10 ampollas",
+        "imagen": "imagenes/terbol/terbol_portada.jpg",
+        "imagen_producto":"imagenes/terbol/productos/TERBOFENACO 75MG 3ML.jpg",
+        "laboratorio": "TERBOL",
+        "linea_medicinal": "2. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
 
 
 
@@ -246,7 +259,33 @@
         "linea_medicinal": "4. Línea Espectorante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
+      },
+      {
+        "precio": "S/80.00",
+        "nombre": "TERBOFIT 1000G",
+        "descripcion": "Multivitaminas y minerales",
+        "presentacion": "MEZCLA DE PROTEÍNA VEGETAL EN POLVO PARA BATIDOS LATA X 1000G",
+        "imagen": "imagenes/terbol/terbol_portada.jpg",
+        "imagen_producto":"imagenes/terbol/productos/TERBOFIT 100MG.jpg",
+        "laboratorio": "TERBOL",
+        "linea_medicinal": "5. Línea Vitaminas",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/39.00",
+        "nombre": "TERBOFIT 400G",
+        "descripcion": "Multivitaminas y minerales",
+        "presentacion": "MEZCLA DE PROTEÍNA VEGETAL EN POLVO PARA BATIDOS LATA X 400G",
+        "imagen": "imagenes/terbol/terbol_portada.jpg",
+        "imagen_producto":"imagenes/terbol/productos/TERBOFIT 400MG.jpg",
+        "laboratorio": "TERBOL",
+        "linea_medicinal": "5. Línea Vitaminas",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"si"
       },
       {
         "precio": "S/24.00",
@@ -259,7 +298,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/70.00",
@@ -449,7 +488,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/72.70",
@@ -476,7 +515,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/5.00",

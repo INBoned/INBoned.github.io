@@ -117,7 +117,7 @@
         "linea_medicinal": "4. Línea Antibiótica",
         "tamaño_imagen": "3%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
     },
     {
         "precio": "S/16.20",
@@ -156,7 +156,7 @@
         "linea_medicinal": "5. Línea Antiespasmódica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
     },
     {
         "precio": "S/61.60",

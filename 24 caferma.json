@@ -130,7 +130,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
@@ -148,7 +148,7 @@
       },
       {
         "precio": "S/241.56",
-        "nombre": "LEMIDA",
+        "nombre": "LEMIDA 20mg",
         "descripcion": "Leflunomida 20mg",
         "presentacion": "Caja x 30 Tabletas Recubiertas",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
@@ -170,7 +170,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/15.07",
@@ -293,7 +293,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/29.98",
+        "precio": "S/37.19",
         "nombre": "tyroxcaf",
         "descripcion": "Levotiroxina Sódica 100mcg",
         "presentacion": "Caja x 50 Tabletas ",
@@ -303,7 +303,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       
       {
@@ -401,7 +401,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/108.47",
+        "precio": "S/116.44",
         "nombre": "IRBESEL HC 150+12.5",
         "descripcion": "Irbesartan + Hidroclorotiazida 150mg/12.5mg",
         "presentacion": "Caja x 20 Tabletas Recubiertas",
@@ -582,7 +582,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/12.90",
@@ -663,7 +663,7 @@
         "existe":"si"
       },
       {
-        "precio": "S/66.00",
+        "precio": "S/72.60",
         "nombre": "UROSABAL",
         "descripcion": "",
         "presentacion": "Caja x 30 Cápsulas Blandas",
@@ -673,7 +673,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/61.98",
