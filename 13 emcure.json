@@ -11,7 +11,8 @@
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si",
-        "logoLab":"imagenes/logoProveedores/emcure.png" 
+        "logoLab":"imagenes/logoProveedores/emcure.png"
+        
       },
       {
         "precio": "S/27.23",
@@ -24,7 +25,7 @@
         "linea_medicinal": "1. Línea Hematológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       
       {

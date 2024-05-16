@@ -27,19 +27,6 @@
     "existe":"si"
   },
   {
-    "precio": "S/15.45",
-    "nombre": "KELEXYN",
-    "descripcion": "Cefalexina 250mg/5ml",
-    "presentacion": "Caja x 1 Frasco",
-    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
-    "imagen_producto":"imagenes/dropesac/productos/KELEXYN SUSP.png",
-    "laboratorio": "DROPESAC",
-    "linea_medicinal": "1. Línea Antibiótica",
-    "tamaño_imagen": "auto",
-    "escala":"no",
-    "existe":"si"
-  },
-  {
     "precio": "S/42.08",
     "nombre": "AUGMOX 1000",
     "descripcion": "Amoxicilina 875mg + Ácido clavulánico 125mg",
