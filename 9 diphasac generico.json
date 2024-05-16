@@ -10,7 +10,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"    
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/diphasac.png"    
     },
     {
         "precio": "S/15.00",
@@ -23,8 +24,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/diphasac.png" 
+        "existe":"si" 
     },
     {
         "precio": "S/25.00",
@@ -118,8 +118,6 @@
         "existe":"no"
     },
 
-
-
     {
         "precio": "S/12.50",
         "nombre": "DIMENHIDRINATO 50MG/5ML",
@@ -131,6 +129,20 @@
         "linea_medicinal": "5. Línea Antiemética",
         "tamaño_imagen": "auto",
         "escala":"si",
+        "existe":"si"
+    },
+
+    {
+        "precio": "S/34.25",
+        "nombre": "moxifloxacino",
+        "descripcion": "",
+        "presentacion": "Caja x 5 tabletas recubiertas",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_genericos/DIMENHIDRINATO 50MG 5ML.jpg",
+        "laboratorio": "DIPHASAC_GENERICO",
+        "linea_medicinal": "6. Línea Antibacteriano",
+        "tamaño_imagen": "auto",
+        "escala":"no",
         "existe":"si"
     }
 ]

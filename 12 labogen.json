@@ -144,6 +144,19 @@
         "escala":"no",
         "existe":"no"
       },
+      {
+        "precio": "S/16.51",
+        "nombre": "atorvastatina 20mg",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/labogen/labogen_portada.jpg",
+        "imagen_producto":"imagenes/labogen/productos/atorvastatina 40.jpg",
+        "laboratorio": "LABOGEN",
+        "linea_medicinal": "6. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
       
 
       {

@@ -341,5 +341,18 @@
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"no"
+      },
+      {
+        "precio": "S/12.88",
+        "nombre": "GARDIL",
+        "descripcion": "NITAZOXANIDA 500MG",
+        "presentacion": "Caja x 6 TABLETAS RECUBIERTAS",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/gardil tab.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "9. Línea Antiparasitario",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"si"
       }
     ]

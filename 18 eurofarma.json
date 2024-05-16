@@ -131,5 +131,18 @@
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"no"
+      },
+      {
+        "precio": "S/43.07",
+        "nombre": "losartan 50mg",
+        "descripcion": "",
+        "presentacion": "Caja x 30 comprimidos recubiertos",
+        "imagen": "imagenes/eurofarma/eurofarma_portada.jpg",
+        "imagen_producto":"imagenes/eurofarma/productos/bismucar tab.jpg",
+        "laboratorio": "EUROFARMA",
+        "linea_medicinal": "6. Línea Cardio",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"si"
       }
     ]
