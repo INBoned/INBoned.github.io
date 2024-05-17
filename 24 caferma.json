@@ -11,8 +11,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/caferma.png" 
+        "existe":"no" 
       },
       {
         "precio": "S/26.55",

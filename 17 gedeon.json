@@ -10,8 +10,7 @@
         "linea_medicinal": "1. Línea Ginecológica",
         "tamaño_imagen": "1%",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/gedeon.png" 
+        "existe":"no" 
       },
       {
         "precio": "S/13.22",
@@ -37,6 +36,7 @@
         "linea_medicinal": "1. Línea Ginecológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/gedeon.png"
       }
     ]
