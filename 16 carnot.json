@@ -24,9 +24,8 @@
         "laboratorio": "CARNOT",
         "linea_medicinal": "1. Línea Ginecológica",
         "tamaño_imagen": "1%",
-        "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/carnot.png"
+        "escala":"si",
+        "existe":"si"
       },
       {
         "precio": "S/42.63",
