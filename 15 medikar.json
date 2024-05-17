@@ -76,7 +76,7 @@
         "laboratorio": "MEDIKAR",
         "linea_medicinal": "4. Línea Antigripal",
         "tamaño_imagen": "8%",
-        "escala":"no",
+        "escala":"si",
         "existe":"si"
       }
     ]

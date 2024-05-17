@@ -9,7 +9,7 @@
         "laboratorio": "LABOFAR",
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si",
         "logoLab":"imagenes/logoProveedores/labofar.png" 
       },
@@ -194,7 +194,7 @@
         "laboratorio": "LABOFAR",
         "linea_medicinal": "4. Línea Antigripal",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si" ,
         "existe":"si"
       },
       {
