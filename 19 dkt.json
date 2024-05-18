@@ -10,8 +10,7 @@
         "linea_medicinal": "1. Línea Prevención",
         "tamaño_imagen": "0%",
         "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/prudence.png" 
+        "existe":"no"
     },
     {
         "precio": "S/5.29",
@@ -24,7 +23,8 @@
         "linea_medicinal": "1. Línea Prevención",
         "tamaño_imagen": "0%",
         "escala":"no",
-        "existe":"si"        
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/prudence.png"        
     },
     {
         "precio": "S/3.83",

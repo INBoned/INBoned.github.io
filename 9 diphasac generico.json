@@ -134,7 +134,7 @@
 
     {
         "precio": "S/34.25",
-        "nombre": "moxifloxacino",
+        "nombre": "moxifloxacino 400mg",
         "descripcion": "",
         "presentacion": "Caja x 5 tabletas recubiertas",
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
@@ -143,6 +143,6 @@
         "linea_medicinal": "6. Línea Antibacteriano",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
     }
 ]

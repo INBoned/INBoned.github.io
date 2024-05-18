@@ -103,7 +103,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/60.00",
@@ -116,7 +116,7 @@
         "linea_medicinal": "6. Línea Antihemorroidal",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
     },
     {
       "precio": "S/41.89",
