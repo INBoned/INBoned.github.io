@@ -9,9 +9,9 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/jps.png" 
+        "existe":"no" 
       },
+
       {
         "precio": "S/7.50",
         "nombre": "AMOXICILINA 250MG + ACIDO CLAVULANICO 62.5MG",
@@ -63,7 +63,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/jps.png"
       },
       {
         "precio": "S/12.00",
@@ -104,7 +105,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/13.00",
