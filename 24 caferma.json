@@ -169,7 +169,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/15.07",
@@ -423,7 +423,7 @@
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/68.93",
@@ -607,7 +607,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "8%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/4.95",
@@ -672,7 +672,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/61.98",
@@ -776,7 +776,7 @@
         "linea_medicinal": "13. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/131.25",
