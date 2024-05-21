@@ -28,6 +28,19 @@
         "existe":"no"
       },
       {
+        "precio": "S/1.94",
+        "nombre": "DIPHADIC LONG",
+        "descripcion": "Diclofenaco sódico 75mg",
+        "presentacion": "Caja x 1 ampolla im",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/diphadiclong.jpg",
+        "laboratorio": "DIPHASAC",
+        "linea_medicinal": "1. Línea Dolor Y Miorelajante",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
         "precio": "S/3.98",
         "nombre": "D CORT 4",
         "descripcion": "Dexametasona Fosfato 4mg/mL IM/IV/IA",
@@ -51,6 +64,19 @@
         "linea_medicinal": "1. Línea Dolor Y Miorelajante",
         "tamaño_imagen": "auto",
         "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/11.25",
+        "nombre": "DIPHARELAX PLUS 60",
+        "descripcion": "Orfenadrina Citrato 60mg/2ml",
+        "presentacion": "Caja x 1 ampolla",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/dipharelax.jpg",
+        "laboratorio": "DIPHASAC",
+        "linea_medicinal": "1. Línea Dolor Y Miorelajante",
+        "tamaño_imagen": "auto",
+        "escala":"no",
         "existe":"si"
       },
       {
@@ -98,7 +124,7 @@
         "descripcion": "Sulfato de Zinc 20mg/5mL",
         "presentacion": "Caja x 1 Frasco de 120mL",
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/DIPHA-ZINC-KID.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/diphazinckid.jpg",
         "laboratorio": "DIPHASAC",
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",

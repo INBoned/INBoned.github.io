@@ -108,6 +108,19 @@
         "existe":"no"
       },
       {
+        "precio": "S/17.32",
+        "nombre": "ATORVASTATINA 40MG",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/jps/jps_portada.jpg",
+        "imagen_producto":"imagenes/jps/productos/atorvastatina .jpg",
+        "laboratorio": "JPS",
+        "linea_medicinal": "3. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
         "precio": "S/13.00",
         "nombre": "METFORMINA CLORHIDRATO 850MG",
         "descripcion": "",
