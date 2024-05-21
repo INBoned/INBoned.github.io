@@ -2,7 +2,7 @@
     {
         "precio": "S/13.74",
         "nombre": "THE RAPY",
-        "descripcion": "Jabón Líquido Íntimo",
+        "descripcion": "Jabón Líquido Íntimo (enriquecido con aceite de Espino amarillo)",
         "presentacion": "frasco x 220ml",
         "imagen": "imagenes/soinsderma/soinsdermaportada.jpg",
         "imagen_producto":"imagenes/soinsderma/productos/jabon the rapy.jpg",
@@ -10,13 +10,13 @@
         "linea_medicinal": "1. Línea Aseo personal",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"no",
+        "existe":"si",
         "logoLab":"imagenes/logoProveedores/soinsderma.jpg" 
     },
     {
         "precio": "S/13.74",
         "nombre": "CLASSIC",
-        "descripcion": "Jabón Líquido Íntimo",
+        "descripcion": "Jabón Líquido Íntimo (Limpia,Refresca y ayuda a prevenir los malos olores e irritaciones)",
         "presentacion": "frasco x 220ml",
         "imagen": "imagenes/soinsderma/soinsdermaportada.jpg",
         "imagen_producto":"imagenes/soinsderma/productos/jabon classic.jpg",
@@ -24,12 +24,12 @@
         "linea_medicinal": "1. Línea Aseo personal",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
     },
     {
         "precio": "S/13.74",
         "nombre": "SENSITIVE",
-        "descripcion": "Jabón Líquido Íntimo",
+        "descripcion": "Jabón Líquido Íntimo (enriquecido con aloe vera )",
         "presentacion": "frasco x 220ml",
         "imagen": "imagenes/soinsderma/soinsdermaportada.jpg",
         "imagen_producto":"imagenes/soinsderma/productos/jabon sensitive.jpg",
@@ -37,6 +37,6 @@
         "linea_medicinal": "1. Línea Aseo personal",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
     }
     ]
