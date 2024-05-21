@@ -134,7 +134,7 @@
       {
         "precio": "S/60.00",
         "nombre": "HEMZON",
-        "descripcion": "Ruscus Aculea, Lactobacilus Sporogenes + Vitamina C",
+        "descripcion": "Ruscus Aculeatus, Lactobacilus Sporogenes + Vitamina C",
         "presentacion": "Caja x 100 Tabletas Masticables",
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_comercial/HEMZON.jpg",
@@ -154,7 +154,7 @@
       "laboratorio": "DIPHASAC",
       "linea_medicinal": "7. Línea Urológica",
       "escala":"no",
-      "existe":"no"
+      "existe":"si"
     },
     {
       "precio": "S/57.60",
