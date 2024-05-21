@@ -10,8 +10,7 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si",
-    "logoLab":"imagenes/logoProveedores/dropesac.png"
+    "existe":"no"
   },
   {
     "precio": "S/78.62",
@@ -50,7 +49,8 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "10%",
     "escala":"no",
-    "existe":"si"
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
     "precio": "S/12.53",
