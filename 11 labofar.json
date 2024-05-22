@@ -117,7 +117,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/35.00",
@@ -143,7 +143,7 @@
         "linea_medicinal": "3. Línea Mucolítico Expectorante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/11.38",
@@ -169,7 +169,7 @@
         "linea_medicinal": "3. Línea Mucolítico Expectorante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       }, 
       {
       "precio": "S/10.62",
@@ -247,7 +247,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/18.74",
