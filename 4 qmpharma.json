@@ -64,7 +64,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       }, 
       {
         "precio": "S/14.94",
@@ -90,7 +90,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/18.23",
@@ -103,7 +103,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/12.00",
@@ -264,7 +264,7 @@
         "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/25.20",
@@ -277,7 +277,7 @@
         "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/3.91",
@@ -316,7 +316,7 @@
         "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/116.17",
@@ -357,7 +357,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/24.00",
@@ -440,7 +440,7 @@
         "linea_medicinal": "9. Línea Antivertiginosa",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
 
       {
@@ -467,6 +467,6 @@
         "linea_medicinal": "10. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       }
 ]

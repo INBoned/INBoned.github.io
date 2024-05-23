@@ -38,7 +38,7 @@
         "linea_medicinal": "1. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
     },
     {
         "precio": "S/15.26",
@@ -247,7 +247,7 @@
         "linea_medicinal": "10. Línea Diurética",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
     },
     {
         "precio": "S/48.90",

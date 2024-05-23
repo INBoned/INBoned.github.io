@@ -77,7 +77,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       }, 
       {
         "precio": "S/74.80",
@@ -594,7 +594,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/15.48",
