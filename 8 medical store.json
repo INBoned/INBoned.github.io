@@ -257,7 +257,7 @@
         "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
         "imagen_producto":"imagenes/medicalstore/productos/LEFLUMEX 20.jpg",
         "laboratorio": "MEDICALSTORE",
-        "linea_medicinal": "11. Línea Reuma/Dolor",
+        "linea_medicinal": "11. Línea Reuma",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
