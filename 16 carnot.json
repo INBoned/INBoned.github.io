@@ -15,7 +15,7 @@
         "logoLab":"imagenes/logoProveedores/carnot.png"
       },
       {
-        "precio": "S/14.50",
+        "precio": "S/13.83",
         "nombre": "MENSILLE JP",
         "descripcion": "Acetato de Medroxiprogesterona 25mg + Cipionato de Estradiol 5mg",
         "presentacion": "Caja x 1 jeringa precargada",
@@ -38,6 +38,6 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no" 
+        "existe":"si" 
       }
     ]

@@ -156,7 +156,7 @@
         "linea_medicinal": "3. Línea Mucolítico Expectorante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/12.38",
@@ -221,7 +221,7 @@
         "linea_medicinal": "6. Línea Espasmódica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/76.25",

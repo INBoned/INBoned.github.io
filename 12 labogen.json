@@ -10,7 +10,8 @@
         "linea_medicinal": "1. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/LABOGEN.png"
       },
       {
         "precio": "S/38.12",
@@ -23,7 +24,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/81.24",
@@ -36,7 +37,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
 
       {
@@ -50,8 +51,7 @@
         "linea_medicinal": "3. Línea Antihistamínico",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/LABOGEN.png"
+        "existe":"si"
       },
       {
         "precio": "S/36.25",
@@ -116,7 +116,7 @@
         "linea_medicinal": "5. Línea Mucolítica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/43.00",

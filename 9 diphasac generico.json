@@ -24,7 +24,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no" 
+        "existe":"si" 
     },
     {
         "precio": "S/25.00",
@@ -96,7 +96,7 @@
         "linea_medicinal": "4. Línea Antiestamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     },
 
 
