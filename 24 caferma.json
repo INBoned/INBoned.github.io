@@ -90,7 +90,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       }, 
       {
         "precio": "S/25.31",
@@ -157,6 +157,32 @@
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
+      },
+      {
+        "precio": "S/9.19",
+        "nombre": "NERVOZOL",
+        "descripcion": "ORFENADRINA CITRATO 60MG/2ML",
+        "presentacion": "Caja x 1 AMPOLLA",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/lemida.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "1. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/130.68",
+        "nombre": "NERVOZOL PLUS",
+        "descripcion": "ORFENADRINA CITRATO 35MG + PARACETAMOL 450MG",
+        "presentacion": "Caja x 100 TABLETAS",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/nervozol plus.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "1. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
       },
       {
         "precio": "S/89.21",
@@ -236,7 +262,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/22.31",
@@ -567,7 +593,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
@@ -620,7 +646,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/131.56",
@@ -633,7 +659,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/35.94",
@@ -646,7 +672,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/21.44",
@@ -685,7 +711,7 @@
         "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/90.00",
@@ -717,6 +743,19 @@
         "precio": "S/36.30",
         "nombre": "ROD B",
         "descripcion": "Vit B1 + Colina Bitartrato + Inositol + Vit B3 + Vit B12 + Vit B9",
+        "presentacion": "Caja x 30 Cápsulas Blandas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/rod b.jpg",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "9. Línea OTC",
+        "tamaño_imagen": "10%",
+        "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/113.39",
+        "nombre": "ecsaven forte",
+        "descripcion": "extracto de castaño de indias + fosfolipidos escenciales",
         "presentacion": "Caja x 30 Cápsulas Blandas",
         "imagen": "imagenes/caferma/caferma_portada.jpg",
         "imagen_producto":"imagenes/caferma/productos/rod b.jpg",

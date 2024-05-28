@@ -76,7 +76,7 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "100",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/6.25",
@@ -142,7 +142,7 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "90",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/35.00",
@@ -248,7 +248,7 @@
     "linea_medicinal": "4. Línea Metabólica",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/35.38",
@@ -434,7 +434,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/38.63",

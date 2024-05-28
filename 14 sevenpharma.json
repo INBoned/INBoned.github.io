@@ -10,8 +10,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/Seven.png" 
+        "existe":"no"
       },
       {
         "precio": "S/95.00",
@@ -37,7 +36,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       },
       {
         "precio": "S/3.50",
@@ -50,7 +50,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "10%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/104.98",

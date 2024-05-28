@@ -189,7 +189,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/42.86",
@@ -232,7 +232,7 @@
         "linea_medicinal": "3. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
 
       {
@@ -488,7 +488,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/72.70",
@@ -515,7 +515,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/5.00",
@@ -542,7 +542,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
@@ -556,7 +556,7 @@
         "linea_medicinal": "5. Línea Vitaminas",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/40.00",
