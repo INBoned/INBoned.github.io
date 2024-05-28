@@ -84,20 +84,6 @@
         "escala":"si",
         "existe":"si"
     },
-    
-    {
-        "precio": "S/5.40",
-        "nombre": "CLORFENAMINA 10mg IV/IM",
-        "descripcion": "",
-        "presentacion": "Caja x 10 Ampollas",
-        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
-        "imagen_producto":"imagenes/diphasac/productos/diphasac_genericos/CLORFENAMINA 10mg IV IM.jpg",
-        "laboratorio": "DIPHASAC_GENERICO",
-        "linea_medicinal": "4. Línea Antiestamínica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-    },
 
 
 
@@ -109,7 +95,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_genericos/FENITOINA SÓDICA 100MG.jpg",
         "laboratorio": "DIPHASAC_GENERICO",
-        "linea_medicinal": "5. Línea Antiepiléctica",
+        "linea_medicinal": "4. Línea Antiepiléctica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -123,7 +109,7 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_genericos/DIMENHIDRINATO 50MG 5ML.jpg",
         "laboratorio": "DIPHASAC_GENERICO",
-        "linea_medicinal": "5. Línea Antiemética",
+        "linea_medicinal": "4. Línea Antiemética",
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
@@ -137,9 +123,22 @@
         "imagen": "imagenes/diphasac/diphasac_portada.jpg",
         "imagen_producto":"imagenes/diphasac/productos/diphasac_genericos/MOXIFLOXACINO.jpg",
         "laboratorio": "DIPHASAC_GENERICO",
-        "linea_medicinal": "6. Línea Antibacteriano",
+        "linea_medicinal": "5. Línea Antibacteriano",
         "tamaño_imagen": "auto",
         "escala":"no",
+        "existe":"no"
+    },
+    {
+        "precio": "S/5.40",
+        "nombre": "CLORFENAMINA 10mg IV/IM",
+        "descripcion": "",
+        "presentacion": "Caja x 10 Ampollas",
+        "imagen": "imagenes/diphasac/diphasac_portada.jpg",
+        "imagen_producto":"imagenes/diphasac/productos/diphasac_genericos/CLORFENAMINA 10mg IV IM.jpg",
+        "laboratorio": "DIPHASAC_GENERICO",
+        "linea_medicinal": "6. Línea Antiestamínica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
         "existe":"no"
     }
 ]
