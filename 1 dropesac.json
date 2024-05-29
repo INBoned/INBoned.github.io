@@ -413,7 +413,7 @@
   {
     "precio": "S/111.56",
     "nombre": "B VAT",
-    "descripcion": "",
+    "descripcion": "TIAMINA HCL 10 MG, RIVOFLAVINA SODIO FOSFATO 5.53 MG, PIRIDOXINA HCL 4 MG, NICOTINAMIDA 40 MG, DEXPANTENOL 6 MG, CIANOCOBALAMINA 8 UG, BIOTINA 500 UG",
     "presentacion": "Caja x 10 Ampollas",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
     "imagen_producto":"imagenes/dropesac/productos/B-VAT.jpg",
@@ -426,7 +426,7 @@
   {
     "precio": "S/146.62",
     "nombre": "B VAT FORTE",
-    "descripcion": "",
+    "descripcion": "CLORHIDRATO DE TIAMINA 20MG + RIBOFLAVINA FOSFATO DE SODIO 5MG + CLORHIDRATO DE PIRIDOXINA 10MG + NICOTINAMIDA 50MG + DEXPANTENOL 5MG + CIANOCOBALAMINA 1MG",
     "presentacion": "Caja x 10 Ampollas",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
     "imagen_producto":"imagenes/dropesac/productos/B-VAT FORTE.jpg",
