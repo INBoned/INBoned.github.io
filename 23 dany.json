@@ -1,45 +1,4 @@
 [
-    
-      {
-        "precio": "S/18.75",
-        "nombre": "AMPICILINA 1G",
-        "descripcion": "IM / IV / Perfusión IV",
-        "presentacion": "Caja x 10 Viales",
-        "imagen": "imagenes/dany/dany_portada.jpg",
-        "imagen_producto":"imagenes/dany/productos/ampicilina 1g.jpg",
-        "laboratorio": "DANY",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/dany.png" 
-      },
-      {
-        "precio": "S/4.38",
-        "nombre": "AMPICILINA + SULBACTAN SÓDICO 1.5G IM",
-        "descripcion": "",
-        "presentacion": "Caja x 1 Amp.",
-        "imagen": "imagenes/dany/dany_portada.jpg",
-        "imagen_producto":"imagenes/dany/productos/ampicilina sulbactan.jpg",
-        "laboratorio": "DANY",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-      {
-        "precio": "S/37.50",
-        "nombre": "AMOXICILINA 500MG",
-        "descripcion": "",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/dany/dany_portada.jpg",
-        "imagen_producto":"imagenes/dany/productos/amoxicilina 500mg.jpg",
-        "laboratorio": "DANY",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-      },
       {
         "precio": "S/54.69",
         "nombre": "BICARBONATO DE SODIO 8.4%",
@@ -48,10 +7,11 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/bicarbonato de sodio.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "2. Línea Gastro",
+        "linea_medicinal": "1. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/dany.png" 
       },
       {
         "precio": "S/25.00",
@@ -61,7 +21,7 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/omeprazol 40mg.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "2. Línea Gastro",
+        "linea_medicinal": "1. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -74,9 +34,48 @@
         "imagen": "imagenes/dany/dany_portada.jpg",
         "imagen_producto":"imagenes/dany/productos/fluconazol 100mg.jpg",
         "laboratorio": "DANY",
-        "linea_medicinal": "3. Línea Antimicóticos",
+        "linea_medicinal": "2. Línea Antimicóticos",
         "tamaño_imagen": "10%",
         "escala":"si",
         "existe":"si"
+      },
+      {
+        "precio": "S/18.75",
+        "nombre": "AMPICILINA 1G",
+        "descripcion": "IM / IV / Perfusión IV",
+        "presentacion": "Caja x 10 Viales",
+        "imagen": "imagenes/dany/dany_portada.jpg",
+        "imagen_producto":"imagenes/dany/productos/ampicilina 1g.jpg",
+        "laboratorio": "DANY",
+        "linea_medicinal": "3. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/4.38",
+        "nombre": "AMPICILINA + SULBACTAN SÓDICO 1.5G IM",
+        "descripcion": "",
+        "presentacion": "Caja x 1 Amp.",
+        "imagen": "imagenes/dany/dany_portada.jpg",
+        "imagen_producto":"imagenes/dany/productos/ampicilina sulbactan.jpg",
+        "laboratorio": "DANY",
+        "linea_medicinal": "3. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      {
+        "precio": "S/37.50",
+        "nombre": "AMOXICILINA 500MG",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/dany/dany_portada.jpg",
+        "imagen_producto":"imagenes/dany/productos/amoxicilina 500mg.jpg",
+        "laboratorio": "DANY",
+        "linea_medicinal": "3. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
       }
     ]
