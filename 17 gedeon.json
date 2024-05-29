@@ -35,7 +35,7 @@
         "laboratorio": "GEDEON RICHTER",
         "linea_medicinal": "1. Línea Ginecológica",
         "tamaño_imagen": "auto",
-        "escala":"no",
+        "escala":"si",
         "existe":"si",
         "logoLab":"imagenes/logoProveedores/gedeon.png" 
       }

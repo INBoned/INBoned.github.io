@@ -127,7 +127,7 @@
     },
 
     {
-        "precio": "S/",
+        "precio": "S/43.75",
         "nombre": "simetilux 80mg",
         "descripcion": "SIMETICONA 80MG",
         "presentacion": "Caja x 100 TABLETAS MASTICABLES",
@@ -137,7 +137,7 @@
         "linea_medicinal": "6. Línea Gastro",
         "tamaño_imagen": "15%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
     },
 
     {
