@@ -38,7 +38,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/65.37",
@@ -169,7 +169,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/130.68",
@@ -301,7 +301,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
@@ -607,7 +607,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/12.90",
@@ -646,7 +646,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/131.56",
@@ -763,7 +763,7 @@
         "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "10%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/110.33",

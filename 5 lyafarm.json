@@ -207,7 +207,7 @@
         "linea_medicinal": "4. Línea Antrigripal",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/25.00",
@@ -246,7 +246,7 @@
         "linea_medicinal": "5. Línea Natural",
         "tamaño_imagen": "2%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/5.61",

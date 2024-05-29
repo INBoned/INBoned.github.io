@@ -10,8 +10,7 @@
         "linea_medicinal": "1. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/LABOGEN.png"
+        "existe":"no"
       },
       {
         "precio": "S/38.12",
@@ -51,7 +50,8 @@
         "linea_medicinal": "3. Línea Antihistamínico",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/LABOGEN.png"
       },
       {
         "precio": "S/36.25",
