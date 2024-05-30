@@ -658,7 +658,7 @@
     "existe":"si"
   },
   {
-    "precio": "S/15.62",
+    "precio": "S/17.28",
     "nombre": "APIPRODENT GEL",
     "descripcion": "ayuda a mantener en buen estado la mucosa bucal y encías",
     "presentacion": "Caja x 1 tubo de 20g",
@@ -667,7 +667,7 @@
     "laboratorio": "DROPESAC",
     "linea_medicinal": "10. Línea Odontológica",
     "tamaño_imagen": "10%",
-    "escala":"no",
+    "escala":"si",
     "existe":"si"
   }
 ]
