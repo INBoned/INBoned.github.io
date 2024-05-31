@@ -146,7 +146,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       
       
@@ -259,7 +259,7 @@
         "linea_medicinal": "4. Línea Espectorante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/80.00",

@@ -51,7 +51,7 @@
         "linea_medicinal": "1. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
     },
     {
         "precio": "S/17.40",
@@ -156,7 +156,7 @@
         "linea_medicinal": "5. Línea Antiespasmódica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
     },
     {
         "precio": "S/61.60",

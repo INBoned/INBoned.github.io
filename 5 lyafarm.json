@@ -10,8 +10,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/lyafarm.png"
+        "existe":"no"
       },
       {
         "precio": "S/80.00",
@@ -37,7 +36,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "3%",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/lyafarm.png"
       },
       {
         "precio": "S/12.13",
@@ -246,7 +246,7 @@
         "linea_medicinal": "5. Línea Natural",
         "tamaño_imagen": "2%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/5.61",
