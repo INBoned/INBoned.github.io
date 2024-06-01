@@ -410,8 +410,19 @@
         "escala":"si",
         "existe":"si"
       },
-      
-      
+      {
+        "precio": "S/69.13",
+        "nombre": "IRBESEL 150",
+        "descripcion": "Irbesartán 150mg",
+        "presentacion": "Caja x 20 Tabletas Recubiertas",
+        "imagen": "imagenes/caferma/caferma_portada.jpg",
+        "imagen_producto":"imagenes/caferma/productos/irbesel150.png",
+        "laboratorio": "CAFERMA",
+        "linea_medicinal": "4. Línea Cardio",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
       {
         "precio": "S/84.27",
         "nombre": "IRBESEL 300",

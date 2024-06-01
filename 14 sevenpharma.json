@@ -1,29 +1,17 @@
 [
       {
-        "precio": "S/12.44",
-        "nombre": "AMOXYSEVEN 10",
-        "descripcion": "Amoxicilina 500mg + Acido Clavulanico 125mg",
-        "presentacion": "Caja x 10 tabletas",
+        "precio": "S/50.70",
+        "nombre": "FURABACT",
+        "descripcion": "CEFUROXIMA 500MG",
+        "presentacion": "Caja x 30 TABLETAS RECUBIERTAS",
         "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
-        "imagen_producto":"imagenes/sevenpharma/productos/amoxyseven 10.jpg",
+        "imagen_producto":"imagenes/sevenpharma/productos/furabact.png",
         "laboratorio": "SEVEN PHARMA",
         "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-      },
-      {
-        "precio": "S/95.00",
-        "nombre": "AMOXYSEVEN 100",
-        "descripcion": "Amoxicilina 500mg + Acido Clavulanico 125mg",
-        "presentacion": "Caja x 100 tabletas",
-        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
-        "imagen_producto":"imagenes/sevenpharma/productos/amoxyseven 100.jpg",
-        "laboratorio": "SEVEN PHARMA",
-        "linea_medicinal": "1. Línea Antibiótica",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
+        "tamaño_imagen": "12%",
+        "escala":"no",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       },
       {
         "precio": "S/11.83",
@@ -36,8 +24,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/Seven.png" 
+        "existe":"si"
       },
       {
         "precio": "S/3.50",
@@ -59,6 +46,33 @@
         "presentacion": "Caja x 30 Tabletas Recubiertas",
         "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
         "imagen_producto":"imagenes/sevenpharma/productos/moquin 400.jpg",
+        "laboratorio": "SEVEN PHARMA",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
+      },
+      {
+        "precio": "S/12.44",
+        "nombre": "AMOXYSEVEN 10",
+        "descripcion": "Amoxicilina 500mg + Acido Clavulanico 125mg",
+        "presentacion": "Caja x 10 tabletas",
+        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
+        "imagen_producto":"imagenes/sevenpharma/productos/amoxyseven 10.jpg",
+        "laboratorio": "SEVEN PHARMA",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
+      },
+
+      {
+        "precio": "S/95.00",
+        "nombre": "AMOXYSEVEN 100",
+        "descripcion": "Amoxicilina 500mg + Acido Clavulanico 125mg",
+        "presentacion": "Caja x 100 tabletas",
+        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
+        "imagen_producto":"imagenes/sevenpharma/productos/amoxyseven 100.jpg",
         "laboratorio": "SEVEN PHARMA",
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
@@ -105,4 +119,5 @@
         "escala":"no",
         "existe":"no"
       }
+
     ]
