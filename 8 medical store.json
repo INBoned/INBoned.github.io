@@ -90,7 +90,7 @@
         "linea_medicinal": "3. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     },
 
     {
@@ -104,7 +104,7 @@
         "linea_medicinal": "3. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     },
     {
         "precio": "S/12.42",
@@ -156,7 +156,7 @@
         "linea_medicinal": "5. Línea Antiespasmódica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     },
     {
         "precio": "S/61.60",

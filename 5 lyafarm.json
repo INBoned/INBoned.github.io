@@ -115,7 +115,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "1%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       
       {
@@ -246,7 +246,7 @@
         "linea_medicinal": "5. Línea Natural",
         "tamaño_imagen": "2%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/5.61",
@@ -259,7 +259,7 @@
         "linea_medicinal": "6. Línea Antimicótica",
         "tamaño_imagen": "2%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/54.00",

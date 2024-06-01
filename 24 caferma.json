@@ -38,7 +38,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/65.37",
@@ -90,7 +90,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       }, 
       {
         "precio": "S/25.31",
@@ -356,7 +356,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/60.58",
@@ -488,7 +488,7 @@
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/70.79",
@@ -567,7 +567,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/31.93",
@@ -580,7 +580,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/28.04",
@@ -593,7 +593,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       
       {
@@ -659,7 +659,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/35.94",
@@ -672,7 +672,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/21.44",
@@ -685,7 +685,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/72.60",
@@ -711,7 +711,7 @@
         "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/90.00",
@@ -802,7 +802,7 @@
         "linea_medicinal": "12. Línea Gastro",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/83.31",
