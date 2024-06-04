@@ -29,6 +29,21 @@
     },
 
     {
+        "precio": "S/56.25",
+        "nombre": "PULCARE",
+        "descripcion": "SUPLEMENTO vitamínico vitaminas: A, B1, B2, B3, B5, B6, B9, B12, C, D, E, K, CÁLCIO, FÓSFORO, HIERRO, MAGNESIO, POTASIO, SELENIO, SODIO, YODO, ZINC",
+        "presentacion": "POTE X 450G",
+        "imagen": "imagenes/luxor/luxor_portada.jpg",
+        "imagen_producto":"imagenes/luxor/productos/pulcare 450.jpg",
+        "laboratorio": "LUXOR",
+        "linea_medicinal": "3. Línea Vitaminas",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"si"
+    },
+
+
+    {
         "precio": "S/76.25",
         "nombre": "ENZYLUX",
         "descripcion": "SUPLEMENTO NUTRICIONAL ( AMILASA 75mg, PROTEASA 60MG, MALATASA 50MG, CELULASA 50MG, LIPASA 10MG, SUCRASA 10MG, LACTASA 5MG)",
