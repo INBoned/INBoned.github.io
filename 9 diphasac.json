@@ -116,7 +116,7 @@
         "linea_medicinal": "4. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/14.83",
@@ -154,7 +154,7 @@
       "laboratorio": "DIPHASAC",
       "linea_medicinal": "7. Línea Urológica",
       "escala":"no",
-      "existe":"si"
+      "existe":"no"
     },
     {
       "precio": "S/57.60",
