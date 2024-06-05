@@ -23,8 +23,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/perufar.png" 
+        "existe":"no"
       },
       {
         "precio": "S/15.62",
@@ -50,7 +49,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/perufar.png" 
       },
       {
         "precio": "S/6.79",
