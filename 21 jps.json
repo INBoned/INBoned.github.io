@@ -145,5 +145,18 @@
         "tamaño_imagen": "12%",
         "escala":"no",
         "existe":"no"
+      },
+      {
+        "precio": "S/5.00",
+        "nombre": "AMICLAF",
+        "descripcion": "MALEATO DE CLORFEANMINA 10MG/ML",
+        "presentacion": "Caja x 10 AMPOLLAS",
+        "imagen": "imagenes/jps/jps_portada.jpg",
+        "imagen_producto":"imagenes/jps/productos/AMICLAF.png",
+        "laboratorio": "JPS",
+        "linea_medicinal": "5. Línea antihistaminicos",
+        "tamaño_imagen": "12%",
+        "escala":"no",
+        "existe":"si"
       }
     ]

@@ -39,5 +39,18 @@
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si" 
+      },
+      {
+        "precio": "S/28.76",
+        "nombre": "DOSTEIN SUSPENSION.",
+        "descripcion": "Erdosteina 175mg/5ML POLVO PARA SUSPENSION ORAL ",
+        "presentacion": "Caja x 1 FRASCO DE 90ML",
+        "imagen": "imagenes/carnot/carnot_portada.jpg",
+        "imagen_producto":"imagenes/carnot/productos/DOSTEIN SUSP.jpg",
+        "laboratorio": "CARNOT",
+        "linea_medicinal": "2. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si" 
       }
     ]
