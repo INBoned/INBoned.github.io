@@ -10,7 +10,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"   
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/diphasac.png"  
     },
     {
         "precio": "S/15.00",
@@ -36,8 +37,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/diphasac.png"
+        "existe":"si"
     },
     {
         "precio": "S/42.80",

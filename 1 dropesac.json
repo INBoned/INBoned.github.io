@@ -408,7 +408,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "10%",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/111.56",
@@ -590,7 +590,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/31.80",
