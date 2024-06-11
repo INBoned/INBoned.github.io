@@ -354,5 +354,18 @@
         "tamaño_imagen": "15%",
         "escala":"no",
         "existe":"si"
+      },
+      {
+        "precio": "S/12.88",
+        "nombre": "GARDIL SUSP.",
+        "descripcion": "NITAZOXANIDA 100MG/5ML",
+        "presentacion": "Caja x 1 FRASCO",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/gardil susp.jpg",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "9. Línea Antiparasitario",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"si"
       }
     ]

@@ -2070,6 +2070,9 @@ html {
 .cintaLinea[data-linea="SOINSDERMA"] {
     background-color: #00edba;
 }
+.cintaLinea[data-linea="RAFIMED"] {
+    background-color: #00edba;
+}
 /*COLOR DEL DIV DEL PRODUCTO*/
 
 .producto-nombre[data-linea="DROPESAC"] {
@@ -2158,5 +2161,8 @@ html {
     background-image: linear-gradient(45deg, #DF751E, #6A36FF);
 }
 .producto-nombre[data-linea="SOINSDERMA"] {
+    background-image: linear-gradient(45deg, #0038FC, #03C1A3);
+}
+.producto-nombre[data-linea="RAFIMED"] {
     background-image: linear-gradient(45deg, #0038FC, #03C1A3);
 }

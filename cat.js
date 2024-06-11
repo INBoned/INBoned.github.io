@@ -29,7 +29,8 @@
         "21 jps.json",
         "22 otarvasq.json",
         "23 dany.json",
-        "27 soinsderma.json"
+        "27 soinsderma.json",
+        "28 rafimed.json"
 ];
 
 document.addEventListener("DOMContentLoaded", function() {
