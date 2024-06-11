@@ -380,7 +380,7 @@
     "linea_medicinal": "7. Línea Natural",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   
   
@@ -668,6 +668,6 @@
     "linea_medicinal": "10. Línea Odontológica",
     "tamaño_imagen": "10%",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   }
 ]

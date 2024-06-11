@@ -1,0 +1,28 @@
+[
+    {
+    "precio": "S/18.00  ",
+    "nombre": "ceftramed",
+    "descripcion": "ceftriaxona 1g",
+    "presentacion": "Caja x 10 viales",
+    "imagen": "imagenes/carnot/carnot_portada.jpg",
+    "imagen_producto":"imagenes/carnot/productos/dostein cap.jpg",
+    "laboratorio": "CARNOT",
+    "linea_medicinal": "2. Línea Antibiótica",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"si" 
+    },
+    {
+    "precio": "S/28.76",
+    "nombre": "omeprazid",
+    "descripcion": "omeprazol 40mg polvo para ssolución oral",
+    "presentacion": "Caja x 10 viales",
+    "imagen": "imagenes/carnot/carnot_portada.jpg",
+    "imagen_producto":"imagenes/carnot/productos/DOSTEIN SUSP.jpg",
+    "laboratorio": "CARNOT",
+    "linea_medicinal": "2. Línea Antibiótica",
+    "tamaño_imagen": "auto",
+    "escala":"no",
+    "existe":"si" 
+    }
+]
