@@ -142,7 +142,7 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "90",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/35.00",
@@ -151,6 +151,19 @@
     "presentacion": "Caja x 100 Tabletas Recubiertas",
     "imagen": "imagenes/dropesac/dropesac_portada.jpg",
     "imagen_producto":"imagenes/dropesac/productos/DOLOX MIGRAÑA.jpg",
+    "laboratorio": "DROPESAC",
+    "linea_medicinal": "2. Línea Dolor",
+    "tamaño_imagen": "100",
+    "escala":"si",
+    "existe":"si"
+  },
+  {
+    "precio": "S/3.80",
+    "nombre": "DOLOX FORTE",
+    "descripcion": "Paracetamol 1G",
+    "presentacion": "Caja x 10 Tabletas Recubiertas",
+    "imagen": "imagenes/dropesac/dropesac_portada.jpg",
+    "imagen_producto":"imagenes/dropesac/productos/dolox forte.png",
     "laboratorio": "DROPESAC",
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "100",
@@ -248,7 +261,7 @@
     "linea_medicinal": "4. Línea Metabólica",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/35.38",
@@ -341,7 +354,7 @@
     "linea_medicinal": "7. Línea Natural",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/28.13",
@@ -434,7 +447,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/38.63",
@@ -499,7 +512,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/38.68",
