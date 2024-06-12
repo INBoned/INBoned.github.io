@@ -36,7 +36,7 @@
         "linea_medicinal": "1. Línea Ginecológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/gedeon.png" 
       }
     ]
