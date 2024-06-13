@@ -24,8 +24,7 @@
         "linea_medicinal": "2. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
-        "logoLab":"imagenes/logoProveedores/induquimica.png" 
+        "existe":"no"
     },
     {
         "precio": "S/8.91",
@@ -38,7 +37,8 @@
         "linea_medicinal": "2. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si" 
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/induquimica.png" 
     },
     {
         "precio": "S/5.25",
