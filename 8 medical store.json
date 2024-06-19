@@ -117,7 +117,7 @@
         "linea_medicinal": "4. Línea Antibiótica",
         "tamaño_imagen": "3%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     },
     {
         "precio": "S/16.20",
