@@ -13,64 +13,6 @@
         "existe":"si",
         "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
-      {
-        "precio": "S/16.60",
-        "nombre": "DOLAMINE",
-        "descripcion": "Paracetamol 500mg",
-        "presentacion": "Caja x 100 Tabletas Recubiertas",
-        "imagen": "imagenes/tobal/tobal_portada.jpg",
-        "imagen_producto":"imagenes/tobal/productos/DOLAMINE.jpg",
-        "laboratorio": "TOBAL",
-        "linea_medicinal": "2. Línea Dolor Miorelajante",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-      
-      
-      {
-        "precio": "S/50.00",
-        "nombre": "DOLIBREX",
-        "descripcion": "Celecoxib 200mg",
-        "presentacion": "Caja x 100 Cápsulas",
-        "imagen": "imagenes/tobal/tobal_portada.jpg",
-        "imagen_producto":"imagenes/tobal/productos/DOLIBREX.jpg",
-        "laboratorio": "TOBAL",
-        "linea_medicinal": "2. Línea Miorelajante",
-        "tamaño_imagen": "auto",
-        "escala":"si",
-        "existe":"no"
-      },
-      
-      
-      {
-        "precio": "S/4.00",
-        "nombre": "DICLOFAST",
-        "descripcion": "Diclofenaco Sódico 75mg/3mLIM",
-        "presentacion": "Caja x 1 AmpOLLA",
-        "imagen": "imagenes/tobal/tobal_portada.jpg",
-        "imagen_producto":"imagenes/tobal/productos/DICLOFAST.jpg",
-        "laboratorio": "TOBAL",
-        "linea_medicinal": "2. Línea Dolor Miorelajante",
-        "tamaño_imagen": "1%",
-        "escala":"si",
-        "existe":"no"
-      },
-      {
-        "precio": "S/124.8",
-        "nombre": "FIXODOL PLUS",
-        "descripcion": "Paracetamol 300mg + Clorzoxazona 250mg",
-        "presentacion": "Caja x 100 COMPRIMIDOS RECUBIERTOS",
-        "imagen": "imagenes/tobal/tobal_portada.jpg",
-        "imagen_producto":"imagenes/tobal/productos/FIXODOL PLUS.jpg",
-        "laboratorio": "TOBAL",
-        "linea_medicinal": "2. Línea Dolor Miorelajante",
-        "tamaño_imagen": "auto",
-        "escala":"no",
-        "existe":"no"
-      },
-
-
 
 
       {
@@ -81,7 +23,7 @@
         "imagen": "imagenes/tobal/tobal_portada.jpg",
         "imagen_producto":"imagenes/tobal/productos/LIVERFAST.jpg",
         "laboratorio": "TOBAL",
-        "linea_medicinal": "3. Línea Antihistamínica",
+        "linea_medicinal": "2. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -95,7 +37,7 @@
         "imagen": "imagenes/tobal/tobal_portada.jpg",
         "imagen_producto":"imagenes/tobal/productos/ZECARDIX PLUS 40.jpg",
         "laboratorio": "TOBAL",
-        "linea_medicinal": "4. Línea Cardiológica",
+        "linea_medicinal": "3. Línea Cardiológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -108,7 +50,7 @@
         "imagen": "imagenes/tobal/tobal_portada.jpg",
         "imagen_producto":"imagenes/tobal/productos/ZECARDIX PLUS 80.jpg",
         "laboratorio": "TOBAL",
-        "linea_medicinal": "4. Línea Cardiológica",
+        "linea_medicinal": "3. Línea Cardiológica",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"si"
@@ -123,7 +65,7 @@
         "imagen": "imagenes/tobal/tobal_portada.jpg",
         "imagen_producto":"imagenes/tobal/productos/vixinor.jpg",
         "laboratorio": "TOBAL",
-        "linea_medicinal": "5. Línea Ginecológica",
+        "linea_medicinal": "4. Línea Ginecológica",
         "tamaño_imagen": "5%",
         "escala":"no",
         "existe":"no"
@@ -137,7 +79,7 @@
         "imagen": "imagenes/tobal/tobal_portada.jpg",
         "imagen_producto":"imagenes/tobal/productos/XEROXZANIDA SUSP.jpg",
         "laboratorio": "TOBAL",
-        "linea_medicinal": "6. Línea Antiparasitario",
+        "linea_medicinal": "5. Línea Antiparasitario",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
@@ -154,7 +96,64 @@
         "imagen": "imagenes/tobal/tobal_portada.jpg",
         "imagen_producto":"imagenes/tobal/productos/AB FLEXIL.jpg",
         "laboratorio": "TOBAL",
-        "linea_medicinal": "5. Línea Broncodilatadora y Espectorante",
+        "linea_medicinal": "6. Línea Broncodilatadora y Espectorante",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+
+      {
+        "precio": "S/16.60",
+        "nombre": "DOLAMINE",
+        "descripcion": "Paracetamol 500mg",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/tobal/tobal_portada.jpg",
+        "imagen_producto":"imagenes/tobal/productos/DOLAMINE.jpg",
+        "laboratorio": "TOBAL",
+        "linea_medicinal": "7. Línea Dolor Miorelajante",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"no"
+      },
+      
+      
+      {
+        "precio": "S/50.00",
+        "nombre": "DOLIBREX",
+        "descripcion": "Celecoxib 200mg",
+        "presentacion": "Caja x 100 Cápsulas",
+        "imagen": "imagenes/tobal/tobal_portada.jpg",
+        "imagen_producto":"imagenes/tobal/productos/DOLIBREX.jpg",
+        "laboratorio": "TOBAL",
+        "linea_medicinal": "7. Línea Dolor Miorelajante",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"no"
+      },
+      
+      
+      {
+        "precio": "S/4.00",
+        "nombre": "DICLOFAST",
+        "descripcion": "Diclofenaco Sódico 75mg/3mLIM",
+        "presentacion": "Caja x 1 AmpOLLA",
+        "imagen": "imagenes/tobal/tobal_portada.jpg",
+        "imagen_producto":"imagenes/tobal/productos/DICLOFAST.jpg",
+        "laboratorio": "TOBAL",
+        "linea_medicinal": "7. Línea Dolor Miorelajante",
+        "tamaño_imagen": "1%",
+        "escala":"si",
+        "existe":"no"
+      },
+      {
+        "precio": "S/124.8",
+        "nombre": "FIXODOL PLUS",
+        "descripcion": "Paracetamol 300mg + Clorzoxazona 250mg",
+        "presentacion": "Caja x 100 COMPRIMIDOS RECUBIERTOS",
+        "imagen": "imagenes/tobal/tobal_portada.jpg",
+        "imagen_producto":"imagenes/tobal/productos/FIXODOL PLUS.jpg",
+        "laboratorio": "TOBAL",
+        "linea_medicinal": "7. Línea Dolor Miorelajante",
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"

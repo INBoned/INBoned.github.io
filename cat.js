@@ -50,6 +50,7 @@ for (let i = 0; i < laboratorios.length; i++) {
             let logoLab;
         
             let fila = 0;
+            let contador = 0;
 
             data.forEach(producto => {
 
@@ -85,7 +86,9 @@ for (let i = 0; i < laboratorios.length; i++) {
                         let textLinea = document.createElement("div");
                         textLinea.className = "cintaLinea";
                         textLinea.setAttribute("data-linea", labActual);
-                        textLinea.textContent = lineaActual;
+                        contador++;
+                        lineaRecortada = lineaActual.substring(2);
+                        textLinea.textContent = contador+'. '+lineaRecortada;
                         linea.appendChild(textLinea);
 
                         fila = 0;
