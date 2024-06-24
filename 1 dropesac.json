@@ -234,7 +234,7 @@
     "linea_medicinal": "3. Línea Gastro",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"no"
+    "existe":"si"
   },
 
   {
@@ -341,7 +341,7 @@
     "linea_medicinal": "7. Línea Natural",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"no"
+    "existe":"si"
   },
   {
     "precio": "S/23.91",
@@ -668,7 +668,7 @@
     "linea_medicinal": "10. Línea Odontológica",
     "tamaño_imagen": "10%",
     "escala":"no",
-    "existe":"si"
+    "existe":"NO"
   },
   {
     "precio": "S/17.28",
