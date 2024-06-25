@@ -55,7 +55,7 @@
         "linea_medicinal": "2. Línea Antitusígeno Espectorante",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/induquimicaComercial.png" 
     },
 

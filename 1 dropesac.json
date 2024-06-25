@@ -341,7 +341,7 @@
     "linea_medicinal": "7. Línea Natural",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/23.91",
@@ -354,7 +354,7 @@
     "linea_medicinal": "7. Línea Natural",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/28.13",
@@ -551,7 +551,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/31.68",
@@ -629,7 +629,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "15%",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/43.46",
