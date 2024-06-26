@@ -50,7 +50,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/8.78",

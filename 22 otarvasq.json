@@ -10,7 +10,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "1%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/27.78",
@@ -37,7 +37,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/48.81",
@@ -156,6 +156,19 @@
         "linea_medicinal": "7. Línea Antibiótica",
         "tamaño_imagen": "10%",
         "escala":"si",
+        "existe":"si"
+      },
+      {
+        "precio": "S/78.75",
+        "nombre": "DALCYNVAX 600mg/4ml iv/im",
+        "descripcion": "CLINDAMICINA",
+        "presentacion": "Caja x 25 Ampolla",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/dalcynvax600.jpg",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "7. Línea Antibiótica",
+        "tamaño_imagen": "10%",
+        "escala":"no",
         "existe":"si"
       }
     ]
