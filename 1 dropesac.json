@@ -37,7 +37,7 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/15.45",
@@ -195,7 +195,7 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "70",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },  
   {
     "precio": "S/22.95",
@@ -300,7 +300,7 @@
     "linea_medicinal": "6. Línea Ginecológica",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/42.50",

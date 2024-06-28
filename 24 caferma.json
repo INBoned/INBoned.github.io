@@ -604,7 +604,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
@@ -761,7 +761,7 @@
         "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "10%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/113.39",
