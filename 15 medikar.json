@@ -27,17 +27,17 @@
         "existe":"no" 
       },
       {
-        "precio": "S/6.80",
-        "nombre": "CEFTROX-E",
-        "descripcion": "Ceftriaxona 1g",
+        "precio": "S/5.00",
+        "nombre": "CEFTRIXPORIN",
+        "descripcion": "Ceftriaxona 1g I.M",
         "presentacion": "Caja x 1 Amp + Lidocaina de 3.5mL",
         "imagen": "imagenes/medikar/medikar_portada.jpg",
-        "imagen_producto":"imagenes/medikar/productos/ceftrox e.jpg",
+        "imagen_producto":"imagenes/medikar/productos/ceftrixporin.jpg",
         "laboratorio": "MEDIKAR",
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/26.00",
