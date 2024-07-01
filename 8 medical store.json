@@ -25,7 +25,8 @@
         "linea_medicinal": "1. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/medical.png"
     },
     {
         "precio": "S/40.16",
