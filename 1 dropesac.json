@@ -115,7 +115,7 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "90",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   
   {
@@ -129,7 +129,7 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "100",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/50.70",
@@ -287,7 +287,7 @@
     "linea_medicinal": "5. Línea Antigripal",
     "tamaño_imagen": "1%",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/38.57",
@@ -447,7 +447,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/38.63",

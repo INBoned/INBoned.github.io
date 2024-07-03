@@ -11,7 +11,7 @@
         "linea_medicinal": "1. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no",
+        "existe":"si",
         "logoLab":"imagenes/logoProveedores/medical.png" 
     },
     {
@@ -91,7 +91,7 @@
         "linea_medicinal": "3. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
     },
 
     {
