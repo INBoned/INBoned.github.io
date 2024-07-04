@@ -11,7 +11,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no",
+        "existe":"si",
         "logoLab":"imagenes/logoProveedores/caferma.png"
       },
       {
@@ -25,7 +25,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no" 
+        "existe":"si" 
       },
       {
         "precio": "S/41.48",
@@ -157,7 +157,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/9.19",
@@ -196,7 +196,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/15.07",
@@ -236,7 +236,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/9.31",
@@ -302,7 +302,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       
       {
@@ -357,7 +357,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/60.58",
@@ -474,7 +474,7 @@
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/99.00",
@@ -592,7 +592,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/28.04",
@@ -645,7 +645,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "8%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/4.95",
@@ -697,7 +697,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/72.60",
@@ -762,7 +762,7 @@
         "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "10%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/113.39",
@@ -814,7 +814,7 @@
         "linea_medicinal": "12. Línea Gastro",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/83.31",
