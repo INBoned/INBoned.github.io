@@ -282,7 +282,7 @@
       {
         "precio": "S/15.61",
         "nombre": "VITALLERG",
-        "de,scripcion": "Desloratadina 2.5mg/5ml",
+        "descripcion": "Desloratadina 2.5mg/5ml",
         "presentacion": "Caja x 1 Frasco de 60mL SO",
         "imagen": "imagenes/labofar/labofar_portada.jpg",
         "imagen_producto":"imagenes/labofar/productos/vitallerg.jpg",
