@@ -24,7 +24,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/labofar.png" 
       },
       
       {
@@ -39,6 +40,21 @@
         "tamaño_imagen": "auto",
         "escala":"no",
         "existe":"no"
+      },
+
+      {
+        "precio": "S/72.50",
+        "nombre": "ZITROLAB",
+        "descripcion": "Azitromicina 500mg",
+        "presentacion": "Caja x 50 tab rec",
+        "imagen": "imagenes/labofar/labofar_portada.jpg",
+        "imagen_producto":"imagenes/labofar/productos/zitrolab.png",
+        "laboratorio": "LABOFAR",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/labofar.png" 
       },
       
       {

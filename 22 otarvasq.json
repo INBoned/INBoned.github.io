@@ -107,6 +107,32 @@
         "existe":"si"
       },
       {
+        "precio": "S/15.00",
+        "nombre": "atorvastatina 20mg",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/atorvastatina20.png",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "3. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/27.50",
+        "nombre": "atorvastatina 40mg",
+        "descripcion": "",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/atorvastatina40.png",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "3. Línea Metabólica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
         "precio": "S/44.65",
         "nombre": "SILDENAFILO 100MG",
         "descripcion": "",
@@ -134,6 +160,19 @@
         "existe":"no"
       },
       {
+        "precio": "S/1.90",
+        "nombre": "clotrimazol 1%",
+        "descripcion": "",
+        "presentacion": "Caja x 1 tubo(crema) x 20g",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/clotrimazol.png",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "5. Línea Antimicótica",
+        "tamaño_imagen": "15%",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
         "precio": "S/7.09",
         "nombre": "DIUREFUR",
         "descripcion": "FUROSEMIDA 20MG/2ML",
@@ -145,6 +184,19 @@
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"no"
+      },
+      {
+        "precio": "S/11.20",
+        "nombre": "furosemida 40mg",
+        "descripcion": "",
+        "presentacion": "Caja x 100 tabletas",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/furosemida.png",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "6. Línea Diurética",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
       },
       {
         "precio": "S/10.62",
@@ -166,6 +218,20 @@
         "presentacion": "Caja x 25 Ampolla",
         "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
         "imagen_producto":"imagenes/otarvasq/productos/dalcynvax600.jpg",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "7. Línea Antibiótica",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"si"
+      }
+      ,
+      {
+        "precio": "S/3.50",
+        "nombre": "ciprox",
+        "descripcion": "ciprofloxacino 200mg/100ml",
+        "presentacion": "fco x 100ml",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/ciprox.png",
         "laboratorio": "OTARVASQ",
         "linea_medicinal": "7. Línea Antibiótica",
         "tamaño_imagen": "10%",

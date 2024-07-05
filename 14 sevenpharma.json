@@ -119,6 +119,20 @@
         "tamaño_imagen": "12%",
         "escala":"no",
         "existe":"no"
+      },
+
+      {
+        "precio": "S/56.50",
+        "nombre": "levexyl",
+        "descripcion": "levetiracetam 1000mg",
+        "presentacion": "Caja x 30 tab rec",
+        "imagen": "imagenes/sevenpharma/sevenpharma_portada.jpg",
+        "imagen_producto":"imagenes/sevenpharma/productos/levexyl.png",
+        "laboratorio": "SEVEN PHARMA",
+        "linea_medicinal": "4. Línea Neuro",
+        "tamaño_imagen": "12%",
+        "escala":"no",
+        "existe":"si"
       }
 
     ]
