@@ -78,7 +78,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       
       
@@ -159,6 +159,6 @@
         "linea_medicinal": "5. Línea antihistaminicos",
         "tamaño_imagen": "12%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       }
     ]
