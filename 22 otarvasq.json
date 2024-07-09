@@ -24,7 +24,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "1%",
         "escala":"no",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/OTARVASQ.png"
       },
       {
@@ -208,7 +208,7 @@
         "laboratorio": "OTARVASQ",
         "linea_medicinal": "7. Línea Antibiótica",
         "tamaño_imagen": "10%",
-        "escala":"si",
+        "escala":"no",
         "existe":"si"
       },
       {

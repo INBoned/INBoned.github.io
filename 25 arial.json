@@ -10,7 +10,7 @@
       "linea_medicinal": "1. Línea Protección",
       "tamaño_imagen": "auto",
       "escala":"no",
-      "existe":"si",
+      "existe":"no",
       "logoLab":"imagenes/logoProveedores/arial.png" 
     },
     {
@@ -24,6 +24,6 @@
         "linea_medicinal": "1. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       }
 ]
