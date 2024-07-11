@@ -49,7 +49,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/perufar.png" 
       },
       {
