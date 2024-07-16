@@ -79,6 +79,19 @@
         "escala":"no",
         "existe":"si"
       },
+      {
+        "precio": "S/27.62",
+        "nombre": "Analgyn",
+        "descripcion": "metamizol sodico 1g/2ml IM-IV",
+        "presentacion": "Caja x 25 Amp.",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/analgyn.png",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "1. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
       
       {
         "precio": "S/24.00",
