@@ -25,6 +25,7 @@
     "linea_medicinal": "2. Línea Gastro",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si" 
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/rafimed.png"
     }
 ]

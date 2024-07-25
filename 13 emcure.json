@@ -25,7 +25,8 @@
         "linea_medicinal": "1. Línea Hematológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/emcure.png"
       },
       
       {
@@ -39,7 +40,8 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/emcure.png"
       },
       {
         "precio": "S/13.93",
@@ -52,7 +54,8 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/emcure.png"
       },
       {
         "precio": "S/51.87",
@@ -65,7 +68,8 @@
         "linea_medicinal": "3. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/emcure.png"
       },
       {
         "precio": "S/186.90",
@@ -78,7 +82,8 @@
         "linea_medicinal": "4. Línea Hematólogica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/emcure.png"
       },
       {
         "precio": "S/31.32",
@@ -91,6 +96,7 @@
         "linea_medicinal": "5. Línea Antihipertensiva",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/emcure.png"
       }
     ]

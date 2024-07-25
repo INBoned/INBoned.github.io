@@ -38,7 +38,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "10%",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       },
       {
         "precio": "S/104.98",
@@ -51,7 +52,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       },
       {
         "precio": "S/12.44",
@@ -64,7 +66,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       },
 
       {
@@ -78,7 +81,8 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       },
       
       {
@@ -92,7 +96,8 @@
         "linea_medicinal": "2. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       },
       {
         "precio": "S/32.50",
@@ -118,7 +123,8 @@
         "linea_medicinal": "4. Línea Broncodilatador",
         "tamaño_imagen": "12%",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       },
 
       {
@@ -132,7 +138,8 @@
         "linea_medicinal": "4. Línea Neuro",
         "tamaño_imagen": "12%",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/Seven.png" 
       }
 
     ]

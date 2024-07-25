@@ -66,6 +66,20 @@
         "escala":"si",
         "existe":"no"
       }, 
+      
+      {
+        "precio": "S/32.50",
+        "nombre": "dexacoyde",
+        "descripcion": "Dexametasona fosfato 4mg/ml",
+        "presentacion": "Caja x 50 ampollas",
+        "imagen": "imagenes/medikar/medikar_portada.jpg",
+        "imagen_producto":"imagenes/medikar/productos/dexacoyde.png",
+        "laboratorio": "MEDIKAR",
+        "linea_medicinal": "3. Línea Dolor",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      }, 
       {
         "precio": "S/75.00",
         "nombre": "INFLUEX-FORTE",

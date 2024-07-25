@@ -262,6 +262,19 @@
         "tamaño_imagen": "auto",
         "escala":"si",
         "existe":"si"
+    },
+    {
+        "precio": "S/22.80",
+        "nombre": "zepidona",
+        "descripcion": "risperidona 20mg",
+        "presentacion": "Caja x 100 Tabletas Recubiertas",
+        "imagen": "imagenes/medicalstore/medicalstore_portada.jpg",
+        "imagen_producto":"imagenes/medicalstore/productos/zepidona.png",
+        "laboratorio": "MEDICALSTORE",
+        "linea_medicinal": "12. Línea Antipsicóticos",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
     }
     
 ]

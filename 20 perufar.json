@@ -63,7 +63,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/perufar.png" 
       },
       {
         "precio": "S/10.75",
@@ -76,7 +77,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/perufar.png" 
       },
       {
         "precio": "S/19.42",
@@ -89,7 +91,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/perufar.png" 
       },
       {
         "precio": "S/4.75",
@@ -102,7 +105,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/perufar.png" 
       },
       {
         "precio": "S/11.00",
@@ -115,6 +119,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/perufar.png" 
       }
     ]

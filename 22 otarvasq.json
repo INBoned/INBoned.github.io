@@ -250,5 +250,44 @@
         "tamaño_imagen": "10%",
         "escala":"no",
         "existe":"si"
+      },
+      {
+        "precio": "S/2.40",
+        "nombre": "tenaflox",
+        "descripcion": "metronidazol 500mg/100ml",
+        "presentacion": "fco x 100ml",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/tenaflox.png",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "7. Línea Antibiótica",
+        "tamaño_imagen": "10%",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/13.10",
+        "nombre": "biolevf 750",
+        "descripcion": "levofloxacino 750 mg",
+        "presentacion": "caja x 5 tab rec",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/biolevf.png",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "7. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
+      },
+      {
+        "precio": "S/18.8",
+        "nombre": "ZIOx",
+        "descripcion": "n-butilbromuro de hioscina 200mg/ml",
+        "presentacion": "cja x 10 ampollas im/iv",
+        "imagen": "imagenes/otarvasq/otarvasq_portada.jpg",
+        "imagen_producto":"imagenes/otarvasq/productos/zion.png",
+        "laboratorio": "OTARVASQ",
+        "linea_medicinal": "8. Línea Antiespasmódica",
+        "tamaño_imagen": "auto",
+        "escala":"no",
+        "existe":"si"
       }
     ]

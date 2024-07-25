@@ -24,7 +24,8 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
     "precio": "S/42.08",
@@ -37,7 +38,8 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"no"
+    "existe":"no",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
     "precio": "S/15.45",
@@ -50,7 +52,8 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "10%",
     "escala":"no",
-    "existe":"si"
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
     "precio": "S/12.53",
@@ -63,7 +66,8 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "70",
     "escala":"si",
-    "existe":"no"
+    "existe":"no",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
     "precio": "S/18.89",
@@ -76,7 +80,8 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "100",
     "escala":"no",
-    "existe":"si"
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
     "precio": "S/6.25",
@@ -89,7 +94,8 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "100",
     "escala":"si",
-    "existe":"si"
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
     "precio": "S/15.94",
@@ -102,7 +108,8 @@
     "linea_medicinal": "2. Línea Dolor",
     "tamaño_imagen": "90",
     "escala":"no",
-    "existe":"si"
+    "existe":"si",
+    "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
     "precio": "S/35.06",
