@@ -36,7 +36,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "3%",
         "escala":"no",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/lyafarm.png"
       },
       {
@@ -50,7 +50,7 @@
         "linea_medicinal": "1. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/18.15",
@@ -259,7 +259,7 @@
         "linea_medicinal": "6. Línea Antimicótica",
         "tamaño_imagen": "2%",
         "escala":"si",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/54.00",

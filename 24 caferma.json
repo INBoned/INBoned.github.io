@@ -671,7 +671,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/35.94",
@@ -723,7 +723,7 @@
         "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/90.00",
