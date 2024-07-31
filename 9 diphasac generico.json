@@ -10,7 +10,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/diphasac.png"  
     },
     {
@@ -24,7 +24,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no" 
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/diphasac.png"  
     },
     {
         "precio": "S/25.00",
@@ -37,7 +38,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
     },
     {
         "precio": "S/42.80",
@@ -50,7 +52,8 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
     },
 
 
@@ -66,7 +69,8 @@
         "linea_medicinal": "2. Línea Miorelajante",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
     },
 
 
@@ -82,7 +86,8 @@
         "linea_medicinal": "3. Línea Gastro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
     },
 
     
@@ -97,7 +102,8 @@
         "linea_medicinal": "4. Línea Antiestamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
     },
 
 
@@ -114,7 +120,8 @@
         "linea_medicinal": "4. Línea Antiepiléctica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
     },
 
     {
@@ -142,7 +149,8 @@
         "linea_medicinal": "5. Línea Antibacteriano",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
     },
     {
         "precio": "S/5.40",
@@ -155,6 +163,7 @@
         "linea_medicinal": "6. Línea Antiestamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/diphasac.png" 
     }
 ]

@@ -121,7 +121,7 @@
         "linea_medicinal": "2. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/6.62",
@@ -186,7 +186,7 @@
         "linea_medicinal": "3. Línea Mucolítico Expectorante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       }, 
       {
       "precio": "S/10.62",

@@ -316,7 +316,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/37.19",
@@ -357,7 +357,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/60.58",
@@ -697,7 +697,7 @@
         "linea_medicinal": "8. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/72.60",
@@ -736,7 +736,7 @@
         "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "1%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/67.46",
@@ -762,7 +762,7 @@
         "linea_medicinal": "9. Línea OTC",
         "tamaño_imagen": "10%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/113.39",

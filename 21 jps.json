@@ -28,6 +28,20 @@
       },
 
       {
+        "precio": "S/7.60",
+        "nombre": "AMOXICILINA 500MG + ACIDO CLAVULANICO 125MG",
+        "descripcion": "",
+        "presentacion": "Caja x 10 Tabletas Recubiertas",
+        "imagen": "imagenes/jps/jps_portada.jpg",
+        "imagen_producto":"imagenes/jps/productos/amoxicilinaTabletaJPS.png",
+        "laboratorio": "JPS",
+        "linea_medicinal": "1. Línea Antibiótica",
+        "tamaño_imagen": "auto",
+        "escala":"si",
+        "existe":"si"
+      },
+
+      {
         "precio": "S/3.50",
         "nombre": "XIMALAC",
         "descripcion": "Amoxicilina 250mg",

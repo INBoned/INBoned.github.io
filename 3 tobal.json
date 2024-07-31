@@ -10,7 +10,7 @@
         "linea_medicinal": "1. Línea Antibiotica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
 
@@ -26,7 +26,8 @@
         "linea_medicinal": "2. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
 
       {
@@ -40,7 +41,8 @@
         "linea_medicinal": "3. Línea Cardiológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
       {
         "precio": "S/39.60",
@@ -53,7 +55,8 @@
         "linea_medicinal": "3. Línea Cardiológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"si",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
 
 
@@ -68,7 +71,8 @@
         "linea_medicinal": "4. Línea Ginecológica",
         "tamaño_imagen": "5%",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
 
       {
@@ -82,7 +86,8 @@
         "linea_medicinal": "5. Línea Antiparasitario",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
 
 
@@ -99,7 +104,8 @@
         "linea_medicinal": "6. Línea Broncodilatadora y Espectorante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
 
       {
@@ -113,7 +119,8 @@
         "linea_medicinal": "7. Línea Dolor Miorelajante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
       
       
@@ -128,7 +135,8 @@
         "linea_medicinal": "7. Línea Dolor Miorelajante",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
       
       
@@ -143,7 +151,8 @@
         "linea_medicinal": "7. Línea Dolor Miorelajante",
         "tamaño_imagen": "1%",
         "escala":"si",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       },
       {
         "precio": "S/124.8",
@@ -156,6 +165,7 @@
         "linea_medicinal": "7. Línea Dolor Miorelajante",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"no",
+        "logoLab":"imagenes/logoProveedores/Tobal.png"
       }
 ]
