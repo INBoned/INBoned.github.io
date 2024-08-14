@@ -80,7 +80,7 @@
     "linea_medicinal": "1. Línea Antibiótica",
     "tamaño_imagen": "100",
     "escala":"no",
-    "existe":"si",
+    "existe":"no",
     "logoLab":"imagenes/logoProveedores/dropesac.png"
   },
   {
@@ -294,7 +294,7 @@
     "linea_medicinal": "5. Línea Antigripal",
     "tamaño_imagen": "1%",
     "escala":"si",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/38.57",
@@ -532,7 +532,7 @@
     "linea_medicinal": "8. Línea Vitaminas",
     "tamaño_imagen": "auto",
     "escala":"no",
-    "existe":"si"
+    "existe":"no"
   },
   {
     "precio": "S/47.29",
