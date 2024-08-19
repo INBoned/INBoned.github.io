@@ -11,7 +11,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/caferma.png"
       },
       {
@@ -78,7 +78,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "0%",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       }, 
       {
         "precio": "S/74.80",
@@ -144,7 +144,7 @@
         "linea_medicinal": "1. Línea Dolor",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/241.56",
@@ -196,7 +196,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/15.07",
@@ -329,7 +329,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       
       {
@@ -383,7 +383,7 @@
         "linea_medicinal": "3. Línea Metabólica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/72.88",
@@ -474,7 +474,7 @@
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/99.00",
@@ -500,7 +500,7 @@
         "linea_medicinal": "4. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/70.79",
@@ -553,7 +553,7 @@
         "linea_medicinal": "5. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/24.65",
@@ -579,7 +579,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"si",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/31.93",
@@ -645,7 +645,7 @@
         "linea_medicinal": "7. Línea Antimicótica",
         "tamaño_imagen": "8%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/4.95",
