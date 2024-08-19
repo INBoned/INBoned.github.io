@@ -96,7 +96,7 @@
         "linea_medicinal": "5. Línea Antihipertensiva",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/emcure.png"
       }
     ]

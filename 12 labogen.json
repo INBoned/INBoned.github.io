@@ -90,7 +90,7 @@
         "linea_medicinal": "4. Línea Dolor y Antiespasmódica",
         "tamaño_imagen": "12%",
         "escala":"no",
-        "existe":"si",
+        "existe":"no",
         "logoLab":"imagenes/logoProveedores/LABOGEN.png"
       },
       {
@@ -104,7 +104,7 @@
         "linea_medicinal": "4. Línea Dolor y Antiespasmódica",
         "tamaño_imagen": "12%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/40.00",
@@ -223,6 +223,6 @@
         "linea_medicinal": "1. Línea Cardio",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       }
     ]
