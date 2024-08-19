@@ -23,7 +23,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no",
+        "existe":"si",
         "logoLab":"imagenes/logoProveedores/LABOGEN.png"
       },
       {
@@ -37,7 +37,7 @@
         "linea_medicinal": "2. Línea Antibiótica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
 
       {
@@ -51,7 +51,7 @@
         "linea_medicinal": "3. Línea Antihistamínico",
         "tamaño_imagen": "10%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/36.25",
@@ -77,7 +77,7 @@
         "linea_medicinal": "4. Línea Dolor y Antiespasmódica",
         "tamaño_imagen": "12%",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/36.25",
@@ -117,7 +117,7 @@
         "linea_medicinal": "5. Línea Mucolítica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/43.00",
@@ -184,7 +184,7 @@
         "linea_medicinal": "8. Línea Neurológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/35.00",
@@ -210,7 +210,7 @@
         "linea_medicinal": "1. Línea Cardio",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"no"
+        "existe":"si"
       },
       {
         "precio": "S/11.30",
