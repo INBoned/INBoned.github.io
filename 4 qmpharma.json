@@ -252,7 +252,7 @@
         "linea_medicinal": "4. Línea Urológica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/172.55",
@@ -371,7 +371,7 @@
         "linea_medicinal": "6. Línea Antihistamínica",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       },
       {
         "precio": "S/29.50",
@@ -468,6 +468,6 @@
         "linea_medicinal": "10. Línea Neuro",
         "tamaño_imagen": "auto",
         "escala":"no",
-        "existe":"si"
+        "existe":"no"
       }
 ]
